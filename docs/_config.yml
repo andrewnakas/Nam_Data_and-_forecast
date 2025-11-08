@@ -1,5 +1,7 @@
 # GitHub Pages Configuration
-# Note: This is for Jekyll, but we're using a static site
+
+# Disable Jekyll processing - we're using plain HTML
+theme: null
 
 # Exclude these files from the build
 exclude:
