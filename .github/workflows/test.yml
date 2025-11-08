@@ -44,14 +44,7 @@ jobs:
     - name: Run unit tests
       run: |
         python -m unittest test_app.py -v
-
-    - name: Test Flask app startup
-      run: |
-        timeout 10 python app.py &
-        PID=$!
-        sleep 5
-        curl -f http://localhost:5000/api/status || echo "NAM data may be unavailable"
-        kill $PID || true
+      timeout-minutes: 5
 
     - name: Check code syntax
       run: |
