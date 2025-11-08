@@ -72,7 +72,7 @@ def convert_to_app_format(location, forecast_data):
         'hourly_data': []
     }
 
-    for i, period in enumerate(periods[:72]):  # Up to 72 hours
+    for i, period in enumerate(periods):  # Fetch all available hours (typically ~156 hours)
         # Parse wind speed (format: "10 mph" or "5 to 10 mph")
         wind_str = period.get('windSpeed', '0 mph')
         try:
@@ -174,7 +174,7 @@ def convert_to_app_format(location, forecast_data):
 
 def fetch_all_locations():
     """Fetch weather data for all preset locations"""
-    data_dir = Path(__file__).parent / "docs" / "data"
+    data_dir = Path(__file__).parent / "data"
     data_dir.mkdir(parents=True, exist_ok=True)
 
     results = {

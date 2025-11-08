@@ -1,125 +1,125 @@
 {
-  "last_updated": "2025-11-08T22:54:05.716279+00:00",
+  "last_updated": "2025-11-08T23:24:24.865146+00:00",
   "locations": [
     {
       "name": "New York, NY",
       "lat": 40.7128,
       "lon": -74.006,
       "filename": "new_york-ny.json",
-      "data_points": 72,
-      "model_run": "2025-11-08T22:54:07.345667+00:00"
+      "data_points": 156,
+      "model_run": "2025-11-08T23:24:25.909780+00:00"
     },
     {
       "name": "Los Angeles, CA",
       "lat": 34.0522,
       "lon": -118.2437,
       "filename": "los_angeles-ca.json",
-      "data_points": 72,
-      "model_run": "2025-11-08T22:54:08.701926+00:00"
+      "data_points": 156,
+      "model_run": "2025-11-08T23:24:27.536603+00:00"
     },
     {
       "name": "Chicago, IL",
       "lat": 41.8781,
       "lon": -87.6298,
       "filename": "chicago-il.json",
-      "data_points": 72,
-      "model_run": "2025-11-08T22:54:09.790879+00:00"
+      "data_points": 156,
+      "model_run": "2025-11-08T23:24:28.521490+00:00"
     },
     {
       "name": "Houston, TX",
       "lat": 29.7604,
       "lon": -95.3698,
       "filename": "houston-tx.json",
-      "data_points": 72,
-      "model_run": "2025-11-08T22:54:10.779059+00:00"
+      "data_points": 156,
+      "model_run": "2025-11-08T23:24:29.641922+00:00"
     },
     {
       "name": "Phoenix, AZ",
       "lat": 33.4484,
       "lon": -112.074,
       "filename": "phoenix-az.json",
-      "data_points": 72,
-      "model_run": "2025-11-08T22:54:13.314217+00:00"
+      "data_points": 156,
+      "model_run": "2025-11-08T23:24:31.150094+00:00"
     },
     {
       "name": "Philadelphia, PA",
       "lat": 39.9526,
       "lon": -75.1652,
       "filename": "philadelphia-pa.json",
-      "data_points": 72,
-      "model_run": "2025-11-08T22:54:14.903156+00:00"
+      "data_points": 156,
+      "model_run": "2025-11-08T23:24:31.962791+00:00"
     },
     {
       "name": "San Antonio, TX",
       "lat": 29.4241,
       "lon": -98.4936,
       "filename": "san_antonio-tx.json",
-      "data_points": 72,
-      "model_run": "2025-11-08T22:54:16.487165+00:00"
+      "data_points": 156,
+      "model_run": "2025-11-08T23:24:33.100013+00:00"
     },
     {
       "name": "San Diego, CA",
       "lat": 32.7157,
       "lon": -117.1611,
       "filename": "san_diego-ca.json",
-      "data_points": 72,
-      "model_run": "2025-11-08T22:54:17.533569+00:00"
+      "data_points": 156,
+      "model_run": "2025-11-08T23:24:34.217785+00:00"
     },
     {
       "name": "Dallas, TX",
       "lat": 32.7767,
       "lon": -96.797,
       "filename": "dallas-tx.json",
-      "data_points": 72,
-      "model_run": "2025-11-08T22:54:18.832091+00:00"
+      "data_points": 156,
+      "model_run": "2025-11-08T23:24:37.308110+00:00"
     },
     {
       "name": "Denver, CO",
       "lat": 39.7392,
       "lon": -104.9903,
       "filename": "denver-co.json",
-      "data_points": 72,
-      "model_run": "2025-11-08T22:54:20.096523+00:00"
+      "data_points": 156,
+      "model_run": "2025-11-08T23:24:38.101645+00:00"
     },
     {
       "name": "Seattle, WA",
       "lat": 47.6062,
       "lon": -122.3321,
       "filename": "seattle-wa.json",
-      "data_points": 72,
-      "model_run": "2025-11-08T22:54:21.323387+00:00"
+      "data_points": 156,
+      "model_run": "2025-11-08T23:24:38.976392+00:00"
     },
     {
       "name": "Miami, FL",
       "lat": 25.7617,
       "lon": -80.1918,
       "filename": "miami-fl.json",
-      "data_points": 72,
-      "model_run": "2025-11-08T22:54:22.383081+00:00"
+      "data_points": 156,
+      "model_run": "2025-11-08T23:24:40.031664+00:00"
     },
     {
       "name": "Atlanta, GA",
       "lat": 33.749,
       "lon": -84.388,
       "filename": "atlanta-ga.json",
-      "data_points": 72,
-      "model_run": "2025-11-08T22:54:23.837724+00:00"
+      "data_points": 156,
+      "model_run": "2025-11-08T23:24:41.337900+00:00"
     },
     {
       "name": "Boston, MA",
       "lat": 42.3601,
       "lon": -71.0589,
       "filename": "boston-ma.json",
-      "data_points": 72,
-      "model_run": "2025-11-08T22:54:25.026335+00:00"
+      "data_points": 156,
+      "model_run": "2025-11-08T23:24:42.208048+00:00"
     },
     {
       "name": "Detroit, MI",
       "lat": 42.3314,
       "lon": -83.0458,
       "filename": "detroit-mi.json",
-      "data_points": 72,
-      "model_run": "2025-11-08T22:54:25.806820+00:00"
+      "data_points": 156,
+      "model_run": "2025-11-08T23:24:43.162549+00:00"
     }
   ],
   "status": "success"
