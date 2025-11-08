@@ -3,8 +3,7 @@ let forecastData = null;
 let locationIndex = null;
 let charts = {
     temp: null,
-    wind: null,
-    precip: null
+    wind: null
 };
 
 // Load location index on page load
@@ -266,7 +265,6 @@ function updateCharts() {
 
     // Precipitation chart
     const precip = forecastData.hourly_data.map(h => h.surface.precipitation || h.surface.precipitation_rate || null);
-    updatePrecipChart(labels, precip);
 }
 
 function updateTempChart(labels, dataC, dataF) {
@@ -387,7 +385,6 @@ function updateWindChart(labels, dataMs, dataMph) {
     });
 }
 
-function updatePrecipChart(labels, data) {
     const ctx = document.getElementById('precipChart').getContext('2d');
 
     if (charts.precip) {
