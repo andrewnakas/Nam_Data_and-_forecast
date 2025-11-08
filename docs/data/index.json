@@ -1,95 +1,123 @@
 {
-  "last_updated": "2025-11-08T20:42:41.265116Z",
+  "last_updated": "2025-11-08T21:27:52.175552+00:00",
   "locations": [
     {
       "name": "New York, NY",
       "lat": 40.7128,
       "lon": -74.006,
-      "error": "Could not find valid NAM dataset"
+      "error": "Failed to fetch forecast data"
     },
     {
       "name": "Los Angeles, CA",
       "lat": 34.0522,
       "lon": -118.2437,
-      "error": "Could not find valid NAM dataset"
+      "filename": "los_angeles-ca.json",
+      "data_points": 72,
+      "model_run": "2025-11-08T21:28:04.286441+00:00"
     },
     {
       "name": "Chicago, IL",
       "lat": 41.8781,
       "lon": -87.6298,
-      "error": "Could not find valid NAM dataset"
+      "filename": "chicago-il.json",
+      "data_points": 72,
+      "model_run": "2025-11-08T21:28:06.211044+00:00"
     },
     {
       "name": "Houston, TX",
       "lat": 29.7604,
       "lon": -95.3698,
-      "error": "Could not find valid NAM dataset"
+      "filename": "houston-tx.json",
+      "data_points": 72,
+      "model_run": "2025-11-08T21:28:07.957077+00:00"
     },
     {
       "name": "Phoenix, AZ",
       "lat": 33.4484,
       "lon": -112.074,
-      "error": "Could not find valid NAM dataset"
+      "filename": "phoenix-az.json",
+      "data_points": 72,
+      "model_run": "2025-11-08T21:28:09.588793+00:00"
     },
     {
       "name": "Philadelphia, PA",
       "lat": 39.9526,
       "lon": -75.1652,
-      "error": "Could not find valid NAM dataset"
+      "filename": "philadelphia-pa.json",
+      "data_points": 72,
+      "model_run": "2025-11-08T21:28:11.208162+00:00"
     },
     {
       "name": "San Antonio, TX",
       "lat": 29.4241,
       "lon": -98.4936,
-      "error": "Could not find valid NAM dataset"
+      "filename": "san_antonio-tx.json",
+      "data_points": 72,
+      "model_run": "2025-11-08T21:28:13.432997+00:00"
     },
     {
       "name": "San Diego, CA",
       "lat": 32.7157,
       "lon": -117.1611,
-      "error": "Could not find valid NAM dataset"
+      "filename": "san_diego-ca.json",
+      "data_points": 72,
+      "model_run": "2025-11-08T21:28:17.698910+00:00"
     },
     {
       "name": "Dallas, TX",
       "lat": 32.7767,
       "lon": -96.797,
-      "error": "Could not find valid NAM dataset"
+      "filename": "dallas-tx.json",
+      "data_points": 72,
+      "model_run": "2025-11-08T21:28:19.788230+00:00"
     },
     {
       "name": "Denver, CO",
       "lat": 39.7392,
       "lon": -104.9903,
-      "error": "Could not find valid NAM dataset"
+      "filename": "denver-co.json",
+      "data_points": 72,
+      "model_run": "2025-11-08T21:28:21.502212+00:00"
     },
     {
       "name": "Seattle, WA",
       "lat": 47.6062,
       "lon": -122.3321,
-      "error": "Could not find valid NAM dataset"
+      "filename": "seattle-wa.json",
+      "data_points": 72,
+      "model_run": "2025-11-08T21:28:24.372147+00:00"
     },
     {
       "name": "Miami, FL",
       "lat": 25.7617,
       "lon": -80.1918,
-      "error": "Could not find valid NAM dataset"
+      "filename": "miami-fl.json",
+      "data_points": 72,
+      "model_run": "2025-11-08T21:28:33.558465+00:00"
     },
     {
       "name": "Atlanta, GA",
       "lat": 33.749,
       "lon": -84.388,
-      "error": "Could not find valid NAM dataset"
+      "filename": "atlanta-ga.json",
+      "data_points": 72,
+      "model_run": "2025-11-08T21:28:35.364691+00:00"
     },
     {
       "name": "Boston, MA",
       "lat": 42.3601,
       "lon": -71.0589,
-      "error": "Could not find valid NAM dataset"
+      "filename": "boston-ma.json",
+      "data_points": 72,
+      "model_run": "2025-11-08T21:28:38.034207+00:00"
     },
     {
       "name": "Detroit, MI",
       "lat": 42.3314,
       "lon": -83.0458,
-      "error": "Could not find valid NAM dataset"
+      "filename": "detroit-mi.json",
+      "data_points": 72,
+      "model_run": "2025-11-08T21:28:39.854447+00:00"
     }
   ],
   "status": "success"
