@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NAM Weather Forecast Viewer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>NAM Weather Forecast Viewer</h1>
+            <p class="subtitle">North American Mesoscale Model - 3-Day Hourly Forecast</p>
+        </header>
+
+        <div class="controls">
+            <div class="input-group">
+                <label for="latitude">Latitude:</label>
+                <input type="number" id="latitude" value="40.7128" step="0.0001" min="-90" max="90">
+            </div>
+            <div class="input-group">
+                <label for="longitude">Longitude:</label>
+                <input type="number" id="longitude" value="-74.0060" step="0.0001" min="-180" max="180">
+            </div>
+            <div class="input-group">
+                <label for="hours">Forecast Hours:</label>
+                <select id="hours">
+                    <option value="24">24 hours (1 day)</option>
+                    <option value="48">48 hours (2 days)</option>
+                    <option value="72" selected>72 hours (3 days)</option>
+                </select>
+            </div>
+            <button id="fetchButton" onclick="fetchForecast()">Get Forecast</button>
+        </div>
+
+        <div class="presets">
+            <p>Quick locations:</p>
+            <button onclick="setLocation(40.7128, -74.0060)">New York</button>
+            <button onclick="setLocation(34.0522, -118.2437)">Los Angeles</button>
+            <button onclick="setLocation(41.8781, -87.6298)">Chicago</button>
+            <button onclick="setLocation(29.7604, -95.3698)">Houston</button>
+            <button onclick="setLocation(39.7392, -104.9903)">Denver</button>
+        </div>
+
+        <div id="status" class="status"></div>
+        <div id="loading" class="loading" style="display: none;">
+            <div class="spinner"></div>
+            <p>Loading NAM forecast data...</p>
+        </div>
+
+        <div id="modelInfo" class="model-info" style="display: none;"></div>
+
+        <div id="results" class="results">
+            <!-- Surface Data Tab -->
+            <div class="tabs">
+                <button class="tab-button active" onclick="showTab('surface')">Surface Data</button>
+                <button class="tab-button" onclick="showTab('levels')">Pressure Levels</button>
+                <button class="tab-button" onclick="showTab('charts')">Charts</button>
+            </div>
+
+            <div id="surface" class="tab-content active">
+                <h2>Surface Weather Data</h2>
+                <div id="surfaceData"></div>
+            </div>
+
+            <div id="levels" class="tab-content">
+                <h2>Pressure Level Data</h2>
+                <div class="level-selector">
+                    <label>Select Pressure Level:</label>
+                    <select id="levelSelect" onchange="updateLevelDisplay()">
+                        <option value="1000mb">1000 mb (Surface)</option>
+                        <option value="925mb">925 mb (~750m)</option>
+                        <option value="850mb" selected>850 mb (~1500m)</option>
+                        <option value="700mb">700 mb (~3000m)</option>
+                        <option value="500mb">500 mb (~5500m)</option>
+                        <option value="300mb">300 mb (~9000m)</option>
+                        <option value="250mb">250 mb (~10500m)</option>
+                    </select>
+                </div>
+                <div id="levelData"></div>
+            </div>
+
+            <div id="charts" class="tab-content">
+                <h2>Forecast Charts</h2>
+                <canvas id="tempChart"></canvas>
+                <canvas id="windChart"></canvas>
+                <canvas id="precipChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>
