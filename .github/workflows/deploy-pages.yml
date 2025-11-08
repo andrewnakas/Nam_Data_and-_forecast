@@ -1,4 +1,4 @@
-name: Fetch NAM Data and Deploy to GitHub Pages
+name: Deploy to GitHub Pages
 
 on:
   # Run every 6 hours (NAM updates at 00, 06, 12, 18 UTC)
@@ -6,19 +6,24 @@ on:
     - cron: '0 */6 * * *'
   # Allow manual trigger
   workflow_dispatch:
-  # Run on push to main
+  # Run on push to main branches
   push:
-    branches: [ main, master ]
+    branches: [ main, master, 'claude/**' ]
 
 permissions:
   contents: write
   pages: write
   id-token: write
 
-jobs:
-  fetch-and-deploy:
-    runs-on: ubuntu-latest
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
+jobs:
+  # Job 1: Fetch NAM data
+  fetch-data:
+    runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
@@ -41,6 +46,7 @@ jobs:
     - name: Fetch NAM data for preset locations
       run: |
         python fetch_data.py
+      timeout-minutes: 10
       continue-on-error: true
 
     - name: Commit data files
@@ -48,9 +54,26 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add docs/data/*.json || true
-        git diff --staged --quiet || git commit -m "Update NAM forecast data - $(date -u +"%Y-%m-%d %H:%M UTC")"
-        git push || true
+        if ! git diff --staged --quiet; then
+          git commit -m "Update NAM forecast data - $(date -u +"%Y-%m-%d %H:%M UTC")"
+          git push
+        else
+          echo "No changes to commit"
+        fi
       continue-on-error: true
+
+  # Job 2: Deploy to GitHub Pages
+  deploy:
+    needs: fetch-data
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        ref: ${{ github.ref }}
 
     - name: Setup Pages
       uses: actions/configure-pages@v4
