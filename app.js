@@ -262,9 +262,6 @@ function updateCharts() {
     const windMs = forecastData.hourly_data.map(h => h.surface.wind_speed_10m || null);
     const windMph = windMs.map(w => w !== null ? (w * 2.23694) : null);
     updateWindChart(labels, windMs, windMph);
-
-    // Precipitation chart
-    const precip = forecastData.hourly_data.map(h => h.surface.precipitation || h.surface.precipitation_rate || null);
 }
 
 function updateTempChart(labels, dataC, dataF) {
@@ -384,12 +381,3 @@ function updateWindChart(labels, dataMs, dataMph) {
         }
     });
 }
-
-// Check API status on load
-window.addEventListener('load', async () => {
-    try {
-        await loadLocationIndex();
-    } catch (error) {
-        console.error('Error loading location index:', error);
-    }
-});
