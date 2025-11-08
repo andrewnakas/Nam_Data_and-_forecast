@@ -1,0 +1,8 @@
+# GitHub Pages Configuration
+# Note: This is for Jekyll, but we're using a static site
+
+# Exclude these files from the build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

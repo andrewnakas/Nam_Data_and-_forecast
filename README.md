@@ -117,9 +117,42 @@ The workflow tests:
 
 ## Deployment
 
-**Important**: This app requires a Python backend and **cannot** be deployed to GitHub Pages.
+This project includes **TWO deployment options**:
 
-For deployment instructions to platforms like Railway, Render, Heroku, AWS, Google Cloud, and more, see [DEPLOYMENT.md](DEPLOYMENT.md).
+### Option 1: GitHub Pages (Static Version) - 100% FREE! ⭐
+
+**Best for:** Most users who want a working app with no cost or server management
+
+A fully static version that runs entirely on GitHub infrastructure:
+- ✅ **FREE** hosting on GitHub Pages
+- ✅ Automatic data updates every 6 hours via GitHub Actions
+- ✅ No server management needed
+- ✅ 15 preset U.S. cities
+- ❌ Cannot query arbitrary coordinates
+- ❌ 6-hour update delay
+
+**Setup:** See detailed instructions in [GITHUB_PAGES_SETUP.md](GITHUB_PAGES_SETUP.md)
+
+**Quick Start:**
+1. Enable GitHub Pages in Settings → Pages → Deploy from `/docs` folder
+2. Enable GitHub Actions with write permissions
+3. Manually trigger "Fetch NAM Data and Deploy to GitHub Pages" workflow
+4. Visit `https://{username}.github.io/{repo-name}/`
+
+### Option 2: Full Backend Version (Flask Server)
+
+**Best for:** Power users who need real-time data for any location
+
+Deploy the full Python backend to get:
+- ✅ Any lat/lon coordinates supported
+- ✅ Real-time data fetching
+- ✅ More flexible
+- ❌ Requires paid hosting
+- ❌ Server management needed
+
+**Platforms:** Railway, Render, Heroku, AWS, Google Cloud, and more
+
+**Setup:** See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed instructions
 
 Quick options:
 - **Railway** (recommended): Auto-deploys from GitHub with zero config
@@ -148,25 +181,37 @@ If you encounter issues installing netCDF4:
 
 ```
 .
-├── app.py                 # Flask backend server
-├── test_app.py           # Unit tests
-├── health_check.py       # Health check script
-├── requirements.txt       # Python dependencies
-├── runtime.txt           # Python version for Heroku
-├── Procfile              # Process file for deployment
-├── run.sh                # Startup script
-├── README.md             # This file
-├── DEPLOYMENT.md         # Deployment guide
+├── app.py                      # Flask backend server
+├── fetch_data.py               # Data fetcher for GitHub Pages
+├── test_app.py                 # Unit tests
+├── health_check.py             # Health check script
+├── requirements.txt            # Python dependencies
+├── runtime.txt                 # Python version for Heroku
+├── Procfile                    # Process file for deployment
+├── run.sh                      # Startup script
+├── README.md                   # This file
+├── DEPLOYMENT.md               # Full backend deployment guide
+├── GITHUB_PAGES_SETUP.md       # GitHub Pages setup guide
 ├── .github/
 │   └── workflows/
-│       └── test.yml      # GitHub Actions workflow
-├── templates/
-│   └── index.html        # Main HTML page
-└── static/
+│       ├── test.yml            # Unit testing workflow
+│       └── deploy-pages.yml    # GitHub Pages deployment workflow
+├── docs/                       # GitHub Pages static site
+│   ├── index.html              # Static main page
+│   ├── app.js                  # Static frontend JS
+│   ├── style.css               # Static styles
+│   ├── _config.yml             # Jekyll config
+│   ├── README.md               # Pages documentation
+│   └── data/
+│       ├── index.json          # City index (auto-generated)
+│       └── *.json              # City forecast files (auto-generated)
+├── templates/                  # Flask backend templates
+│   └── index.html              # Backend main page
+└── static/                     # Flask backend static files
     ├── css/
-    │   └── style.css     # Styles
+    │   └── style.css
     └── js/
-        └── app.js        # Frontend JavaScript
+        └── app.js
 ```
 
 ## License
