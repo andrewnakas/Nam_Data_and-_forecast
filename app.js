@@ -385,39 +385,12 @@ function updateWindChart(labels, dataMs, dataMph) {
     });
 }
     if (charts.precip) {
-        charts.precip.destroy();
-    }
 
-    charts.precip = new Chart(ctx, {
-        type: 'bar',
-        data: {
-            labels: labels,
-            datasets: [{
-                label: 'Precipitation (mm)',
-                data: data,
-                backgroundColor: 'rgba(75, 192, 192, 0.6)',
-                borderColor: 'rgb(75, 192, 192)',
-                borderWidth: 1
-            }]
-        },
-        options: {
-            responsive: true,
-            plugins: {
-                title: {
-                    display: true,
-                    text: 'Precipitation Forecast',
-                    font: { size: 16 }
-                }
-            },
-            scales: {
-                y: {
-                    title: { display: true, text: 'Precipitation (mm)' },
-                    beginAtZero: true
-                },
-                x: {
-                    title: { display: true, text: 'Forecast Time (UTC)' }
-                }
-            }
-        }
-    });
-}
+// Check API status on load
+window.addEventListener('load', async () => {
+    try {
+        await loadLocationIndex();
+    } catch (error) {
+        console.error('Error loading location index:', error);
+    }
+});
