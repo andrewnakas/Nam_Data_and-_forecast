@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NAM Weather Forecast Viewer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>NAM Weather Forecast Viewer</h1>
+            <p class="subtitle">North American Mesoscale Model - 3-Day Hourly Forecast</p>
+            <p class="info-badge">Static GitHub Pages Version - Updated Every 6 Hours</p>
+        </header>
+
+        <div class="controls">
+            <div class="input-group">
+                <label for="locationSelect">Select Location:</label>
+                <select id="locationSelect" onchange="loadLocationData()">
+                    <option value="">-- Select a City --</option>
+                </select>
+            </div>
+            <button id="refreshButton" onclick="refreshData()">Refresh Data</button>
+        </div>
+
+        <div id="status" class="status"></div>
+        <div id="loading" class="loading" style="display: none;">
+            <div class="spinner"></div>
+            <p>Loading forecast data...</p>
+        </div>
+
+        <div id="modelInfo" class="model-info" style="display: none;"></div>
+
+        <div id="results" class="results" style="display: none;">
+            <div class="tabs">
+                <button class="tab-button active" onclick="showTab('surface')">Surface Data</button>
+                <button class="tab-button" onclick="showTab('levels')">Pressure Levels</button>
+                <button class="tab-button" onclick="showTab('charts')">Charts</button>
+            </div>
+
+            <div id="surface" class="tab-content active">
+                <h2>Surface Weather Data</h2>
+                <div id="surfaceData"></div>
+            </div>
+
+            <div id="levels" class="tab-content">
+                <h2>Pressure Level Data</h2>
+                <div class="level-selector">
+                    <label>Select Pressure Level:</label>
+                    <select id="levelSelect" onchange="updateLevelDisplay()">
+                        <option value="1000mb">1000 mb (Surface)</option>
+                        <option value="925mb">925 mb (~750m)</option>
+                        <option value="850mb" selected>850 mb (~1500m)</option>
+                        <option value="700mb">700 mb (~3000m)</option>
+                        <option value="500mb">500 mb (~5500m)</option>
+                        <option value="300mb">300 mb (~9000m)</option>
+                        <option value="250mb">250 mb (~10500m)</option>
+                    </select>
+                </div>
+                <div id="levelData"></div>
+            </div>
+
+            <div id="charts" class="tab-content">
+                <h2>Forecast Charts</h2>
+                <canvas id="tempChart"></canvas>
+                <canvas id="windChart"></canvas>
+                <canvas id="precipChart"></canvas>
+            </div>
+        </div>
+
+        <footer>
+            <p>Data fetched automatically every 6 hours via GitHub Actions</p>
+            <p>Source: NOAA weather.gov API | 
+               <a href="https://github.com/andrewnakas/Nam_Data_and-_forecast" target="_blank">View on GitHub</a>
+            </p>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

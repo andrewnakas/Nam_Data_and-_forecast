@@ -1,0 +1,1594 @@
+{
+  "location_name": "Seattle, WA",
+  "location": {
+    "lat": 47.6062,
+    "lon": -122.3321
+  },
+  "model_run": "2025-11-08T22:25:10.211325+00:00",
+  "hourly_data": [
+    {
+      "valid_time": "2025-11-08T13:00:00-08:00",
+      "forecast_hour": 0,
+      "surface": {
+        "temperature_2m": 12.777777777777779,
+        "temperature_surface": 12.777777777777779,
+        "wind_speed_10m": 1.34112,
+        "wind_direction_10m": 0,
+        "wind_u_10m": -1.16140992,
+        "wind_v_10m": -0.67056,
+        "precipitation_rate": 0.05
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 7.777777777777779,
+          "wind_speed": 1.609344,
+          "wind_direction": 0,
+          "relative_humidity": 68,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-08T14:00:00-08:00",
+      "forecast_hour": 1,
+      "surface": {
+        "temperature_2m": 13.333333333333334,
+        "temperature_surface": 13.333333333333334,
+        "wind_speed_10m": 1.34112,
+        "wind_direction_10m": 0,
+        "wind_u_10m": -1.16140992,
+        "wind_v_10m": -0.67056,
+        "precipitation_rate": 0.05
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 8.333333333333334,
+          "wind_speed": 1.609344,
+          "wind_direction": 0,
+          "relative_humidity": 68,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-08T15:00:00-08:00",
+      "forecast_hour": 2,
+      "surface": {
+        "temperature_2m": 13.88888888888889,
+        "temperature_surface": 13.88888888888889,
+        "wind_speed_10m": 1.34112,
+        "wind_direction_10m": 0,
+        "wind_u_10m": -1.16140992,
+        "wind_v_10m": -0.67056,
+        "precipitation_rate": 0.06
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 8.88888888888889,
+          "wind_speed": 1.609344,
+          "wind_direction": 0,
+          "relative_humidity": 68,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-08T16:00:00-08:00",
+      "forecast_hour": 3,
+      "surface": {
+        "temperature_2m": 13.88888888888889,
+        "temperature_surface": 13.88888888888889,
+        "wind_speed_10m": 1.34112,
+        "wind_direction_10m": 0,
+        "wind_u_10m": -1.16140992,
+        "wind_v_10m": -0.67056,
+        "precipitation_rate": 0.04
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 8.88888888888889,
+          "wind_speed": 1.609344,
+          "wind_direction": 0,
+          "relative_humidity": 68,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-08T17:00:00-08:00",
+      "forecast_hour": 4,
+      "surface": {
+        "temperature_2m": 12.777777777777779,
+        "temperature_surface": 12.777777777777779,
+        "wind_speed_10m": 1.34112,
+        "wind_direction_10m": 45,
+        "wind_u_10m": -1.16140992,
+        "wind_v_10m": -0.67056,
+        "precipitation_rate": 0.04
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 7.777777777777779,
+          "wind_speed": 1.609344,
+          "wind_direction": 45,
+          "relative_humidity": 69,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-08T18:00:00-08:00",
+      "forecast_hour": 5,
+      "surface": {
+        "temperature_2m": 12.222222222222221,
+        "temperature_surface": 12.222222222222221,
+        "wind_speed_10m": 1.34112,
+        "wind_direction_10m": 45,
+        "wind_u_10m": -1.16140992,
+        "wind_v_10m": -0.67056,
+        "precipitation_rate": 0.04
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 7.222222222222221,
+          "wind_speed": 1.609344,
+          "wind_direction": 45,
+          "relative_humidity": 69,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-08T19:00:00-08:00",
+      "forecast_hour": 6,
+      "surface": {
+        "temperature_2m": 11.666666666666666,
+        "temperature_surface": 11.666666666666666,
+        "wind_speed_10m": 2.2352,
+        "wind_direction_10m": 45,
+        "wind_u_10m": -1.9356832,
+        "wind_v_10m": -1.1176,
+        "precipitation_rate": 0.03
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 6.666666666666666,
+          "wind_speed": 2.6822399999999997,
+          "wind_direction": 45,
+          "relative_humidity": 69,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-08T20:00:00-08:00",
+      "forecast_hour": 7,
+      "surface": {
+        "temperature_2m": 11.11111111111111,
+        "temperature_surface": 11.11111111111111,
+        "wind_speed_10m": 2.2352,
+        "wind_direction_10m": 45,
+        "wind_u_10m": -1.9356832,
+        "wind_v_10m": -1.1176,
+        "precipitation_rate": 0.04
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 6.111111111111111,
+          "wind_speed": 2.6822399999999997,
+          "wind_direction": 45,
+          "relative_humidity": 70,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-08T21:00:00-08:00",
+      "forecast_hour": 8,
+      "surface": {
+        "temperature_2m": 11.11111111111111,
+        "temperature_surface": 11.11111111111111,
+        "wind_speed_10m": 2.2352,
+        "wind_direction_10m": 22.5,
+        "wind_u_10m": -1.9356832,
+        "wind_v_10m": -1.1176,
+        "precipitation_rate": 0.03
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 6.111111111111111,
+          "wind_speed": 2.6822399999999997,
+          "wind_direction": 22.5,
+          "relative_humidity": 68,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-08T22:00:00-08:00",
+      "forecast_hour": 9,
+      "surface": {
+        "temperature_2m": 10.555555555555555,
+        "temperature_surface": 10.555555555555555,
+        "wind_speed_10m": 2.2352,
+        "wind_direction_10m": 0,
+        "wind_u_10m": -1.9356832,
+        "wind_v_10m": -1.1176,
+        "precipitation_rate": 0.01
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 5.555555555555555,
+          "wind_speed": 2.6822399999999997,
+          "wind_direction": 0,
+          "relative_humidity": 69,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-08T23:00:00-08:00",
+      "forecast_hour": 10,
+      "surface": {
+        "temperature_2m": 10.555555555555555,
+        "temperature_surface": 10.555555555555555,
+        "wind_speed_10m": 2.2352,
+        "wind_direction_10m": 0,
+        "wind_u_10m": -1.9356832,
+        "wind_v_10m": -1.1176,
+        "precipitation_rate": 0.01
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 5.555555555555555,
+          "wind_speed": 2.6822399999999997,
+          "wind_direction": 0,
+          "relative_humidity": 68,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T00:00:00-08:00",
+      "forecast_hour": 11,
+      "surface": {
+        "temperature_2m": 10.555555555555555,
+        "temperature_surface": 10.555555555555555,
+        "wind_speed_10m": 2.2352,
+        "wind_direction_10m": 0,
+        "wind_u_10m": -1.9356832,
+        "wind_v_10m": -1.1176,
+        "precipitation_rate": 0.01
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 5.555555555555555,
+          "wind_speed": 2.6822399999999997,
+          "wind_direction": 0,
+          "relative_humidity": 69,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T01:00:00-08:00",
+      "forecast_hour": 12,
+      "surface": {
+        "temperature_2m": 10.0,
+        "temperature_surface": 10.0,
+        "wind_speed_10m": 1.34112,
+        "wind_direction_10m": 0,
+        "wind_u_10m": -1.16140992,
+        "wind_v_10m": -0.67056,
+        "precipitation_rate": 0.01
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 5.0,
+          "wind_speed": 1.609344,
+          "wind_direction": 0,
+          "relative_humidity": 67,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T02:00:00-08:00",
+      "forecast_hour": 13,
+      "surface": {
+        "temperature_2m": 9.444444444444445,
+        "temperature_surface": 9.444444444444445,
+        "wind_speed_10m": 1.34112,
+        "wind_direction_10m": 0,
+        "wind_u_10m": -1.16140992,
+        "wind_v_10m": -0.67056,
+        "precipitation_rate": 0.01
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 4.444444444444445,
+          "wind_speed": 1.609344,
+          "wind_direction": 0,
+          "relative_humidity": 69,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T03:00:00-08:00",
+      "forecast_hour": 14,
+      "surface": {
+        "temperature_2m": 9.444444444444445,
+        "temperature_surface": 9.444444444444445,
+        "wind_speed_10m": 1.34112,
+        "wind_direction_10m": 0,
+        "wind_u_10m": -1.16140992,
+        "wind_v_10m": -0.67056,
+        "precipitation_rate": 0.02
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 4.444444444444445,
+          "wind_speed": 1.609344,
+          "wind_direction": 0,
+          "relative_humidity": 70,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T04:00:00-08:00",
+      "forecast_hour": 15,
+      "surface": {
+        "temperature_2m": 8.88888888888889,
+        "temperature_surface": 8.88888888888889,
+        "wind_speed_10m": 1.34112,
+        "wind_direction_10m": 315,
+        "wind_u_10m": -1.16140992,
+        "wind_v_10m": -0.67056,
+        "precipitation_rate": 0.01
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 3.8888888888888893,
+          "wind_speed": 1.609344,
+          "wind_direction": 315,
+          "relative_humidity": 69,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T05:00:00-08:00",
+      "forecast_hour": 16,
+      "surface": {
+        "temperature_2m": 9.444444444444445,
+        "temperature_surface": 9.444444444444445,
+        "wind_speed_10m": 1.34112,
+        "wind_direction_10m": 0,
+        "wind_u_10m": -1.16140992,
+        "wind_v_10m": -0.67056,
+        "precipitation_rate": 0.01
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 4.444444444444445,
+          "wind_speed": 1.609344,
+          "wind_direction": 0,
+          "relative_humidity": 69,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T06:00:00-08:00",
+      "forecast_hour": 17,
+      "surface": {
+        "temperature_2m": 9.444444444444445,
+        "temperature_surface": 9.444444444444445,
+        "wind_speed_10m": 1.34112,
+        "wind_direction_10m": 67.5,
+        "wind_u_10m": -1.16140992,
+        "wind_v_10m": -0.67056,
+        "precipitation_rate": 0.02
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 4.444444444444445,
+          "wind_speed": 1.609344,
+          "wind_direction": 67.5,
+          "relative_humidity": 72,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T07:00:00-08:00",
+      "forecast_hour": 18,
+      "surface": {
+        "temperature_2m": 8.88888888888889,
+        "temperature_surface": 8.88888888888889,
+        "wind_speed_10m": 1.34112,
+        "wind_direction_10m": 157.5,
+        "wind_u_10m": -1.16140992,
+        "wind_v_10m": -0.67056,
+        "precipitation_rate": 0.02
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 3.8888888888888893,
+          "wind_speed": 1.609344,
+          "wind_direction": 157.5,
+          "relative_humidity": 73,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T08:00:00-08:00",
+      "forecast_hour": 19,
+      "surface": {
+        "temperature_2m": 9.444444444444445,
+        "temperature_surface": 9.444444444444445,
+        "wind_speed_10m": 1.34112,
+        "wind_direction_10m": 112.5,
+        "wind_u_10m": -1.16140992,
+        "wind_v_10m": -0.67056,
+        "precipitation_rate": 0.02
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 4.444444444444445,
+          "wind_speed": 1.609344,
+          "wind_direction": 112.5,
+          "relative_humidity": 73,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T09:00:00-08:00",
+      "forecast_hour": 20,
+      "surface": {
+        "temperature_2m": 10.555555555555555,
+        "temperature_surface": 10.555555555555555,
+        "wind_speed_10m": 1.34112,
+        "wind_direction_10m": 157.5,
+        "wind_u_10m": -1.16140992,
+        "wind_v_10m": -0.67056,
+        "precipitation_rate": 0.02
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 5.555555555555555,
+          "wind_speed": 1.609344,
+          "wind_direction": 157.5,
+          "relative_humidity": 72,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T10:00:00-08:00",
+      "forecast_hour": 21,
+      "surface": {
+        "temperature_2m": 11.666666666666666,
+        "temperature_surface": 11.666666666666666,
+        "wind_speed_10m": 2.2352,
+        "wind_direction_10m": 202.5,
+        "wind_u_10m": -1.9356832,
+        "wind_v_10m": -1.1176,
+        "precipitation_rate": 0.02
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 6.666666666666666,
+          "wind_speed": 2.6822399999999997,
+          "wind_direction": 202.5,
+          "relative_humidity": 71,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T11:00:00-08:00",
+      "forecast_hour": 22,
+      "surface": {
+        "temperature_2m": 13.333333333333334,
+        "temperature_surface": 13.333333333333334,
+        "wind_speed_10m": 2.2352,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -1.9356832,
+        "wind_v_10m": -1.1176,
+        "precipitation_rate": 0.01
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 8.333333333333334,
+          "wind_speed": 2.6822399999999997,
+          "wind_direction": 180,
+          "relative_humidity": 68,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T12:00:00-08:00",
+      "forecast_hour": 23,
+      "surface": {
+        "temperature_2m": 15.0,
+        "temperature_surface": 15.0,
+        "wind_speed_10m": 2.2352,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -1.9356832,
+        "wind_v_10m": -1.1176,
+        "precipitation_rate": 0.01
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 10.0,
+          "wind_speed": 2.6822399999999997,
+          "wind_direction": 180,
+          "relative_humidity": 67,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T13:00:00-08:00",
+      "forecast_hour": 24,
+      "surface": {
+        "temperature_2m": 16.11111111111111,
+        "temperature_surface": 16.11111111111111,
+        "wind_speed_10m": 2.68224,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -2.32281984,
+        "wind_v_10m": -1.34112,
+        "precipitation_rate": 0.01
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 11.11111111111111,
+          "wind_speed": 3.218688,
+          "wind_direction": 180,
+          "relative_humidity": 67,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T14:00:00-08:00",
+      "forecast_hour": 25,
+      "surface": {
+        "temperature_2m": 16.11111111111111,
+        "temperature_surface": 16.11111111111111,
+        "wind_speed_10m": 2.2352,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -1.9356832,
+        "wind_v_10m": -1.1176,
+        "precipitation_rate": 0.02
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 11.11111111111111,
+          "wind_speed": 2.6822399999999997,
+          "wind_direction": 180,
+          "relative_humidity": 67,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T15:00:00-08:00",
+      "forecast_hour": 26,
+      "surface": {
+        "temperature_2m": 16.666666666666668,
+        "temperature_surface": 16.666666666666668,
+        "wind_speed_10m": 2.2352,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -1.9356832,
+        "wind_v_10m": -1.1176,
+        "precipitation_rate": 0.02
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 11.666666666666668,
+          "wind_speed": 2.6822399999999997,
+          "wind_direction": 180,
+          "relative_humidity": 67,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T16:00:00-08:00",
+      "forecast_hour": 27,
+      "surface": {
+        "temperature_2m": 15.555555555555555,
+        "temperature_surface": 15.555555555555555,
+        "wind_speed_10m": 2.2352,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -1.9356832,
+        "wind_v_10m": -1.1176,
+        "precipitation_rate": 0.13
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 10.555555555555555,
+          "wind_speed": 2.6822399999999997,
+          "wind_direction": 180,
+          "relative_humidity": 70,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T17:00:00-08:00",
+      "forecast_hour": 28,
+      "surface": {
+        "temperature_2m": 15.0,
+        "temperature_surface": 15.0,
+        "wind_speed_10m": 2.2352,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -1.9356832,
+        "wind_v_10m": -1.1176,
+        "precipitation_rate": 0.13
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 10.0,
+          "wind_speed": 2.6822399999999997,
+          "wind_direction": 180,
+          "relative_humidity": 73,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T18:00:00-08:00",
+      "forecast_hour": 29,
+      "surface": {
+        "temperature_2m": 14.444444444444445,
+        "temperature_surface": 14.444444444444445,
+        "wind_speed_10m": 2.2352,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -1.9356832,
+        "wind_v_10m": -1.1176,
+        "precipitation_rate": 0.13
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 9.444444444444445,
+          "wind_speed": 2.6822399999999997,
+          "wind_direction": 180,
+          "relative_humidity": 72,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T19:00:00-08:00",
+      "forecast_hour": 30,
+      "surface": {
+        "temperature_2m": 13.333333333333334,
+        "temperature_surface": 13.333333333333334,
+        "wind_speed_10m": 2.68224,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -2.32281984,
+        "wind_v_10m": -1.34112,
+        "precipitation_rate": 0.13
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 8.333333333333334,
+          "wind_speed": 3.218688,
+          "wind_direction": 180,
+          "relative_humidity": 74,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T20:00:00-08:00",
+      "forecast_hour": 31,
+      "surface": {
+        "temperature_2m": 13.333333333333334,
+        "temperature_surface": 13.333333333333334,
+        "wind_speed_10m": 3.12928,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -2.7099564800000002,
+        "wind_v_10m": -1.56464,
+        "precipitation_rate": 0.13
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 8.333333333333334,
+          "wind_speed": 3.755136,
+          "wind_direction": 180,
+          "relative_humidity": 73,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T21:00:00-08:00",
+      "forecast_hour": 32,
+      "surface": {
+        "temperature_2m": 13.333333333333334,
+        "temperature_surface": 13.333333333333334,
+        "wind_speed_10m": 3.12928,
+        "wind_direction_10m": 157.5,
+        "wind_u_10m": -2.7099564800000002,
+        "wind_v_10m": -1.56464,
+        "precipitation_rate": 0.13
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 8.333333333333334,
+          "wind_speed": 3.755136,
+          "wind_direction": 157.5,
+          "relative_humidity": 73,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T22:00:00-08:00",
+      "forecast_hour": 33,
+      "surface": {
+        "temperature_2m": 13.333333333333334,
+        "temperature_surface": 13.333333333333334,
+        "wind_speed_10m": 3.57632,
+        "wind_direction_10m": 157.5,
+        "wind_u_10m": -3.09709312,
+        "wind_v_10m": -1.78816,
+        "precipitation_rate": 0.52
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 8.333333333333334,
+          "wind_speed": 4.291583999999999,
+          "wind_direction": 157.5,
+          "relative_humidity": 73,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-09T23:00:00-08:00",
+      "forecast_hour": 34,
+      "surface": {
+        "temperature_2m": 13.333333333333334,
+        "temperature_surface": 13.333333333333334,
+        "wind_speed_10m": 3.57632,
+        "wind_direction_10m": 157.5,
+        "wind_u_10m": -3.09709312,
+        "wind_v_10m": -1.78816,
+        "precipitation_rate": 0.52
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 8.333333333333334,
+          "wind_speed": 4.291583999999999,
+          "wind_direction": 157.5,
+          "relative_humidity": 74,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T00:00:00-08:00",
+      "forecast_hour": 35,
+      "surface": {
+        "temperature_2m": 12.777777777777779,
+        "temperature_surface": 12.777777777777779,
+        "wind_speed_10m": 3.57632,
+        "wind_direction_10m": 157.5,
+        "wind_u_10m": -3.09709312,
+        "wind_v_10m": -1.78816,
+        "precipitation_rate": 0.52
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 7.777777777777779,
+          "wind_speed": 4.291583999999999,
+          "wind_direction": 157.5,
+          "relative_humidity": 77,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T01:00:00-08:00",
+      "forecast_hour": 36,
+      "surface": {
+        "temperature_2m": 12.777777777777779,
+        "temperature_surface": 12.777777777777779,
+        "wind_speed_10m": 3.57632,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -3.09709312,
+        "wind_v_10m": -1.78816,
+        "precipitation_rate": 0.52
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 7.777777777777779,
+          "wind_speed": 4.291583999999999,
+          "wind_direction": 180,
+          "relative_humidity": 79,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T02:00:00-08:00",
+      "forecast_hour": 37,
+      "surface": {
+        "temperature_2m": 12.777777777777779,
+        "temperature_surface": 12.777777777777779,
+        "wind_speed_10m": 3.57632,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -3.09709312,
+        "wind_v_10m": -1.78816,
+        "precipitation_rate": 0.52
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 7.777777777777779,
+          "wind_speed": 4.291583999999999,
+          "wind_direction": 180,
+          "relative_humidity": 81,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T03:00:00-08:00",
+      "forecast_hour": 38,
+      "surface": {
+        "temperature_2m": 12.222222222222221,
+        "temperature_surface": 12.222222222222221,
+        "wind_speed_10m": 3.57632,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -3.09709312,
+        "wind_v_10m": -1.78816,
+        "precipitation_rate": 0.52
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 7.222222222222221,
+          "wind_speed": 4.291583999999999,
+          "wind_direction": 180,
+          "relative_humidity": 83,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T04:00:00-08:00",
+      "forecast_hour": 39,
+      "surface": {
+        "temperature_2m": 12.222222222222221,
+        "temperature_surface": 12.222222222222221,
+        "wind_speed_10m": 3.12928,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -2.7099564800000002,
+        "wind_v_10m": -1.56464,
+        "precipitation_rate": 0.76
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 7.222222222222221,
+          "wind_speed": 3.755136,
+          "wind_direction": 180,
+          "relative_humidity": 85,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T05:00:00-08:00",
+      "forecast_hour": 40,
+      "surface": {
+        "temperature_2m": 12.222222222222221,
+        "temperature_surface": 12.222222222222221,
+        "wind_speed_10m": 3.12928,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -2.7099564800000002,
+        "wind_v_10m": -1.56464,
+        "precipitation_rate": 0.76
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 7.222222222222221,
+          "wind_speed": 3.755136,
+          "wind_direction": 180,
+          "relative_humidity": 86,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T06:00:00-08:00",
+      "forecast_hour": 41,
+      "surface": {
+        "temperature_2m": 12.222222222222221,
+        "temperature_surface": 12.222222222222221,
+        "wind_speed_10m": 3.12928,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -2.7099564800000002,
+        "wind_v_10m": -1.56464,
+        "precipitation_rate": 0.76
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 7.222222222222221,
+          "wind_speed": 3.755136,
+          "wind_direction": 180,
+          "relative_humidity": 87,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T07:00:00-08:00",
+      "forecast_hour": 42,
+      "surface": {
+        "temperature_2m": 12.222222222222221,
+        "temperature_surface": 12.222222222222221,
+        "wind_speed_10m": 2.68224,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -2.32281984,
+        "wind_v_10m": -1.34112,
+        "precipitation_rate": 0.76
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 7.222222222222221,
+          "wind_speed": 3.218688,
+          "wind_direction": 180,
+          "relative_humidity": 88,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T08:00:00-08:00",
+      "forecast_hour": 43,
+      "surface": {
+        "temperature_2m": 12.222222222222221,
+        "temperature_surface": 12.222222222222221,
+        "wind_speed_10m": 2.68224,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -2.32281984,
+        "wind_v_10m": -1.34112,
+        "precipitation_rate": 0.76
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 7.222222222222221,
+          "wind_speed": 3.218688,
+          "wind_direction": 180,
+          "relative_humidity": 91,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T09:00:00-08:00",
+      "forecast_hour": 44,
+      "surface": {
+        "temperature_2m": 12.222222222222221,
+        "temperature_surface": 12.222222222222221,
+        "wind_speed_10m": 2.68224,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -2.32281984,
+        "wind_v_10m": -1.34112,
+        "precipitation_rate": 0.76
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 7.222222222222221,
+          "wind_speed": 3.218688,
+          "wind_direction": 180,
+          "relative_humidity": 93,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T10:00:00-08:00",
+      "forecast_hour": 45,
+      "surface": {
+        "temperature_2m": 12.777777777777779,
+        "temperature_surface": 12.777777777777779,
+        "wind_speed_10m": 2.68224,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -2.32281984,
+        "wind_v_10m": -1.34112,
+        "precipitation_rate": 0.77
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 7.777777777777779,
+          "wind_speed": 3.218688,
+          "wind_direction": 180,
+          "relative_humidity": 95,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T11:00:00-08:00",
+      "forecast_hour": 46,
+      "surface": {
+        "temperature_2m": 13.333333333333334,
+        "temperature_surface": 13.333333333333334,
+        "wind_speed_10m": 2.68224,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -2.32281984,
+        "wind_v_10m": -1.34112,
+        "precipitation_rate": 0.77
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 8.333333333333334,
+          "wind_speed": 3.218688,
+          "wind_direction": 180,
+          "relative_humidity": 94,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T12:00:00-08:00",
+      "forecast_hour": 47,
+      "surface": {
+        "temperature_2m": 13.333333333333334,
+        "temperature_surface": 13.333333333333334,
+        "wind_speed_10m": 2.68224,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -2.32281984,
+        "wind_v_10m": -1.34112,
+        "precipitation_rate": 0.77
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 8.333333333333334,
+          "wind_speed": 3.218688,
+          "wind_direction": 180,
+          "relative_humidity": 91,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T13:00:00-08:00",
+      "forecast_hour": 48,
+      "surface": {
+        "temperature_2m": 13.88888888888889,
+        "temperature_surface": 13.88888888888889,
+        "wind_speed_10m": 2.68224,
+        "wind_direction_10m": 202.5,
+        "wind_u_10m": -2.32281984,
+        "wind_v_10m": -1.34112,
+        "precipitation_rate": 0.77
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 8.88888888888889,
+          "wind_speed": 3.218688,
+          "wind_direction": 202.5,
+          "relative_humidity": 89,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T14:00:00-08:00",
+      "forecast_hour": 49,
+      "surface": {
+        "temperature_2m": 13.333333333333334,
+        "temperature_surface": 13.333333333333334,
+        "wind_speed_10m": 2.68224,
+        "wind_direction_10m": 202.5,
+        "wind_u_10m": -2.32281984,
+        "wind_v_10m": -1.34112,
+        "precipitation_rate": 0.77
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 8.333333333333334,
+          "wind_speed": 3.218688,
+          "wind_direction": 202.5,
+          "relative_humidity": 88,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T15:00:00-08:00",
+      "forecast_hour": 50,
+      "surface": {
+        "temperature_2m": 13.333333333333334,
+        "temperature_surface": 13.333333333333334,
+        "wind_speed_10m": 2.68224,
+        "wind_direction_10m": 202.5,
+        "wind_u_10m": -2.32281984,
+        "wind_v_10m": -1.34112,
+        "precipitation_rate": 0.77
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 8.333333333333334,
+          "wind_speed": 3.218688,
+          "wind_direction": 202.5,
+          "relative_humidity": 87,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T16:00:00-08:00",
+      "forecast_hour": 51,
+      "surface": {
+        "temperature_2m": 12.777777777777779,
+        "temperature_surface": 12.777777777777779,
+        "wind_speed_10m": 2.68224,
+        "wind_direction_10m": 202.5,
+        "wind_u_10m": -2.32281984,
+        "wind_v_10m": -1.34112,
+        "precipitation_rate": 0.57
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 7.777777777777779,
+          "wind_speed": 3.218688,
+          "wind_direction": 202.5,
+          "relative_humidity": 87,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T17:00:00-08:00",
+      "forecast_hour": 52,
+      "surface": {
+        "temperature_2m": 12.222222222222221,
+        "temperature_surface": 12.222222222222221,
+        "wind_speed_10m": 2.68224,
+        "wind_direction_10m": 202.5,
+        "wind_u_10m": -2.32281984,
+        "wind_v_10m": -1.34112,
+        "precipitation_rate": 0.57
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 7.222222222222221,
+          "wind_speed": 3.218688,
+          "wind_direction": 202.5,
+          "relative_humidity": 88,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T18:00:00-08:00",
+      "forecast_hour": 53,
+      "surface": {
+        "temperature_2m": 11.666666666666666,
+        "temperature_surface": 11.666666666666666,
+        "wind_speed_10m": 2.68224,
+        "wind_direction_10m": 202.5,
+        "wind_u_10m": -2.32281984,
+        "wind_v_10m": -1.34112,
+        "precipitation_rate": 0.57
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 6.666666666666666,
+          "wind_speed": 3.218688,
+          "wind_direction": 202.5,
+          "relative_humidity": 89,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T19:00:00-08:00",
+      "forecast_hour": 54,
+      "surface": {
+        "temperature_2m": 11.11111111111111,
+        "temperature_surface": 11.11111111111111,
+        "wind_speed_10m": 2.2352,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -1.9356832,
+        "wind_v_10m": -1.1176,
+        "precipitation_rate": 0.57
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 6.111111111111111,
+          "wind_speed": 2.6822399999999997,
+          "wind_direction": 180,
+          "relative_humidity": 89,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T20:00:00-08:00",
+      "forecast_hour": 55,
+      "surface": {
+        "temperature_2m": 11.11111111111111,
+        "temperature_surface": 11.11111111111111,
+        "wind_speed_10m": 2.2352,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -1.9356832,
+        "wind_v_10m": -1.1176,
+        "precipitation_rate": 0.57
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 6.111111111111111,
+          "wind_speed": 2.6822399999999997,
+          "wind_direction": 180,
+          "relative_humidity": 88,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T21:00:00-08:00",
+      "forecast_hour": 56,
+      "surface": {
+        "temperature_2m": 10.555555555555555,
+        "temperature_surface": 10.555555555555555,
+        "wind_speed_10m": 2.2352,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -1.9356832,
+        "wind_v_10m": -1.1176,
+        "precipitation_rate": 0.57
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 5.555555555555555,
+          "wind_speed": 2.6822399999999997,
+          "wind_direction": 180,
+          "relative_humidity": 86,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T22:00:00-08:00",
+      "forecast_hour": 57,
+      "surface": {
+        "temperature_2m": 10.555555555555555,
+        "temperature_surface": 10.555555555555555,
+        "wind_speed_10m": 1.34112,
+        "wind_direction_10m": 157.5,
+        "wind_u_10m": -1.16140992,
+        "wind_v_10m": -0.67056,
+        "precipitation_rate": 0.23
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 5.555555555555555,
+          "wind_speed": 1.609344,
+          "wind_direction": 157.5,
+          "relative_humidity": 85,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-10T23:00:00-08:00",
+      "forecast_hour": 58,
+      "surface": {
+        "temperature_2m": 10.555555555555555,
+        "temperature_surface": 10.555555555555555,
+        "wind_speed_10m": 1.34112,
+        "wind_direction_10m": 157.5,
+        "wind_u_10m": -1.16140992,
+        "wind_v_10m": -0.67056,
+        "precipitation_rate": 0.23
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 5.555555555555555,
+          "wind_speed": 1.609344,
+          "wind_direction": 157.5,
+          "relative_humidity": 85,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-11T00:00:00-08:00",
+      "forecast_hour": 59,
+      "surface": {
+        "temperature_2m": 10.0,
+        "temperature_surface": 10.0,
+        "wind_speed_10m": 1.34112,
+        "wind_direction_10m": 157.5,
+        "wind_u_10m": -1.16140992,
+        "wind_v_10m": -0.67056,
+        "precipitation_rate": 0.23
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 5.0,
+          "wind_speed": 1.609344,
+          "wind_direction": 157.5,
+          "relative_humidity": 85,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-11T01:00:00-08:00",
+      "forecast_hour": 60,
+      "surface": {
+        "temperature_2m": 10.0,
+        "temperature_surface": 10.0,
+        "wind_speed_10m": 0.89408,
+        "wind_direction_10m": 157.5,
+        "wind_u_10m": -0.77427328,
+        "wind_v_10m": -0.44704,
+        "precipitation_rate": 0.23
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 5.0,
+          "wind_speed": 1.0728959999999998,
+          "wind_direction": 157.5,
+          "relative_humidity": 86,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-11T02:00:00-08:00",
+      "forecast_hour": 61,
+      "surface": {
+        "temperature_2m": 9.444444444444445,
+        "temperature_surface": 9.444444444444445,
+        "wind_speed_10m": 0.89408,
+        "wind_direction_10m": 157.5,
+        "wind_u_10m": -0.77427328,
+        "wind_v_10m": -0.44704,
+        "precipitation_rate": 0.23
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 4.444444444444445,
+          "wind_speed": 1.0728959999999998,
+          "wind_direction": 157.5,
+          "relative_humidity": 86,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-11T03:00:00-08:00",
+      "forecast_hour": 62,
+      "surface": {
+        "temperature_2m": 8.88888888888889,
+        "temperature_surface": 8.88888888888889,
+        "wind_speed_10m": 0.89408,
+        "wind_direction_10m": 157.5,
+        "wind_u_10m": -0.77427328,
+        "wind_v_10m": -0.44704,
+        "precipitation_rate": 0.23
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 3.8888888888888893,
+          "wind_speed": 1.0728959999999998,
+          "wind_direction": 157.5,
+          "relative_humidity": 87,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-11T04:00:00-08:00",
+      "forecast_hour": 63,
+      "surface": {
+        "temperature_2m": 8.333333333333334,
+        "temperature_surface": 8.333333333333334,
+        "wind_speed_10m": 0.89408,
+        "wind_direction_10m": 135,
+        "wind_u_10m": -0.77427328,
+        "wind_v_10m": -0.44704,
+        "precipitation_rate": 0.11
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 3.333333333333334,
+          "wind_speed": 1.0728959999999998,
+          "wind_direction": 135,
+          "relative_humidity": 87,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-11T05:00:00-08:00",
+      "forecast_hour": 64,
+      "surface": {
+        "temperature_2m": 7.777777777777778,
+        "temperature_surface": 7.777777777777778,
+        "wind_speed_10m": 0.89408,
+        "wind_direction_10m": 135,
+        "wind_u_10m": -0.77427328,
+        "wind_v_10m": -0.44704,
+        "precipitation_rate": 0.11
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 2.7777777777777777,
+          "wind_speed": 1.0728959999999998,
+          "wind_direction": 135,
+          "relative_humidity": 88,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-11T06:00:00-08:00",
+      "forecast_hour": 65,
+      "surface": {
+        "temperature_2m": 7.777777777777778,
+        "temperature_surface": 7.777777777777778,
+        "wind_speed_10m": 0.89408,
+        "wind_direction_10m": 135,
+        "wind_u_10m": -0.77427328,
+        "wind_v_10m": -0.44704,
+        "precipitation_rate": 0.11
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 2.7777777777777777,
+          "wind_speed": 1.0728959999999998,
+          "wind_direction": 135,
+          "relative_humidity": 89,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-11T07:00:00-08:00",
+      "forecast_hour": 66,
+      "surface": {
+        "temperature_2m": 7.222222222222222,
+        "temperature_surface": 7.222222222222222,
+        "wind_speed_10m": 0.89408,
+        "wind_direction_10m": 135,
+        "wind_u_10m": -0.77427328,
+        "wind_v_10m": -0.44704,
+        "precipitation_rate": 0.11
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 2.2222222222222223,
+          "wind_speed": 1.0728959999999998,
+          "wind_direction": 135,
+          "relative_humidity": 89,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-11T08:00:00-08:00",
+      "forecast_hour": 67,
+      "surface": {
+        "temperature_2m": 7.777777777777778,
+        "temperature_surface": 7.777777777777778,
+        "wind_speed_10m": 0.89408,
+        "wind_direction_10m": 135,
+        "wind_u_10m": -0.77427328,
+        "wind_v_10m": -0.44704,
+        "precipitation_rate": 0.11
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 2.7777777777777777,
+          "wind_speed": 1.0728959999999998,
+          "wind_direction": 135,
+          "relative_humidity": 88,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-11T09:00:00-08:00",
+      "forecast_hour": 68,
+      "surface": {
+        "temperature_2m": 8.88888888888889,
+        "temperature_surface": 8.88888888888889,
+        "wind_speed_10m": 0.89408,
+        "wind_direction_10m": 135,
+        "wind_u_10m": -0.77427328,
+        "wind_v_10m": -0.44704,
+        "precipitation_rate": 0.11
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 3.8888888888888893,
+          "wind_speed": 1.0728959999999998,
+          "wind_direction": 135,
+          "relative_humidity": 87,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-11T10:00:00-08:00",
+      "forecast_hour": 69,
+      "surface": {
+        "temperature_2m": 9.444444444444445,
+        "temperature_surface": 9.444444444444445,
+        "wind_speed_10m": 1.34112,
+        "wind_direction_10m": 45,
+        "wind_u_10m": -1.16140992,
+        "wind_v_10m": -0.67056,
+        "precipitation_rate": 0.04
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 4.444444444444445,
+          "wind_speed": 1.609344,
+          "wind_direction": 45,
+          "relative_humidity": 85,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-11T11:00:00-08:00",
+      "forecast_hour": 70,
+      "surface": {
+        "temperature_2m": 10.0,
+        "temperature_surface": 10.0,
+        "wind_speed_10m": 1.34112,
+        "wind_direction_10m": 45,
+        "wind_u_10m": -1.16140992,
+        "wind_v_10m": -0.67056,
+        "precipitation_rate": 0.04
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 5.0,
+          "wind_speed": 1.609344,
+          "wind_direction": 45,
+          "relative_humidity": 82,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "valid_time": "2025-11-11T12:00:00-08:00",
+      "forecast_hour": 71,
+      "surface": {
+        "temperature_2m": 11.11111111111111,
+        "temperature_surface": 11.11111111111111,
+        "wind_speed_10m": 1.34112,
+        "wind_direction_10m": 45,
+        "wind_u_10m": -1.16140992,
+        "wind_v_10m": -0.67056,
+        "precipitation_rate": 0.04
+      },
+      "levels": {
+        "850mb": {
+          "temperature": 6.111111111111111,
+          "wind_speed": 1.609344,
+          "wind_direction": 45,
+          "relative_humidity": 80,
+          "height": 1500
+        }
+      }
+    }
+  ]
+}
