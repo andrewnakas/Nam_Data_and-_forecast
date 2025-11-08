@@ -1,5 +1,7 @@
 # NAM Weather Forecast Viewer
 
+![Test Status](https://github.com/andrewnakas/Nam_Data_and-_forecast/actions/workflows/test.yml/badge.svg)
+
 A Python backend + HTML frontend application for retrieving and displaying NAM (North American Mesoscale) forecast data from NOAA.
 
 ## Features
@@ -87,6 +89,43 @@ This application retrieves data from NOAA's NOMADS (NCEP Operational Model Archi
 
 NAM model runs 4 times daily at 00, 06, 12, and 18 UTC.
 
+## Testing
+
+### Running Tests
+
+Run the test suite:
+```bash
+python -m unittest test_app.py -v
+```
+
+Or run the health check:
+```bash
+python health_check.py http://localhost:5000
+```
+
+### GitHub Actions
+
+This project includes automated testing via GitHub Actions. Tests run on:
+- Every push to main/master/develop branches and claude/** branches
+- Every pull request
+
+The workflow tests:
+- Unit tests across Python 3.9, 3.10, and 3.11
+- Flask app startup
+- API endpoint responses
+- Project structure validation
+
+## Deployment
+
+**Important**: This app requires a Python backend and **cannot** be deployed to GitHub Pages.
+
+For deployment instructions to platforms like Railway, Render, Heroku, AWS, Google Cloud, and more, see [DEPLOYMENT.md](DEPLOYMENT.md).
+
+Quick options:
+- **Railway** (recommended): Auto-deploys from GitHub with zero config
+- **Render**: Free tier with easy setup
+- **Fly.io**: Free tier, simple CLI deployment
+
 ## Troubleshooting
 
 ### "Could not find valid NAM dataset" error
@@ -110,15 +149,24 @@ If you encounter issues installing netCDF4:
 ```
 .
 ├── app.py                 # Flask backend server
+├── test_app.py           # Unit tests
+├── health_check.py       # Health check script
 ├── requirements.txt       # Python dependencies
+├── runtime.txt           # Python version for Heroku
+├── Procfile              # Process file for deployment
+├── run.sh                # Startup script
 ├── README.md             # This file
+├── DEPLOYMENT.md         # Deployment guide
+├── .github/
+│   └── workflows/
+│       └── test.yml      # GitHub Actions workflow
 ├── templates/
 │   └── index.html        # Main HTML page
-├── static/
-│   ├── css/
-│   │   └── style.css     # Styles
-│   └── js/
-│       └── app.js        # Frontend JavaScript
+└── static/
+    ├── css/
+    │   └── style.css     # Styles
+    └── js/
+        └── app.js        # Frontend JavaScript
 ```
 
 ## License

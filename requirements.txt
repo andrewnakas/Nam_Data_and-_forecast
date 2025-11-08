@@ -6,3 +6,4 @@ numpy==1.26.2
 requests==2.31.0
 siphon==0.9
 Werkzeug==3.0.1
+gunicorn==21.2.0
