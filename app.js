@@ -384,9 +384,6 @@ function updateWindChart(labels, dataMs, dataMph) {
         }
     });
 }
-
-    const ctx = document.getElementById('precipChart').getContext('2d');
-
     if (charts.precip) {
         charts.precip.destroy();
     }
