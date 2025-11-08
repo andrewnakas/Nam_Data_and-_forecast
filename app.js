@@ -384,7 +384,6 @@ function updateWindChart(labels, dataMs, dataMph) {
         }
     });
 }
-    if (charts.precip) {
 
 // Check API status on load
 window.addEventListener('load', async () => {
