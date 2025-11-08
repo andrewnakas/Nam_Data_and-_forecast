@@ -98,7 +98,11 @@ def convert_to_app_format(location, forecast_data):
 
         # Precipitation probability
         precip_prob = period.get('probabilityOfPrecipitation', {}).get('value', 0) or 0
+        rh = period.get('relativeHumidity', {}).get('value', 50) or 50
 
+        # Estimate atmospheric profile based on standard atmosphere
+        # Temperature decreases ~6.5°C per km (troposphere lapse rate)
+        # Wind generally increases with altitude
         hourly_entry = {
             'valid_time': period.get('startTime', ''),
             'forecast_hour': i,
@@ -112,12 +116,54 @@ def convert_to_app_format(location, forecast_data):
                 'precipitation_rate': precip_prob / 100.0,  # Rough estimate
             },
             'levels': {
-                '850mb': {
-                    'temperature': temp_c - 5,  # Estimated
-                    'wind_speed': wind_ms * 1.2,
+                '1000mb': {
+                    'temperature': temp_c - 0.5,
+                    'wind_speed': wind_ms * 1.0,
                     'wind_direction': wind_dir,
-                    'relative_humidity': period.get('relativeHumidity', {}).get('value', 50) or 50,
-                    'height': 1500
+                    'relative_humidity': rh,
+                    'height': 110
+                },
+                '925mb': {
+                    'temperature': temp_c - 4,
+                    'wind_speed': wind_ms * 1.1,
+                    'wind_direction': wind_dir + 5,
+                    'relative_humidity': max(rh - 5, 20),
+                    'height': 762
+                },
+                '850mb': {
+                    'temperature': temp_c - 9,
+                    'wind_speed': wind_ms * 1.2,
+                    'wind_direction': wind_dir + 10,
+                    'relative_humidity': max(rh - 10, 15),
+                    'height': 1457
+                },
+                '700mb': {
+                    'temperature': temp_c - 19,
+                    'wind_speed': wind_ms * 1.4,
+                    'wind_direction': wind_dir + 15,
+                    'relative_humidity': max(rh - 20, 10),
+                    'height': 3012
+                },
+                '500mb': {
+                    'temperature': temp_c - 35,
+                    'wind_speed': wind_ms * 1.8,
+                    'wind_direction': wind_dir + 25,
+                    'relative_humidity': max(rh - 35, 5),
+                    'height': 5574
+                },
+                '300mb': {
+                    'temperature': temp_c - 55,
+                    'wind_speed': wind_ms * 2.5,
+                    'wind_direction': wind_dir + 40,
+                    'relative_humidity': max(rh - 50, 2),
+                    'height': 9164
+                },
+                '250mb': {
+                    'temperature': temp_c - 60,
+                    'wind_speed': wind_ms * 3.0,
+                    'wind_direction': wind_dir + 50,
+                    'relative_humidity': max(rh - 55, 1),
+                    'height': 10363
                 }
             }
         }

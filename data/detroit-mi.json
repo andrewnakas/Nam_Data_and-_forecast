@@ -4,7 +4,7 @@
     "lat": 42.3314,
     "lon": -83.0458
   },
-  "model_run": "2025-11-08T22:25:14.251437+00:00",
+  "model_run": "2025-11-08T22:54:25.806820+00:00",
   "hourly_data": [
     {
       "valid_time": "2025-11-08T16:00:00-05:00",
@@ -19,12 +19,54 @@
         "precipitation_rate": 0.12
       },
       "levels": {
-        "850mb": {
-          "temperature": 1.666666666666667,
-          "wind_speed": 3.218688,
+        "1000mb": {
+          "temperature": 6.166666666666667,
+          "wind_speed": 2.68224,
           "wind_direction": 45,
           "relative_humidity": 58,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": 2.666666666666667,
+          "wind_speed": 2.9504640000000006,
+          "wind_direction": 50,
+          "relative_humidity": 53,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -2.333333333333333,
+          "wind_speed": 3.218688,
+          "wind_direction": 55,
+          "relative_humidity": 48,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -12.333333333333332,
+          "wind_speed": 3.755136,
+          "wind_direction": 60,
+          "relative_humidity": 38,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -28.333333333333332,
+          "wind_speed": 4.828032,
+          "wind_direction": 70,
+          "relative_humidity": 23,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -48.333333333333336,
+          "wind_speed": 6.7056000000000004,
+          "wind_direction": 85,
+          "relative_humidity": 8,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -53.333333333333336,
+          "wind_speed": 8.04672,
+          "wind_direction": 95,
+          "relative_humidity": 3,
+          "height": 10363
         }
       }
     },
@@ -41,12 +83,54 @@
         "precipitation_rate": 0.12
       },
       "levels": {
-        "850mb": {
-          "temperature": 1.1111111111111107,
-          "wind_speed": 3.218688,
+        "1000mb": {
+          "temperature": 5.611111111111111,
+          "wind_speed": 2.68224,
           "wind_direction": 45,
           "relative_humidity": 57,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": 2.1111111111111107,
+          "wind_speed": 2.9504640000000006,
+          "wind_direction": 50,
+          "relative_humidity": 52,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -2.8888888888888893,
+          "wind_speed": 3.218688,
+          "wind_direction": 55,
+          "relative_humidity": 47,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -12.88888888888889,
+          "wind_speed": 3.755136,
+          "wind_direction": 60,
+          "relative_humidity": 37,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -28.88888888888889,
+          "wind_speed": 4.828032,
+          "wind_direction": 70,
+          "relative_humidity": 22,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -48.888888888888886,
+          "wind_speed": 6.7056000000000004,
+          "wind_direction": 85,
+          "relative_humidity": 7,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -53.888888888888886,
+          "wind_speed": 8.04672,
+          "wind_direction": 95,
+          "relative_humidity": 2,
+          "height": 10363
         }
       }
     },
@@ -63,12 +147,54 @@
         "precipitation_rate": 0.12
       },
       "levels": {
-        "850mb": {
-          "temperature": 0.5555555555555554,
-          "wind_speed": 3.218688,
+        "1000mb": {
+          "temperature": 5.055555555555555,
+          "wind_speed": 2.68224,
           "wind_direction": 45,
           "relative_humidity": 59,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": 1.5555555555555554,
+          "wind_speed": 2.9504640000000006,
+          "wind_direction": 50,
+          "relative_humidity": 54,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -3.4444444444444446,
+          "wind_speed": 3.218688,
+          "wind_direction": 55,
+          "relative_humidity": 49,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -13.444444444444445,
+          "wind_speed": 3.755136,
+          "wind_direction": 60,
+          "relative_humidity": 39,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -29.444444444444443,
+          "wind_speed": 4.828032,
+          "wind_direction": 70,
+          "relative_humidity": 24,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -49.44444444444444,
+          "wind_speed": 6.7056000000000004,
+          "wind_direction": 85,
+          "relative_humidity": 9,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -54.44444444444444,
+          "wind_speed": 8.04672,
+          "wind_direction": 95,
+          "relative_humidity": 4,
+          "height": 10363
         }
       }
     },
@@ -85,12 +211,54 @@
         "precipitation_rate": 0.29
       },
       "levels": {
-        "850mb": {
-          "temperature": 0.0,
-          "wind_speed": 2.6822399999999997,
+        "1000mb": {
+          "temperature": 4.5,
+          "wind_speed": 2.2352,
           "wind_direction": 45,
           "relative_humidity": 60,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": 1.0,
+          "wind_speed": 2.45872,
+          "wind_direction": 50,
+          "relative_humidity": 55,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -4.0,
+          "wind_speed": 2.6822399999999997,
+          "wind_direction": 55,
+          "relative_humidity": 50,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -14.0,
+          "wind_speed": 3.1292799999999996,
+          "wind_direction": 60,
+          "relative_humidity": 40,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -30.0,
+          "wind_speed": 4.02336,
+          "wind_direction": 70,
+          "relative_humidity": 25,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -50.0,
+          "wind_speed": 5.587999999999999,
+          "wind_direction": 85,
+          "relative_humidity": 10,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -55.0,
+          "wind_speed": 6.7056,
+          "wind_direction": 95,
+          "relative_humidity": 5,
+          "height": 10363
         }
       }
     },
@@ -107,12 +275,54 @@
         "precipitation_rate": 0.29
       },
       "levels": {
-        "850mb": {
-          "temperature": -0.5555555555555554,
-          "wind_speed": 3.218688,
+        "1000mb": {
+          "temperature": 3.9444444444444446,
+          "wind_speed": 2.68224,
           "wind_direction": 22.5,
           "relative_humidity": 63,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": 0.44444444444444464,
+          "wind_speed": 2.9504640000000006,
+          "wind_direction": 27.5,
+          "relative_humidity": 58,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -4.555555555555555,
+          "wind_speed": 3.218688,
+          "wind_direction": 32.5,
+          "relative_humidity": 53,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -14.555555555555555,
+          "wind_speed": 3.755136,
+          "wind_direction": 37.5,
+          "relative_humidity": 43,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -30.555555555555557,
+          "wind_speed": 4.828032,
+          "wind_direction": 47.5,
+          "relative_humidity": 28,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -50.55555555555556,
+          "wind_speed": 6.7056000000000004,
+          "wind_direction": 62.5,
+          "relative_humidity": 13,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -55.55555555555556,
+          "wind_speed": 8.04672,
+          "wind_direction": 72.5,
+          "relative_humidity": 8,
+          "height": 10363
         }
       }
     },
@@ -129,12 +339,54 @@
         "precipitation_rate": 0.29
       },
       "levels": {
-        "850mb": {
-          "temperature": -1.1111111111111112,
-          "wind_speed": 3.218688,
+        "1000mb": {
+          "temperature": 3.388888888888889,
+          "wind_speed": 2.68224,
           "wind_direction": 45,
           "relative_humidity": 66,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -0.11111111111111116,
+          "wind_speed": 2.9504640000000006,
+          "wind_direction": 50,
+          "relative_humidity": 61,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -5.111111111111111,
+          "wind_speed": 3.218688,
+          "wind_direction": 55,
+          "relative_humidity": 56,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -15.11111111111111,
+          "wind_speed": 3.755136,
+          "wind_direction": 60,
+          "relative_humidity": 46,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -31.11111111111111,
+          "wind_speed": 4.828032,
+          "wind_direction": 70,
+          "relative_humidity": 31,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -51.111111111111114,
+          "wind_speed": 6.7056000000000004,
+          "wind_direction": 85,
+          "relative_humidity": 16,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -56.111111111111114,
+          "wind_speed": 8.04672,
+          "wind_direction": 95,
+          "relative_humidity": 11,
+          "height": 10363
         }
       }
     },
@@ -151,12 +403,54 @@
         "precipitation_rate": 0.4
       },
       "levels": {
-        "850mb": {
-          "temperature": -1.1111111111111112,
-          "wind_speed": 3.218688,
+        "1000mb": {
+          "temperature": 3.388888888888889,
+          "wind_speed": 2.68224,
           "wind_direction": 22.5,
           "relative_humidity": 68,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -0.11111111111111116,
+          "wind_speed": 2.9504640000000006,
+          "wind_direction": 27.5,
+          "relative_humidity": 63,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -5.111111111111111,
+          "wind_speed": 3.218688,
+          "wind_direction": 32.5,
+          "relative_humidity": 58,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -15.11111111111111,
+          "wind_speed": 3.755136,
+          "wind_direction": 37.5,
+          "relative_humidity": 48,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -31.11111111111111,
+          "wind_speed": 4.828032,
+          "wind_direction": 47.5,
+          "relative_humidity": 33,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -51.111111111111114,
+          "wind_speed": 6.7056000000000004,
+          "wind_direction": 62.5,
+          "relative_humidity": 18,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -56.111111111111114,
+          "wind_speed": 8.04672,
+          "wind_direction": 72.5,
+          "relative_humidity": 13,
+          "height": 10363
         }
       }
     },
@@ -173,12 +467,54 @@
         "precipitation_rate": 0.4
       },
       "levels": {
-        "850mb": {
-          "temperature": -1.6666666666666665,
-          "wind_speed": 3.218688,
+        "1000mb": {
+          "temperature": 2.8333333333333335,
+          "wind_speed": 2.68224,
           "wind_direction": 22.5,
           "relative_humidity": 71,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -0.6666666666666665,
+          "wind_speed": 2.9504640000000006,
+          "wind_direction": 27.5,
+          "relative_humidity": 66,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -5.666666666666666,
+          "wind_speed": 3.218688,
+          "wind_direction": 32.5,
+          "relative_humidity": 61,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -15.666666666666666,
+          "wind_speed": 3.755136,
+          "wind_direction": 37.5,
+          "relative_humidity": 51,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -31.666666666666668,
+          "wind_speed": 4.828032,
+          "wind_direction": 47.5,
+          "relative_humidity": 36,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -51.666666666666664,
+          "wind_speed": 6.7056000000000004,
+          "wind_direction": 62.5,
+          "relative_humidity": 21,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -56.666666666666664,
+          "wind_speed": 8.04672,
+          "wind_direction": 72.5,
+          "relative_humidity": 16,
+          "height": 10363
         }
       }
     },
@@ -195,12 +531,54 @@
         "precipitation_rate": 0.4
       },
       "levels": {
-        "850mb": {
-          "temperature": -2.2222222222222223,
-          "wind_speed": 3.218688,
+        "1000mb": {
+          "temperature": 2.2777777777777777,
+          "wind_speed": 2.68224,
           "wind_direction": 22.5,
           "relative_humidity": 77,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -1.2222222222222223,
+          "wind_speed": 2.9504640000000006,
+          "wind_direction": 27.5,
+          "relative_humidity": 72,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -6.222222222222222,
+          "wind_speed": 3.218688,
+          "wind_direction": 32.5,
+          "relative_humidity": 67,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -16.22222222222222,
+          "wind_speed": 3.755136,
+          "wind_direction": 37.5,
+          "relative_humidity": 57,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -32.22222222222222,
+          "wind_speed": 4.828032,
+          "wind_direction": 47.5,
+          "relative_humidity": 42,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -52.22222222222222,
+          "wind_speed": 6.7056000000000004,
+          "wind_direction": 62.5,
+          "relative_humidity": 27,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -57.22222222222222,
+          "wind_speed": 8.04672,
+          "wind_direction": 72.5,
+          "relative_humidity": 22,
+          "height": 10363
         }
       }
     },
@@ -217,12 +595,54 @@
         "precipitation_rate": 0.86
       },
       "levels": {
-        "850mb": {
-          "temperature": -2.7777777777777777,
-          "wind_speed": 3.755136,
+        "1000mb": {
+          "temperature": 1.7222222222222223,
+          "wind_speed": 3.12928,
           "wind_direction": 22.5,
           "relative_humidity": 95,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -1.7777777777777777,
+          "wind_speed": 3.4422080000000004,
+          "wind_direction": 27.5,
+          "relative_humidity": 90,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -6.777777777777778,
+          "wind_speed": 3.755136,
+          "wind_direction": 32.5,
+          "relative_humidity": 85,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -16.77777777777778,
+          "wind_speed": 4.380992,
+          "wind_direction": 37.5,
+          "relative_humidity": 75,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -32.77777777777778,
+          "wind_speed": 5.632704,
+          "wind_direction": 47.5,
+          "relative_humidity": 60,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -52.77777777777778,
+          "wind_speed": 7.8232,
+          "wind_direction": 62.5,
+          "relative_humidity": 45,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -57.77777777777778,
+          "wind_speed": 9.38784,
+          "wind_direction": 72.5,
+          "relative_humidity": 40,
+          "height": 10363
         }
       }
     },
@@ -239,12 +659,54 @@
         "precipitation_rate": 0.86
       },
       "levels": {
-        "850mb": {
-          "temperature": -2.7777777777777777,
-          "wind_speed": 3.755136,
+        "1000mb": {
+          "temperature": 1.7222222222222223,
+          "wind_speed": 3.12928,
           "wind_direction": 22.5,
           "relative_humidity": 95,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -1.7777777777777777,
+          "wind_speed": 3.4422080000000004,
+          "wind_direction": 27.5,
+          "relative_humidity": 90,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -6.777777777777778,
+          "wind_speed": 3.755136,
+          "wind_direction": 32.5,
+          "relative_humidity": 85,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -16.77777777777778,
+          "wind_speed": 4.380992,
+          "wind_direction": 37.5,
+          "relative_humidity": 75,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -32.77777777777778,
+          "wind_speed": 5.632704,
+          "wind_direction": 47.5,
+          "relative_humidity": 60,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -52.77777777777778,
+          "wind_speed": 7.8232,
+          "wind_direction": 62.5,
+          "relative_humidity": 45,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -57.77777777777778,
+          "wind_speed": 9.38784,
+          "wind_direction": 72.5,
+          "relative_humidity": 40,
+          "height": 10363
         }
       }
     },
@@ -261,12 +723,54 @@
         "precipitation_rate": 0.86
       },
       "levels": {
-        "850mb": {
-          "temperature": -3.333333333333333,
-          "wind_speed": 4.291583999999999,
+        "1000mb": {
+          "temperature": 1.1666666666666667,
+          "wind_speed": 3.57632,
           "wind_direction": 22.5,
           "relative_humidity": 98,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -2.333333333333333,
+          "wind_speed": 3.933952,
+          "wind_direction": 27.5,
+          "relative_humidity": 93,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -7.333333333333333,
+          "wind_speed": 4.291583999999999,
+          "wind_direction": 32.5,
+          "relative_humidity": 88,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -17.333333333333332,
+          "wind_speed": 5.006848,
+          "wind_direction": 37.5,
+          "relative_humidity": 78,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -33.333333333333336,
+          "wind_speed": 6.437376,
+          "wind_direction": 47.5,
+          "relative_humidity": 63,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -53.333333333333336,
+          "wind_speed": 8.9408,
+          "wind_direction": 62.5,
+          "relative_humidity": 48,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -58.333333333333336,
+          "wind_speed": 10.72896,
+          "wind_direction": 72.5,
+          "relative_humidity": 43,
+          "height": 10363
         }
       }
     },
@@ -283,12 +787,54 @@
         "precipitation_rate": 0.86
       },
       "levels": {
-        "850mb": {
-          "temperature": -3.333333333333333,
-          "wind_speed": 4.291583999999999,
+        "1000mb": {
+          "temperature": 1.1666666666666667,
+          "wind_speed": 3.57632,
           "wind_direction": 22.5,
           "relative_humidity": 99,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -2.333333333333333,
+          "wind_speed": 3.933952,
+          "wind_direction": 27.5,
+          "relative_humidity": 94,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -7.333333333333333,
+          "wind_speed": 4.291583999999999,
+          "wind_direction": 32.5,
+          "relative_humidity": 89,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -17.333333333333332,
+          "wind_speed": 5.006848,
+          "wind_direction": 37.5,
+          "relative_humidity": 79,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -33.333333333333336,
+          "wind_speed": 6.437376,
+          "wind_direction": 47.5,
+          "relative_humidity": 64,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -53.333333333333336,
+          "wind_speed": 8.9408,
+          "wind_direction": 62.5,
+          "relative_humidity": 49,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -58.333333333333336,
+          "wind_speed": 10.72896,
+          "wind_direction": 72.5,
+          "relative_humidity": 44,
+          "height": 10363
         }
       }
     },
@@ -305,12 +851,54 @@
         "precipitation_rate": 0.86
       },
       "levels": {
-        "850mb": {
-          "temperature": -3.333333333333333,
-          "wind_speed": 4.828032,
+        "1000mb": {
+          "temperature": 1.1666666666666667,
+          "wind_speed": 4.02336,
           "wind_direction": 22.5,
           "relative_humidity": 98,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -2.333333333333333,
+          "wind_speed": 4.425696,
+          "wind_direction": 27.5,
+          "relative_humidity": 93,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -7.333333333333333,
+          "wind_speed": 4.828032,
+          "wind_direction": 32.5,
+          "relative_humidity": 88,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -17.333333333333332,
+          "wind_speed": 5.632704,
+          "wind_direction": 37.5,
+          "relative_humidity": 78,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -33.333333333333336,
+          "wind_speed": 7.2420480000000005,
+          "wind_direction": 47.5,
+          "relative_humidity": 63,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -53.333333333333336,
+          "wind_speed": 10.0584,
+          "wind_direction": 62.5,
+          "relative_humidity": 48,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -58.333333333333336,
+          "wind_speed": 12.07008,
+          "wind_direction": 72.5,
+          "relative_humidity": 43,
+          "height": 10363
         }
       }
     },
@@ -327,12 +915,54 @@
         "precipitation_rate": 0.86
       },
       "levels": {
-        "850mb": {
-          "temperature": -3.888888888888889,
-          "wind_speed": 4.828032,
+        "1000mb": {
+          "temperature": 0.6111111111111112,
+          "wind_speed": 4.02336,
           "wind_direction": 22.5,
           "relative_humidity": 100,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -2.888888888888889,
+          "wind_speed": 4.425696,
+          "wind_direction": 27.5,
+          "relative_humidity": 95,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -7.888888888888889,
+          "wind_speed": 4.828032,
+          "wind_direction": 32.5,
+          "relative_humidity": 90,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -17.88888888888889,
+          "wind_speed": 5.632704,
+          "wind_direction": 37.5,
+          "relative_humidity": 80,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -33.888888888888886,
+          "wind_speed": 7.2420480000000005,
+          "wind_direction": 47.5,
+          "relative_humidity": 65,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -53.888888888888886,
+          "wind_speed": 10.0584,
+          "wind_direction": 62.5,
+          "relative_humidity": 50,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -58.888888888888886,
+          "wind_speed": 12.07008,
+          "wind_direction": 72.5,
+          "relative_humidity": 45,
+          "height": 10363
         }
       }
     },
@@ -349,12 +979,54 @@
         "precipitation_rate": 0.87
       },
       "levels": {
-        "850mb": {
-          "temperature": -3.333333333333333,
-          "wind_speed": 5.3644799999999995,
+        "1000mb": {
+          "temperature": 1.1666666666666667,
+          "wind_speed": 4.4704,
           "wind_direction": 22.5,
           "relative_humidity": 100,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -2.333333333333333,
+          "wind_speed": 4.91744,
+          "wind_direction": 27.5,
+          "relative_humidity": 95,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -7.333333333333333,
+          "wind_speed": 5.3644799999999995,
+          "wind_direction": 32.5,
+          "relative_humidity": 90,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -17.333333333333332,
+          "wind_speed": 6.258559999999999,
+          "wind_direction": 37.5,
+          "relative_humidity": 80,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -33.333333333333336,
+          "wind_speed": 8.04672,
+          "wind_direction": 47.5,
+          "relative_humidity": 65,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -53.333333333333336,
+          "wind_speed": 11.175999999999998,
+          "wind_direction": 62.5,
+          "relative_humidity": 50,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -58.333333333333336,
+          "wind_speed": 13.4112,
+          "wind_direction": 72.5,
+          "relative_humidity": 45,
+          "height": 10363
         }
       }
     },
@@ -371,12 +1043,54 @@
         "precipitation_rate": 0.87
       },
       "levels": {
-        "850mb": {
-          "temperature": -3.333333333333333,
-          "wind_speed": 5.3644799999999995,
+        "1000mb": {
+          "temperature": 1.1666666666666667,
+          "wind_speed": 4.4704,
           "wind_direction": 0,
           "relative_humidity": 100,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -2.333333333333333,
+          "wind_speed": 4.91744,
+          "wind_direction": 5,
+          "relative_humidity": 95,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -7.333333333333333,
+          "wind_speed": 5.3644799999999995,
+          "wind_direction": 10,
+          "relative_humidity": 90,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -17.333333333333332,
+          "wind_speed": 6.258559999999999,
+          "wind_direction": 15,
+          "relative_humidity": 80,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -33.333333333333336,
+          "wind_speed": 8.04672,
+          "wind_direction": 25,
+          "relative_humidity": 65,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -53.333333333333336,
+          "wind_speed": 11.175999999999998,
+          "wind_direction": 40,
+          "relative_humidity": 50,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -58.333333333333336,
+          "wind_speed": 13.4112,
+          "wind_direction": 50,
+          "relative_humidity": 45,
+          "height": 10363
         }
       }
     },
@@ -393,12 +1107,54 @@
         "precipitation_rate": 0.87
       },
       "levels": {
-        "850mb": {
-          "temperature": -2.2222222222222223,
-          "wind_speed": 6.973824,
+        "1000mb": {
+          "temperature": 2.2777777777777777,
+          "wind_speed": 5.81152,
           "wind_direction": 22.5,
           "relative_humidity": 98,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -1.2222222222222223,
+          "wind_speed": 6.392672,
+          "wind_direction": 27.5,
+          "relative_humidity": 93,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -6.222222222222222,
+          "wind_speed": 6.973824,
+          "wind_direction": 32.5,
+          "relative_humidity": 88,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -16.22222222222222,
+          "wind_speed": 8.136128,
+          "wind_direction": 37.5,
+          "relative_humidity": 78,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -32.22222222222222,
+          "wind_speed": 10.460736,
+          "wind_direction": 47.5,
+          "relative_humidity": 63,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -52.22222222222222,
+          "wind_speed": 14.5288,
+          "wind_direction": 62.5,
+          "relative_humidity": 48,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -57.22222222222222,
+          "wind_speed": 17.434559999999998,
+          "wind_direction": 72.5,
+          "relative_humidity": 43,
+          "height": 10363
         }
       }
     },
@@ -415,12 +1171,54 @@
         "precipitation_rate": 0.87
       },
       "levels": {
-        "850mb": {
-          "temperature": -1.6666666666666665,
-          "wind_speed": 6.973824,
+        "1000mb": {
+          "temperature": 2.8333333333333335,
+          "wind_speed": 5.81152,
           "wind_direction": 0,
           "relative_humidity": 94,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -0.6666666666666665,
+          "wind_speed": 6.392672,
+          "wind_direction": 5,
+          "relative_humidity": 89,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -5.666666666666666,
+          "wind_speed": 6.973824,
+          "wind_direction": 10,
+          "relative_humidity": 84,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -15.666666666666666,
+          "wind_speed": 8.136128,
+          "wind_direction": 15,
+          "relative_humidity": 74,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -31.666666666666668,
+          "wind_speed": 10.460736,
+          "wind_direction": 25,
+          "relative_humidity": 59,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -51.666666666666664,
+          "wind_speed": 14.5288,
+          "wind_direction": 40,
+          "relative_humidity": 44,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -56.666666666666664,
+          "wind_speed": 17.434559999999998,
+          "wind_direction": 50,
+          "relative_humidity": 39,
+          "height": 10363
         }
       }
     },
@@ -437,12 +1235,54 @@
         "precipitation_rate": 0.87
       },
       "levels": {
-        "850mb": {
-          "temperature": -1.6666666666666665,
-          "wind_speed": 6.973824,
+        "1000mb": {
+          "temperature": 2.8333333333333335,
+          "wind_speed": 5.81152,
           "wind_direction": 0,
           "relative_humidity": 92,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -0.6666666666666665,
+          "wind_speed": 6.392672,
+          "wind_direction": 5,
+          "relative_humidity": 87,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -5.666666666666666,
+          "wind_speed": 6.973824,
+          "wind_direction": 10,
+          "relative_humidity": 82,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -15.666666666666666,
+          "wind_speed": 8.136128,
+          "wind_direction": 15,
+          "relative_humidity": 72,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -31.666666666666668,
+          "wind_speed": 10.460736,
+          "wind_direction": 25,
+          "relative_humidity": 57,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -51.666666666666664,
+          "wind_speed": 14.5288,
+          "wind_direction": 40,
+          "relative_humidity": 42,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -56.666666666666664,
+          "wind_speed": 17.434559999999998,
+          "wind_direction": 50,
+          "relative_humidity": 37,
+          "height": 10363
         }
       }
     },
@@ -459,12 +1299,54 @@
         "precipitation_rate": 0.87
       },
       "levels": {
-        "850mb": {
-          "temperature": -1.1111111111111112,
-          "wind_speed": 7.510272,
+        "1000mb": {
+          "temperature": 3.388888888888889,
+          "wind_speed": 6.25856,
           "wind_direction": 0,
           "relative_humidity": 87,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -0.11111111111111116,
+          "wind_speed": 6.884416000000001,
+          "wind_direction": 5,
+          "relative_humidity": 82,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -5.111111111111111,
+          "wind_speed": 7.510272,
+          "wind_direction": 10,
+          "relative_humidity": 77,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -15.11111111111111,
+          "wind_speed": 8.761984,
+          "wind_direction": 15,
+          "relative_humidity": 67,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -31.11111111111111,
+          "wind_speed": 11.265408,
+          "wind_direction": 25,
+          "relative_humidity": 52,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -51.111111111111114,
+          "wind_speed": 15.6464,
+          "wind_direction": 40,
+          "relative_humidity": 37,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -56.111111111111114,
+          "wind_speed": 18.77568,
+          "wind_direction": 50,
+          "relative_humidity": 32,
+          "height": 10363
         }
       }
     },
@@ -481,12 +1363,54 @@
         "precipitation_rate": 0.55
       },
       "levels": {
-        "850mb": {
-          "temperature": -0.5555555555555554,
-          "wind_speed": 7.510272,
+        "1000mb": {
+          "temperature": 3.9444444444444446,
+          "wind_speed": 6.25856,
           "wind_direction": 0,
           "relative_humidity": 81,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": 0.44444444444444464,
+          "wind_speed": 6.884416000000001,
+          "wind_direction": 5,
+          "relative_humidity": 76,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -4.555555555555555,
+          "wind_speed": 7.510272,
+          "wind_direction": 10,
+          "relative_humidity": 71,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -14.555555555555555,
+          "wind_speed": 8.761984,
+          "wind_direction": 15,
+          "relative_humidity": 61,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -30.555555555555557,
+          "wind_speed": 11.265408,
+          "wind_direction": 25,
+          "relative_humidity": 46,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -50.55555555555556,
+          "wind_speed": 15.6464,
+          "wind_direction": 40,
+          "relative_humidity": 31,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -55.55555555555556,
+          "wind_speed": 18.77568,
+          "wind_direction": 50,
+          "relative_humidity": 26,
+          "height": 10363
         }
       }
     },
@@ -503,12 +1427,54 @@
         "precipitation_rate": 0.55
       },
       "levels": {
-        "850mb": {
-          "temperature": -0.5555555555555554,
-          "wind_speed": 7.510272,
+        "1000mb": {
+          "temperature": 3.9444444444444446,
+          "wind_speed": 6.25856,
           "wind_direction": 0,
           "relative_humidity": 84,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": 0.44444444444444464,
+          "wind_speed": 6.884416000000001,
+          "wind_direction": 5,
+          "relative_humidity": 79,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -4.555555555555555,
+          "wind_speed": 7.510272,
+          "wind_direction": 10,
+          "relative_humidity": 74,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -14.555555555555555,
+          "wind_speed": 8.761984,
+          "wind_direction": 15,
+          "relative_humidity": 64,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -30.555555555555557,
+          "wind_speed": 11.265408,
+          "wind_direction": 25,
+          "relative_humidity": 49,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -50.55555555555556,
+          "wind_speed": 15.6464,
+          "wind_direction": 40,
+          "relative_humidity": 34,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -55.55555555555556,
+          "wind_speed": 18.77568,
+          "wind_direction": 50,
+          "relative_humidity": 29,
+          "height": 10363
         }
       }
     },
@@ -525,12 +1491,54 @@
         "precipitation_rate": 0.55
       },
       "levels": {
-        "850mb": {
-          "temperature": -0.5555555555555554,
-          "wind_speed": 6.973824,
+        "1000mb": {
+          "temperature": 3.9444444444444446,
+          "wind_speed": 5.81152,
           "wind_direction": 0,
           "relative_humidity": 80,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": 0.44444444444444464,
+          "wind_speed": 6.392672,
+          "wind_direction": 5,
+          "relative_humidity": 75,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -4.555555555555555,
+          "wind_speed": 6.973824,
+          "wind_direction": 10,
+          "relative_humidity": 70,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -14.555555555555555,
+          "wind_speed": 8.136128,
+          "wind_direction": 15,
+          "relative_humidity": 60,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -30.555555555555557,
+          "wind_speed": 10.460736,
+          "wind_direction": 25,
+          "relative_humidity": 45,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -50.55555555555556,
+          "wind_speed": 14.5288,
+          "wind_direction": 40,
+          "relative_humidity": 30,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -55.55555555555556,
+          "wind_speed": 17.434559999999998,
+          "wind_direction": 50,
+          "relative_humidity": 25,
+          "height": 10363
         }
       }
     },
@@ -547,12 +1555,54 @@
         "precipitation_rate": 0.55
       },
       "levels": {
-        "850mb": {
-          "temperature": -1.1111111111111112,
-          "wind_speed": 6.973824,
+        "1000mb": {
+          "temperature": 3.388888888888889,
+          "wind_speed": 5.81152,
           "wind_direction": 0,
           "relative_humidity": 82,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -0.11111111111111116,
+          "wind_speed": 6.392672,
+          "wind_direction": 5,
+          "relative_humidity": 77,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -5.111111111111111,
+          "wind_speed": 6.973824,
+          "wind_direction": 10,
+          "relative_humidity": 72,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -15.11111111111111,
+          "wind_speed": 8.136128,
+          "wind_direction": 15,
+          "relative_humidity": 62,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -31.11111111111111,
+          "wind_speed": 10.460736,
+          "wind_direction": 25,
+          "relative_humidity": 47,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -51.111111111111114,
+          "wind_speed": 14.5288,
+          "wind_direction": 40,
+          "relative_humidity": 32,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -56.111111111111114,
+          "wind_speed": 17.434559999999998,
+          "wind_direction": 50,
+          "relative_humidity": 27,
+          "height": 10363
         }
       }
     },
@@ -569,12 +1619,54 @@
         "precipitation_rate": 0.55
       },
       "levels": {
-        "850mb": {
-          "temperature": -1.6666666666666665,
-          "wind_speed": 6.437376,
+        "1000mb": {
+          "temperature": 2.8333333333333335,
+          "wind_speed": 5.36448,
           "wind_direction": 0,
           "relative_humidity": 83,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -0.6666666666666665,
+          "wind_speed": 5.900928000000001,
+          "wind_direction": 5,
+          "relative_humidity": 78,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -5.666666666666666,
+          "wind_speed": 6.437376,
+          "wind_direction": 10,
+          "relative_humidity": 73,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -15.666666666666666,
+          "wind_speed": 7.510272,
+          "wind_direction": 15,
+          "relative_humidity": 63,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -31.666666666666668,
+          "wind_speed": 9.656064,
+          "wind_direction": 25,
+          "relative_humidity": 48,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -51.666666666666664,
+          "wind_speed": 13.411200000000001,
+          "wind_direction": 40,
+          "relative_humidity": 33,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -56.666666666666664,
+          "wind_speed": 16.09344,
+          "wind_direction": 50,
+          "relative_humidity": 28,
+          "height": 10363
         }
       }
     },
@@ -591,12 +1683,54 @@
         "precipitation_rate": 0.55
       },
       "levels": {
-        "850mb": {
-          "temperature": -2.2222222222222223,
-          "wind_speed": 6.437376,
+        "1000mb": {
+          "temperature": 2.2777777777777777,
+          "wind_speed": 5.36448,
           "wind_direction": 337.5,
           "relative_humidity": 85,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -1.2222222222222223,
+          "wind_speed": 5.900928000000001,
+          "wind_direction": 342.5,
+          "relative_humidity": 80,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -6.222222222222222,
+          "wind_speed": 6.437376,
+          "wind_direction": 347.5,
+          "relative_humidity": 75,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -16.22222222222222,
+          "wind_speed": 7.510272,
+          "wind_direction": 352.5,
+          "relative_humidity": 65,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -32.22222222222222,
+          "wind_speed": 9.656064,
+          "wind_direction": 362.5,
+          "relative_humidity": 50,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -52.22222222222222,
+          "wind_speed": 13.411200000000001,
+          "wind_direction": 377.5,
+          "relative_humidity": 35,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -57.22222222222222,
+          "wind_speed": 16.09344,
+          "wind_direction": 387.5,
+          "relative_humidity": 30,
+          "height": 10363
         }
       }
     },
@@ -613,12 +1747,54 @@
         "precipitation_rate": 0.52
       },
       "levels": {
-        "850mb": {
-          "temperature": -2.7777777777777777,
-          "wind_speed": 5.3644799999999995,
+        "1000mb": {
+          "temperature": 1.7222222222222223,
+          "wind_speed": 4.4704,
           "wind_direction": 337.5,
           "relative_humidity": 86,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -1.7777777777777777,
+          "wind_speed": 4.91744,
+          "wind_direction": 342.5,
+          "relative_humidity": 81,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -6.777777777777778,
+          "wind_speed": 5.3644799999999995,
+          "wind_direction": 347.5,
+          "relative_humidity": 76,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -16.77777777777778,
+          "wind_speed": 6.258559999999999,
+          "wind_direction": 352.5,
+          "relative_humidity": 66,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -32.77777777777778,
+          "wind_speed": 8.04672,
+          "wind_direction": 362.5,
+          "relative_humidity": 51,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -52.77777777777778,
+          "wind_speed": 11.175999999999998,
+          "wind_direction": 377.5,
+          "relative_humidity": 36,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -57.77777777777778,
+          "wind_speed": 13.4112,
+          "wind_direction": 387.5,
+          "relative_humidity": 31,
+          "height": 10363
         }
       }
     },
@@ -635,12 +1811,54 @@
         "precipitation_rate": 0.52
       },
       "levels": {
-        "850mb": {
-          "temperature": -3.333333333333333,
-          "wind_speed": 5.3644799999999995,
+        "1000mb": {
+          "temperature": 1.1666666666666667,
+          "wind_speed": 4.4704,
           "wind_direction": 0,
           "relative_humidity": 88,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -2.333333333333333,
+          "wind_speed": 4.91744,
+          "wind_direction": 5,
+          "relative_humidity": 83,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -7.333333333333333,
+          "wind_speed": 5.3644799999999995,
+          "wind_direction": 10,
+          "relative_humidity": 78,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -17.333333333333332,
+          "wind_speed": 6.258559999999999,
+          "wind_direction": 15,
+          "relative_humidity": 68,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -33.333333333333336,
+          "wind_speed": 8.04672,
+          "wind_direction": 25,
+          "relative_humidity": 53,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -53.333333333333336,
+          "wind_speed": 11.175999999999998,
+          "wind_direction": 40,
+          "relative_humidity": 38,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -58.333333333333336,
+          "wind_speed": 13.4112,
+          "wind_direction": 50,
+          "relative_humidity": 33,
+          "height": 10363
         }
       }
     },
@@ -657,12 +1875,54 @@
         "precipitation_rate": 0.52
       },
       "levels": {
-        "850mb": {
-          "temperature": -3.888888888888889,
-          "wind_speed": 4.828032,
+        "1000mb": {
+          "temperature": 0.6111111111111112,
+          "wind_speed": 4.02336,
           "wind_direction": 0,
           "relative_humidity": 88,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -2.888888888888889,
+          "wind_speed": 4.425696,
+          "wind_direction": 5,
+          "relative_humidity": 83,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -7.888888888888889,
+          "wind_speed": 4.828032,
+          "wind_direction": 10,
+          "relative_humidity": 78,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -17.88888888888889,
+          "wind_speed": 5.632704,
+          "wind_direction": 15,
+          "relative_humidity": 68,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -33.888888888888886,
+          "wind_speed": 7.2420480000000005,
+          "wind_direction": 25,
+          "relative_humidity": 53,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -53.888888888888886,
+          "wind_speed": 10.0584,
+          "wind_direction": 40,
+          "relative_humidity": 38,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -58.888888888888886,
+          "wind_speed": 12.07008,
+          "wind_direction": 50,
+          "relative_humidity": 33,
+          "height": 10363
         }
       }
     },
@@ -679,12 +1939,54 @@
         "precipitation_rate": 0.52
       },
       "levels": {
-        "850mb": {
-          "temperature": -4.444444444444445,
-          "wind_speed": 4.828032,
+        "1000mb": {
+          "temperature": 0.05555555555555558,
+          "wind_speed": 4.02336,
           "wind_direction": 337.5,
           "relative_humidity": 91,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -3.4444444444444446,
+          "wind_speed": 4.425696,
+          "wind_direction": 342.5,
+          "relative_humidity": 86,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -8.444444444444445,
+          "wind_speed": 4.828032,
+          "wind_direction": 347.5,
+          "relative_humidity": 81,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -18.444444444444443,
+          "wind_speed": 5.632704,
+          "wind_direction": 352.5,
+          "relative_humidity": 71,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -34.44444444444444,
+          "wind_speed": 7.2420480000000005,
+          "wind_direction": 362.5,
+          "relative_humidity": 56,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -54.44444444444444,
+          "wind_speed": 10.0584,
+          "wind_direction": 377.5,
+          "relative_humidity": 41,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -59.44444444444444,
+          "wind_speed": 12.07008,
+          "wind_direction": 387.5,
+          "relative_humidity": 36,
+          "height": 10363
         }
       }
     },
@@ -701,12 +2003,54 @@
         "precipitation_rate": 0.52
       },
       "levels": {
-        "850mb": {
-          "temperature": -5.0,
-          "wind_speed": 4.291583999999999,
+        "1000mb": {
+          "temperature": -0.5,
+          "wind_speed": 3.57632,
           "wind_direction": 337.5,
           "relative_humidity": 91,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -4.0,
+          "wind_speed": 3.933952,
+          "wind_direction": 342.5,
+          "relative_humidity": 86,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -9.0,
+          "wind_speed": 4.291583999999999,
+          "wind_direction": 347.5,
+          "relative_humidity": 81,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -19.0,
+          "wind_speed": 5.006848,
+          "wind_direction": 352.5,
+          "relative_humidity": 71,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -35.0,
+          "wind_speed": 6.437376,
+          "wind_direction": 362.5,
+          "relative_humidity": 56,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -55.0,
+          "wind_speed": 8.9408,
+          "wind_direction": 377.5,
+          "relative_humidity": 41,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -60.0,
+          "wind_speed": 10.72896,
+          "wind_direction": 387.5,
+          "relative_humidity": 36,
+          "height": 10363
         }
       }
     },
@@ -723,12 +2067,54 @@
         "precipitation_rate": 0.52
       },
       "levels": {
-        "850mb": {
-          "temperature": -5.555555555555555,
-          "wind_speed": 4.291583999999999,
+        "1000mb": {
+          "temperature": -1.0555555555555556,
+          "wind_speed": 3.57632,
           "wind_direction": 0,
           "relative_humidity": 91,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -4.555555555555555,
+          "wind_speed": 3.933952,
+          "wind_direction": 5,
+          "relative_humidity": 86,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -9.555555555555555,
+          "wind_speed": 4.291583999999999,
+          "wind_direction": 10,
+          "relative_humidity": 81,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -19.555555555555557,
+          "wind_speed": 5.006848,
+          "wind_direction": 15,
+          "relative_humidity": 71,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -35.55555555555556,
+          "wind_speed": 6.437376,
+          "wind_direction": 25,
+          "relative_humidity": 56,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -55.55555555555556,
+          "wind_speed": 8.9408,
+          "wind_direction": 40,
+          "relative_humidity": 41,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -60.55555555555556,
+          "wind_speed": 10.72896,
+          "wind_direction": 50,
+          "relative_humidity": 36,
+          "height": 10363
         }
       }
     },
@@ -745,12 +2131,54 @@
         "precipitation_rate": 0.59
       },
       "levels": {
-        "850mb": {
-          "temperature": -5.555555555555555,
-          "wind_speed": 4.291583999999999,
+        "1000mb": {
+          "temperature": -1.0555555555555556,
+          "wind_speed": 3.57632,
           "wind_direction": 0,
           "relative_humidity": 91,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -4.555555555555555,
+          "wind_speed": 3.933952,
+          "wind_direction": 5,
+          "relative_humidity": 86,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -9.555555555555555,
+          "wind_speed": 4.291583999999999,
+          "wind_direction": 10,
+          "relative_humidity": 81,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -19.555555555555557,
+          "wind_speed": 5.006848,
+          "wind_direction": 15,
+          "relative_humidity": 71,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -35.55555555555556,
+          "wind_speed": 6.437376,
+          "wind_direction": 25,
+          "relative_humidity": 56,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -55.55555555555556,
+          "wind_speed": 8.9408,
+          "wind_direction": 40,
+          "relative_humidity": 41,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -60.55555555555556,
+          "wind_speed": 10.72896,
+          "wind_direction": 50,
+          "relative_humidity": 36,
+          "height": 10363
         }
       }
     },
@@ -767,12 +2195,54 @@
         "precipitation_rate": 0.59
       },
       "levels": {
-        "850mb": {
-          "temperature": -6.111111111111111,
-          "wind_speed": 4.291583999999999,
+        "1000mb": {
+          "temperature": -1.6111111111111112,
+          "wind_speed": 3.57632,
           "wind_direction": 0,
           "relative_humidity": 92,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -5.111111111111111,
+          "wind_speed": 3.933952,
+          "wind_direction": 5,
+          "relative_humidity": 87,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -10.11111111111111,
+          "wind_speed": 4.291583999999999,
+          "wind_direction": 10,
+          "relative_humidity": 82,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -20.11111111111111,
+          "wind_speed": 5.006848,
+          "wind_direction": 15,
+          "relative_humidity": 72,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -36.111111111111114,
+          "wind_speed": 6.437376,
+          "wind_direction": 25,
+          "relative_humidity": 57,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -56.111111111111114,
+          "wind_speed": 8.9408,
+          "wind_direction": 40,
+          "relative_humidity": 42,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -61.111111111111114,
+          "wind_speed": 10.72896,
+          "wind_direction": 50,
+          "relative_humidity": 37,
+          "height": 10363
         }
       }
     },
@@ -789,12 +2259,54 @@
         "precipitation_rate": 0.59
       },
       "levels": {
-        "850mb": {
-          "temperature": -6.111111111111111,
-          "wind_speed": 4.828032,
+        "1000mb": {
+          "temperature": -1.6111111111111112,
+          "wind_speed": 4.02336,
           "wind_direction": 0,
           "relative_humidity": 92,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -5.111111111111111,
+          "wind_speed": 4.425696,
+          "wind_direction": 5,
+          "relative_humidity": 87,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -10.11111111111111,
+          "wind_speed": 4.828032,
+          "wind_direction": 10,
+          "relative_humidity": 82,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -20.11111111111111,
+          "wind_speed": 5.632704,
+          "wind_direction": 15,
+          "relative_humidity": 72,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -36.111111111111114,
+          "wind_speed": 7.2420480000000005,
+          "wind_direction": 25,
+          "relative_humidity": 57,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -56.111111111111114,
+          "wind_speed": 10.0584,
+          "wind_direction": 40,
+          "relative_humidity": 42,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -61.111111111111114,
+          "wind_speed": 12.07008,
+          "wind_direction": 50,
+          "relative_humidity": 37,
+          "height": 10363
         }
       }
     },
@@ -811,12 +2323,54 @@
         "precipitation_rate": 0.59
       },
       "levels": {
-        "850mb": {
-          "temperature": -6.666666666666667,
-          "wind_speed": 5.3644799999999995,
+        "1000mb": {
+          "temperature": -2.166666666666667,
+          "wind_speed": 4.4704,
           "wind_direction": 0,
           "relative_humidity": 92,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -5.666666666666667,
+          "wind_speed": 4.91744,
+          "wind_direction": 5,
+          "relative_humidity": 87,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -10.666666666666666,
+          "wind_speed": 5.3644799999999995,
+          "wind_direction": 10,
+          "relative_humidity": 82,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -20.666666666666668,
+          "wind_speed": 6.258559999999999,
+          "wind_direction": 15,
+          "relative_humidity": 72,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -36.666666666666664,
+          "wind_speed": 8.04672,
+          "wind_direction": 25,
+          "relative_humidity": 57,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -56.666666666666664,
+          "wind_speed": 11.175999999999998,
+          "wind_direction": 40,
+          "relative_humidity": 42,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -61.666666666666664,
+          "wind_speed": 13.4112,
+          "wind_direction": 50,
+          "relative_humidity": 37,
+          "height": 10363
         }
       }
     },
@@ -833,12 +2387,54 @@
         "precipitation_rate": 0.59
       },
       "levels": {
-        "850mb": {
-          "temperature": -6.666666666666667,
-          "wind_speed": 5.3644799999999995,
+        "1000mb": {
+          "temperature": -2.166666666666667,
+          "wind_speed": 4.4704,
           "wind_direction": 0,
           "relative_humidity": 93,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -5.666666666666667,
+          "wind_speed": 4.91744,
+          "wind_direction": 5,
+          "relative_humidity": 88,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -10.666666666666666,
+          "wind_speed": 5.3644799999999995,
+          "wind_direction": 10,
+          "relative_humidity": 83,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -20.666666666666668,
+          "wind_speed": 6.258559999999999,
+          "wind_direction": 15,
+          "relative_humidity": 73,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -36.666666666666664,
+          "wind_speed": 8.04672,
+          "wind_direction": 25,
+          "relative_humidity": 58,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -56.666666666666664,
+          "wind_speed": 11.175999999999998,
+          "wind_direction": 40,
+          "relative_humidity": 43,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -61.666666666666664,
+          "wind_speed": 13.4112,
+          "wind_direction": 50,
+          "relative_humidity": 38,
+          "height": 10363
         }
       }
     },
@@ -855,12 +2451,54 @@
         "precipitation_rate": 0.59
       },
       "levels": {
-        "850mb": {
-          "temperature": -7.222222222222222,
-          "wind_speed": 5.3644799999999995,
+        "1000mb": {
+          "temperature": -2.7222222222222223,
+          "wind_speed": 4.4704,
           "wind_direction": 0,
           "relative_humidity": 93,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -6.222222222222222,
+          "wind_speed": 4.91744,
+          "wind_direction": 5,
+          "relative_humidity": 88,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -11.222222222222221,
+          "wind_speed": 5.3644799999999995,
+          "wind_direction": 10,
+          "relative_humidity": 83,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -21.22222222222222,
+          "wind_speed": 6.258559999999999,
+          "wind_direction": 15,
+          "relative_humidity": 73,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -37.22222222222222,
+          "wind_speed": 8.04672,
+          "wind_direction": 25,
+          "relative_humidity": 58,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -57.22222222222222,
+          "wind_speed": 11.175999999999998,
+          "wind_direction": 40,
+          "relative_humidity": 43,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -62.22222222222222,
+          "wind_speed": 13.4112,
+          "wind_direction": 50,
+          "relative_humidity": 38,
+          "height": 10363
         }
       }
     },
@@ -877,12 +2515,54 @@
         "precipitation_rate": 0.41
       },
       "levels": {
-        "850mb": {
-          "temperature": -7.222222222222222,
-          "wind_speed": 5.3644799999999995,
+        "1000mb": {
+          "temperature": -2.7222222222222223,
+          "wind_speed": 4.4704,
           "wind_direction": 0,
           "relative_humidity": 91,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -6.222222222222222,
+          "wind_speed": 4.91744,
+          "wind_direction": 5,
+          "relative_humidity": 86,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -11.222222222222221,
+          "wind_speed": 5.3644799999999995,
+          "wind_direction": 10,
+          "relative_humidity": 81,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -21.22222222222222,
+          "wind_speed": 6.258559999999999,
+          "wind_direction": 15,
+          "relative_humidity": 71,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -37.22222222222222,
+          "wind_speed": 8.04672,
+          "wind_direction": 25,
+          "relative_humidity": 56,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -57.22222222222222,
+          "wind_speed": 11.175999999999998,
+          "wind_direction": 40,
+          "relative_humidity": 41,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -62.22222222222222,
+          "wind_speed": 13.4112,
+          "wind_direction": 50,
+          "relative_humidity": 36,
+          "height": 10363
         }
       }
     },
@@ -899,12 +2579,54 @@
         "precipitation_rate": 0.41
       },
       "levels": {
-        "850mb": {
-          "temperature": -6.111111111111111,
-          "wind_speed": 6.437376,
+        "1000mb": {
+          "temperature": -1.6111111111111112,
+          "wind_speed": 5.36448,
           "wind_direction": 0,
           "relative_humidity": 86,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -5.111111111111111,
+          "wind_speed": 5.900928000000001,
+          "wind_direction": 5,
+          "relative_humidity": 81,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -10.11111111111111,
+          "wind_speed": 6.437376,
+          "wind_direction": 10,
+          "relative_humidity": 76,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -20.11111111111111,
+          "wind_speed": 7.510272,
+          "wind_direction": 15,
+          "relative_humidity": 66,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -36.111111111111114,
+          "wind_speed": 9.656064,
+          "wind_direction": 25,
+          "relative_humidity": 51,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -56.111111111111114,
+          "wind_speed": 13.411200000000001,
+          "wind_direction": 40,
+          "relative_humidity": 36,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -61.111111111111114,
+          "wind_speed": 16.09344,
+          "wind_direction": 50,
+          "relative_humidity": 31,
+          "height": 10363
         }
       }
     },
@@ -921,12 +2643,54 @@
         "precipitation_rate": 0.41
       },
       "levels": {
-        "850mb": {
-          "temperature": -5.555555555555555,
-          "wind_speed": 6.437376,
+        "1000mb": {
+          "temperature": -1.0555555555555556,
+          "wind_speed": 5.36448,
           "wind_direction": 0,
           "relative_humidity": 80,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -4.555555555555555,
+          "wind_speed": 5.900928000000001,
+          "wind_direction": 5,
+          "relative_humidity": 75,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -9.555555555555555,
+          "wind_speed": 6.437376,
+          "wind_direction": 10,
+          "relative_humidity": 70,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -19.555555555555557,
+          "wind_speed": 7.510272,
+          "wind_direction": 15,
+          "relative_humidity": 60,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -35.55555555555556,
+          "wind_speed": 9.656064,
+          "wind_direction": 25,
+          "relative_humidity": 45,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -55.55555555555556,
+          "wind_speed": 13.411200000000001,
+          "wind_direction": 40,
+          "relative_humidity": 30,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -60.55555555555556,
+          "wind_speed": 16.09344,
+          "wind_direction": 50,
+          "relative_humidity": 25,
+          "height": 10363
         }
       }
     },
@@ -943,12 +2707,54 @@
         "precipitation_rate": 0.41
       },
       "levels": {
-        "850mb": {
-          "temperature": -4.444444444444445,
-          "wind_speed": 6.973824,
+        "1000mb": {
+          "temperature": 0.05555555555555558,
+          "wind_speed": 5.81152,
           "wind_direction": 0,
           "relative_humidity": 74,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -3.4444444444444446,
+          "wind_speed": 6.392672,
+          "wind_direction": 5,
+          "relative_humidity": 69,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -8.444444444444445,
+          "wind_speed": 6.973824,
+          "wind_direction": 10,
+          "relative_humidity": 64,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -18.444444444444443,
+          "wind_speed": 8.136128,
+          "wind_direction": 15,
+          "relative_humidity": 54,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -34.44444444444444,
+          "wind_speed": 10.460736,
+          "wind_direction": 25,
+          "relative_humidity": 39,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -54.44444444444444,
+          "wind_speed": 14.5288,
+          "wind_direction": 40,
+          "relative_humidity": 24,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -59.44444444444444,
+          "wind_speed": 17.434559999999998,
+          "wind_direction": 50,
+          "relative_humidity": 19,
+          "height": 10363
         }
       }
     },
@@ -965,12 +2771,54 @@
         "precipitation_rate": 0.41
       },
       "levels": {
-        "850mb": {
-          "temperature": -3.888888888888889,
-          "wind_speed": 6.973824,
+        "1000mb": {
+          "temperature": 0.6111111111111112,
+          "wind_speed": 5.81152,
           "wind_direction": 0,
           "relative_humidity": 69,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -2.888888888888889,
+          "wind_speed": 6.392672,
+          "wind_direction": 5,
+          "relative_humidity": 64,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -7.888888888888889,
+          "wind_speed": 6.973824,
+          "wind_direction": 10,
+          "relative_humidity": 59,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -17.88888888888889,
+          "wind_speed": 8.136128,
+          "wind_direction": 15,
+          "relative_humidity": 49,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -33.888888888888886,
+          "wind_speed": 10.460736,
+          "wind_direction": 25,
+          "relative_humidity": 34,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -53.888888888888886,
+          "wind_speed": 14.5288,
+          "wind_direction": 40,
+          "relative_humidity": 19,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -58.888888888888886,
+          "wind_speed": 17.434559999999998,
+          "wind_direction": 50,
+          "relative_humidity": 14,
+          "height": 10363
         }
       }
     },
@@ -987,12 +2835,54 @@
         "precipitation_rate": 0.41
       },
       "levels": {
-        "850mb": {
-          "temperature": -3.333333333333333,
-          "wind_speed": 6.973824,
+        "1000mb": {
+          "temperature": 1.1666666666666667,
+          "wind_speed": 5.81152,
           "wind_direction": 337.5,
           "relative_humidity": 64,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -2.333333333333333,
+          "wind_speed": 6.392672,
+          "wind_direction": 342.5,
+          "relative_humidity": 59,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -7.333333333333333,
+          "wind_speed": 6.973824,
+          "wind_direction": 347.5,
+          "relative_humidity": 54,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -17.333333333333332,
+          "wind_speed": 8.136128,
+          "wind_direction": 352.5,
+          "relative_humidity": 44,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -33.333333333333336,
+          "wind_speed": 10.460736,
+          "wind_direction": 362.5,
+          "relative_humidity": 29,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -53.333333333333336,
+          "wind_speed": 14.5288,
+          "wind_direction": 377.5,
+          "relative_humidity": 14,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -58.333333333333336,
+          "wind_speed": 17.434559999999998,
+          "wind_direction": 387.5,
+          "relative_humidity": 9,
+          "height": 10363
         }
       }
     },
@@ -1009,12 +2899,54 @@
         "precipitation_rate": 0.32
       },
       "levels": {
-        "850mb": {
-          "temperature": -3.333333333333333,
-          "wind_speed": 6.973824,
+        "1000mb": {
+          "temperature": 1.1666666666666667,
+          "wind_speed": 5.81152,
           "wind_direction": 337.5,
           "relative_humidity": 60,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -2.333333333333333,
+          "wind_speed": 6.392672,
+          "wind_direction": 342.5,
+          "relative_humidity": 55,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -7.333333333333333,
+          "wind_speed": 6.973824,
+          "wind_direction": 347.5,
+          "relative_humidity": 50,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -17.333333333333332,
+          "wind_speed": 8.136128,
+          "wind_direction": 352.5,
+          "relative_humidity": 40,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -33.333333333333336,
+          "wind_speed": 10.460736,
+          "wind_direction": 362.5,
+          "relative_humidity": 25,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -53.333333333333336,
+          "wind_speed": 14.5288,
+          "wind_direction": 377.5,
+          "relative_humidity": 10,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -58.333333333333336,
+          "wind_speed": 17.434559999999998,
+          "wind_direction": 387.5,
+          "relative_humidity": 5,
+          "height": 10363
         }
       }
     },
@@ -1031,12 +2963,54 @@
         "precipitation_rate": 0.32
       },
       "levels": {
-        "850mb": {
-          "temperature": -2.7777777777777777,
-          "wind_speed": 6.973824,
+        "1000mb": {
+          "temperature": 1.7222222222222223,
+          "wind_speed": 5.81152,
           "wind_direction": 337.5,
           "relative_humidity": 56,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -1.7777777777777777,
+          "wind_speed": 6.392672,
+          "wind_direction": 342.5,
+          "relative_humidity": 51,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -6.777777777777778,
+          "wind_speed": 6.973824,
+          "wind_direction": 347.5,
+          "relative_humidity": 46,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -16.77777777777778,
+          "wind_speed": 8.136128,
+          "wind_direction": 352.5,
+          "relative_humidity": 36,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -32.77777777777778,
+          "wind_speed": 10.460736,
+          "wind_direction": 362.5,
+          "relative_humidity": 21,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -52.77777777777778,
+          "wind_speed": 14.5288,
+          "wind_direction": 377.5,
+          "relative_humidity": 6,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -57.77777777777778,
+          "wind_speed": 17.434559999999998,
+          "wind_direction": 387.5,
+          "relative_humidity": 1,
+          "height": 10363
         }
       }
     },
@@ -1053,12 +3027,54 @@
         "precipitation_rate": 0.32
       },
       "levels": {
-        "850mb": {
-          "temperature": -2.7777777777777777,
-          "wind_speed": 6.973824,
+        "1000mb": {
+          "temperature": 1.7222222222222223,
+          "wind_speed": 5.81152,
           "wind_direction": 337.5,
           "relative_humidity": 54,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -1.7777777777777777,
+          "wind_speed": 6.392672,
+          "wind_direction": 342.5,
+          "relative_humidity": 49,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -6.777777777777778,
+          "wind_speed": 6.973824,
+          "wind_direction": 347.5,
+          "relative_humidity": 44,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -16.77777777777778,
+          "wind_speed": 8.136128,
+          "wind_direction": 352.5,
+          "relative_humidity": 34,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -32.77777777777778,
+          "wind_speed": 10.460736,
+          "wind_direction": 362.5,
+          "relative_humidity": 19,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -52.77777777777778,
+          "wind_speed": 14.5288,
+          "wind_direction": 377.5,
+          "relative_humidity": 4,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -57.77777777777778,
+          "wind_speed": 17.434559999999998,
+          "wind_direction": 387.5,
+          "relative_humidity": 1,
+          "height": 10363
         }
       }
     },
@@ -1075,12 +3091,54 @@
         "precipitation_rate": 0.32
       },
       "levels": {
-        "850mb": {
-          "temperature": -3.333333333333333,
-          "wind_speed": 6.437376,
+        "1000mb": {
+          "temperature": 1.1666666666666667,
+          "wind_speed": 5.36448,
           "wind_direction": 337.5,
           "relative_humidity": 53,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -2.333333333333333,
+          "wind_speed": 5.900928000000001,
+          "wind_direction": 342.5,
+          "relative_humidity": 48,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -7.333333333333333,
+          "wind_speed": 6.437376,
+          "wind_direction": 347.5,
+          "relative_humidity": 43,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -17.333333333333332,
+          "wind_speed": 7.510272,
+          "wind_direction": 352.5,
+          "relative_humidity": 33,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -33.333333333333336,
+          "wind_speed": 9.656064,
+          "wind_direction": 362.5,
+          "relative_humidity": 18,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -53.333333333333336,
+          "wind_speed": 13.411200000000001,
+          "wind_direction": 377.5,
+          "relative_humidity": 3,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -58.333333333333336,
+          "wind_speed": 16.09344,
+          "wind_direction": 387.5,
+          "relative_humidity": 1,
+          "height": 10363
         }
       }
     },
@@ -1097,12 +3155,54 @@
         "precipitation_rate": 0.32
       },
       "levels": {
-        "850mb": {
-          "temperature": -3.888888888888889,
-          "wind_speed": 5.3644799999999995,
+        "1000mb": {
+          "temperature": 0.6111111111111112,
+          "wind_speed": 4.4704,
           "wind_direction": 315,
           "relative_humidity": 54,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -2.888888888888889,
+          "wind_speed": 4.91744,
+          "wind_direction": 320,
+          "relative_humidity": 49,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -7.888888888888889,
+          "wind_speed": 5.3644799999999995,
+          "wind_direction": 325,
+          "relative_humidity": 44,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -17.88888888888889,
+          "wind_speed": 6.258559999999999,
+          "wind_direction": 330,
+          "relative_humidity": 34,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -33.888888888888886,
+          "wind_speed": 8.04672,
+          "wind_direction": 340,
+          "relative_humidity": 19,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -53.888888888888886,
+          "wind_speed": 11.175999999999998,
+          "wind_direction": 355,
+          "relative_humidity": 4,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -58.888888888888886,
+          "wind_speed": 13.4112,
+          "wind_direction": 365,
+          "relative_humidity": 1,
+          "height": 10363
         }
       }
     },
@@ -1119,12 +3219,54 @@
         "precipitation_rate": 0.32
       },
       "levels": {
-        "850mb": {
-          "temperature": -5.0,
-          "wind_speed": 4.828032,
+        "1000mb": {
+          "temperature": -0.5,
+          "wind_speed": 4.02336,
           "wind_direction": 315,
           "relative_humidity": 57,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -4.0,
+          "wind_speed": 4.425696,
+          "wind_direction": 320,
+          "relative_humidity": 52,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -9.0,
+          "wind_speed": 4.828032,
+          "wind_direction": 325,
+          "relative_humidity": 47,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -19.0,
+          "wind_speed": 5.632704,
+          "wind_direction": 330,
+          "relative_humidity": 37,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -35.0,
+          "wind_speed": 7.2420480000000005,
+          "wind_direction": 340,
+          "relative_humidity": 22,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -55.0,
+          "wind_speed": 10.0584,
+          "wind_direction": 355,
+          "relative_humidity": 7,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -60.0,
+          "wind_speed": 12.07008,
+          "wind_direction": 365,
+          "relative_humidity": 2,
+          "height": 10363
         }
       }
     },
@@ -1141,12 +3283,54 @@
         "precipitation_rate": 0.4
       },
       "levels": {
-        "850mb": {
-          "temperature": -6.111111111111111,
-          "wind_speed": 4.828032,
+        "1000mb": {
+          "temperature": -1.6111111111111112,
+          "wind_speed": 4.02336,
           "wind_direction": 292.5,
           "relative_humidity": 61,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -5.111111111111111,
+          "wind_speed": 4.425696,
+          "wind_direction": 297.5,
+          "relative_humidity": 56,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -10.11111111111111,
+          "wind_speed": 4.828032,
+          "wind_direction": 302.5,
+          "relative_humidity": 51,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -20.11111111111111,
+          "wind_speed": 5.632704,
+          "wind_direction": 307.5,
+          "relative_humidity": 41,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -36.111111111111114,
+          "wind_speed": 7.2420480000000005,
+          "wind_direction": 317.5,
+          "relative_humidity": 26,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -56.111111111111114,
+          "wind_speed": 10.0584,
+          "wind_direction": 332.5,
+          "relative_humidity": 11,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -61.111111111111114,
+          "wind_speed": 12.07008,
+          "wind_direction": 342.5,
+          "relative_humidity": 6,
+          "height": 10363
         }
       }
     },
@@ -1163,12 +3347,54 @@
         "precipitation_rate": 0.4
       },
       "levels": {
-        "850mb": {
-          "temperature": -6.666666666666667,
-          "wind_speed": 4.828032,
+        "1000mb": {
+          "temperature": -2.166666666666667,
+          "wind_speed": 4.02336,
           "wind_direction": 292.5,
           "relative_humidity": 66,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -5.666666666666667,
+          "wind_speed": 4.425696,
+          "wind_direction": 297.5,
+          "relative_humidity": 61,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -10.666666666666666,
+          "wind_speed": 4.828032,
+          "wind_direction": 302.5,
+          "relative_humidity": 56,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -20.666666666666668,
+          "wind_speed": 5.632704,
+          "wind_direction": 307.5,
+          "relative_humidity": 46,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -36.666666666666664,
+          "wind_speed": 7.2420480000000005,
+          "wind_direction": 317.5,
+          "relative_humidity": 31,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -56.666666666666664,
+          "wind_speed": 10.0584,
+          "wind_direction": 332.5,
+          "relative_humidity": 16,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -61.666666666666664,
+          "wind_speed": 12.07008,
+          "wind_direction": 342.5,
+          "relative_humidity": 11,
+          "height": 10363
         }
       }
     },
@@ -1185,12 +3411,54 @@
         "precipitation_rate": 0.4
       },
       "levels": {
-        "850mb": {
-          "temperature": -6.666666666666667,
-          "wind_speed": 4.828032,
+        "1000mb": {
+          "temperature": -2.166666666666667,
+          "wind_speed": 4.02336,
           "wind_direction": 270,
           "relative_humidity": 73,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -5.666666666666667,
+          "wind_speed": 4.425696,
+          "wind_direction": 275,
+          "relative_humidity": 68,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -10.666666666666666,
+          "wind_speed": 4.828032,
+          "wind_direction": 280,
+          "relative_humidity": 63,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -20.666666666666668,
+          "wind_speed": 5.632704,
+          "wind_direction": 285,
+          "relative_humidity": 53,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -36.666666666666664,
+          "wind_speed": 7.2420480000000005,
+          "wind_direction": 295,
+          "relative_humidity": 38,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -56.666666666666664,
+          "wind_speed": 10.0584,
+          "wind_direction": 310,
+          "relative_humidity": 23,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -61.666666666666664,
+          "wind_speed": 12.07008,
+          "wind_direction": 320,
+          "relative_humidity": 18,
+          "height": 10363
         }
       }
     },
@@ -1207,12 +3475,54 @@
         "precipitation_rate": 0.4
       },
       "levels": {
-        "850mb": {
-          "temperature": -7.222222222222222,
-          "wind_speed": 4.828032,
+        "1000mb": {
+          "temperature": -2.7222222222222223,
+          "wind_speed": 4.02336,
           "wind_direction": 270,
           "relative_humidity": 79,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -6.222222222222222,
+          "wind_speed": 4.425696,
+          "wind_direction": 275,
+          "relative_humidity": 74,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -11.222222222222221,
+          "wind_speed": 4.828032,
+          "wind_direction": 280,
+          "relative_humidity": 69,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -21.22222222222222,
+          "wind_speed": 5.632704,
+          "wind_direction": 285,
+          "relative_humidity": 59,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -37.22222222222222,
+          "wind_speed": 7.2420480000000005,
+          "wind_direction": 295,
+          "relative_humidity": 44,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -57.22222222222222,
+          "wind_speed": 10.0584,
+          "wind_direction": 310,
+          "relative_humidity": 29,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -62.22222222222222,
+          "wind_speed": 12.07008,
+          "wind_direction": 320,
+          "relative_humidity": 24,
+          "height": 10363
         }
       }
     },
@@ -1229,12 +3539,54 @@
         "precipitation_rate": 0.4
       },
       "levels": {
-        "850mb": {
-          "temperature": -7.222222222222222,
-          "wind_speed": 4.828032,
+        "1000mb": {
+          "temperature": -2.7222222222222223,
+          "wind_speed": 4.02336,
           "wind_direction": 270,
           "relative_humidity": 85,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -6.222222222222222,
+          "wind_speed": 4.425696,
+          "wind_direction": 275,
+          "relative_humidity": 80,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -11.222222222222221,
+          "wind_speed": 4.828032,
+          "wind_direction": 280,
+          "relative_humidity": 75,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -21.22222222222222,
+          "wind_speed": 5.632704,
+          "wind_direction": 285,
+          "relative_humidity": 65,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -37.22222222222222,
+          "wind_speed": 7.2420480000000005,
+          "wind_direction": 295,
+          "relative_humidity": 50,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -57.22222222222222,
+          "wind_speed": 10.0584,
+          "wind_direction": 310,
+          "relative_humidity": 35,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -62.22222222222222,
+          "wind_speed": 12.07008,
+          "wind_direction": 320,
+          "relative_humidity": 30,
+          "height": 10363
         }
       }
     },
@@ -1251,12 +3603,54 @@
         "precipitation_rate": 0.4
       },
       "levels": {
-        "850mb": {
-          "temperature": -7.222222222222222,
-          "wind_speed": 4.828032,
+        "1000mb": {
+          "temperature": -2.7222222222222223,
+          "wind_speed": 4.02336,
           "wind_direction": 270,
           "relative_humidity": 89,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -6.222222222222222,
+          "wind_speed": 4.425696,
+          "wind_direction": 275,
+          "relative_humidity": 84,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -11.222222222222221,
+          "wind_speed": 4.828032,
+          "wind_direction": 280,
+          "relative_humidity": 79,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -21.22222222222222,
+          "wind_speed": 5.632704,
+          "wind_direction": 285,
+          "relative_humidity": 69,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -37.22222222222222,
+          "wind_speed": 7.2420480000000005,
+          "wind_direction": 295,
+          "relative_humidity": 54,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -57.22222222222222,
+          "wind_speed": 10.0584,
+          "wind_direction": 310,
+          "relative_humidity": 39,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -62.22222222222222,
+          "wind_speed": 12.07008,
+          "wind_direction": 320,
+          "relative_humidity": 34,
+          "height": 10363
         }
       }
     },
@@ -1273,12 +3667,54 @@
         "precipitation_rate": 0.37
       },
       "levels": {
-        "850mb": {
-          "temperature": -7.222222222222222,
-          "wind_speed": 4.828032,
+        "1000mb": {
+          "temperature": -2.7222222222222223,
+          "wind_speed": 4.02336,
           "wind_direction": 270,
           "relative_humidity": 92,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -6.222222222222222,
+          "wind_speed": 4.425696,
+          "wind_direction": 275,
+          "relative_humidity": 87,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -11.222222222222221,
+          "wind_speed": 4.828032,
+          "wind_direction": 280,
+          "relative_humidity": 82,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -21.22222222222222,
+          "wind_speed": 5.632704,
+          "wind_direction": 285,
+          "relative_humidity": 72,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -37.22222222222222,
+          "wind_speed": 7.2420480000000005,
+          "wind_direction": 295,
+          "relative_humidity": 57,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -57.22222222222222,
+          "wind_speed": 10.0584,
+          "wind_direction": 310,
+          "relative_humidity": 42,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -62.22222222222222,
+          "wind_speed": 12.07008,
+          "wind_direction": 320,
+          "relative_humidity": 37,
+          "height": 10363
         }
       }
     },
@@ -1295,12 +3731,54 @@
         "precipitation_rate": 0.37
       },
       "levels": {
-        "850mb": {
-          "temperature": -7.222222222222222,
-          "wind_speed": 4.828032,
+        "1000mb": {
+          "temperature": -2.7222222222222223,
+          "wind_speed": 4.02336,
           "wind_direction": 270,
           "relative_humidity": 93,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -6.222222222222222,
+          "wind_speed": 4.425696,
+          "wind_direction": 275,
+          "relative_humidity": 88,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -11.222222222222221,
+          "wind_speed": 4.828032,
+          "wind_direction": 280,
+          "relative_humidity": 83,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -21.22222222222222,
+          "wind_speed": 5.632704,
+          "wind_direction": 285,
+          "relative_humidity": 73,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -37.22222222222222,
+          "wind_speed": 7.2420480000000005,
+          "wind_direction": 295,
+          "relative_humidity": 58,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -57.22222222222222,
+          "wind_speed": 10.0584,
+          "wind_direction": 310,
+          "relative_humidity": 43,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -62.22222222222222,
+          "wind_speed": 12.07008,
+          "wind_direction": 320,
+          "relative_humidity": 38,
+          "height": 10363
         }
       }
     },
@@ -1317,12 +3795,54 @@
         "precipitation_rate": 0.37
       },
       "levels": {
-        "850mb": {
-          "temperature": -7.222222222222222,
-          "wind_speed": 4.828032,
+        "1000mb": {
+          "temperature": -2.7222222222222223,
+          "wind_speed": 4.02336,
           "wind_direction": 270,
           "relative_humidity": 92,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -6.222222222222222,
+          "wind_speed": 4.425696,
+          "wind_direction": 275,
+          "relative_humidity": 87,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -11.222222222222221,
+          "wind_speed": 4.828032,
+          "wind_direction": 280,
+          "relative_humidity": 82,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -21.22222222222222,
+          "wind_speed": 5.632704,
+          "wind_direction": 285,
+          "relative_humidity": 72,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -37.22222222222222,
+          "wind_speed": 7.2420480000000005,
+          "wind_direction": 295,
+          "relative_humidity": 57,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -57.22222222222222,
+          "wind_speed": 10.0584,
+          "wind_direction": 310,
+          "relative_humidity": 42,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -62.22222222222222,
+          "wind_speed": 12.07008,
+          "wind_direction": 320,
+          "relative_humidity": 37,
+          "height": 10363
         }
       }
     },
@@ -1339,12 +3859,54 @@
         "precipitation_rate": 0.37
       },
       "levels": {
-        "850mb": {
-          "temperature": -7.222222222222222,
-          "wind_speed": 5.3644799999999995,
+        "1000mb": {
+          "temperature": -2.7222222222222223,
+          "wind_speed": 4.4704,
           "wind_direction": 270,
           "relative_humidity": 91,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -6.222222222222222,
+          "wind_speed": 4.91744,
+          "wind_direction": 275,
+          "relative_humidity": 86,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -11.222222222222221,
+          "wind_speed": 5.3644799999999995,
+          "wind_direction": 280,
+          "relative_humidity": 81,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -21.22222222222222,
+          "wind_speed": 6.258559999999999,
+          "wind_direction": 285,
+          "relative_humidity": 71,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -37.22222222222222,
+          "wind_speed": 8.04672,
+          "wind_direction": 295,
+          "relative_humidity": 56,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -57.22222222222222,
+          "wind_speed": 11.175999999999998,
+          "wind_direction": 310,
+          "relative_humidity": 41,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -62.22222222222222,
+          "wind_speed": 13.4112,
+          "wind_direction": 320,
+          "relative_humidity": 36,
+          "height": 10363
         }
       }
     },
@@ -1361,12 +3923,54 @@
         "precipitation_rate": 0.37
       },
       "levels": {
-        "850mb": {
-          "temperature": -7.222222222222222,
-          "wind_speed": 5.3644799999999995,
+        "1000mb": {
+          "temperature": -2.7222222222222223,
+          "wind_speed": 4.4704,
           "wind_direction": 270,
           "relative_humidity": 90,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -6.222222222222222,
+          "wind_speed": 4.91744,
+          "wind_direction": 275,
+          "relative_humidity": 85,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -11.222222222222221,
+          "wind_speed": 5.3644799999999995,
+          "wind_direction": 280,
+          "relative_humidity": 80,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -21.22222222222222,
+          "wind_speed": 6.258559999999999,
+          "wind_direction": 285,
+          "relative_humidity": 70,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -37.22222222222222,
+          "wind_speed": 8.04672,
+          "wind_direction": 295,
+          "relative_humidity": 55,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -57.22222222222222,
+          "wind_speed": 11.175999999999998,
+          "wind_direction": 310,
+          "relative_humidity": 40,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -62.22222222222222,
+          "wind_speed": 13.4112,
+          "wind_direction": 320,
+          "relative_humidity": 35,
+          "height": 10363
         }
       }
     },
@@ -1383,12 +3987,54 @@
         "precipitation_rate": 0.37
       },
       "levels": {
-        "850mb": {
-          "temperature": -7.222222222222222,
-          "wind_speed": 5.3644799999999995,
+        "1000mb": {
+          "temperature": -2.7222222222222223,
+          "wind_speed": 4.4704,
           "wind_direction": 270,
           "relative_humidity": 90,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -6.222222222222222,
+          "wind_speed": 4.91744,
+          "wind_direction": 275,
+          "relative_humidity": 85,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -11.222222222222221,
+          "wind_speed": 5.3644799999999995,
+          "wind_direction": 280,
+          "relative_humidity": 80,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -21.22222222222222,
+          "wind_speed": 6.258559999999999,
+          "wind_direction": 285,
+          "relative_humidity": 70,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -37.22222222222222,
+          "wind_speed": 8.04672,
+          "wind_direction": 295,
+          "relative_humidity": 55,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -57.22222222222222,
+          "wind_speed": 11.175999999999998,
+          "wind_direction": 310,
+          "relative_humidity": 40,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -62.22222222222222,
+          "wind_speed": 13.4112,
+          "wind_direction": 320,
+          "relative_humidity": 35,
+          "height": 10363
         }
       }
     },
@@ -1405,12 +4051,54 @@
         "precipitation_rate": 0.06
       },
       "levels": {
-        "850mb": {
-          "temperature": -6.666666666666667,
-          "wind_speed": 5.3644799999999995,
+        "1000mb": {
+          "temperature": -2.166666666666667,
+          "wind_speed": 4.4704,
           "wind_direction": 270,
           "relative_humidity": 90,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -5.666666666666667,
+          "wind_speed": 4.91744,
+          "wind_direction": 275,
+          "relative_humidity": 85,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -10.666666666666666,
+          "wind_speed": 5.3644799999999995,
+          "wind_direction": 280,
+          "relative_humidity": 80,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -20.666666666666668,
+          "wind_speed": 6.258559999999999,
+          "wind_direction": 285,
+          "relative_humidity": 70,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -36.666666666666664,
+          "wind_speed": 8.04672,
+          "wind_direction": 295,
+          "relative_humidity": 55,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -56.666666666666664,
+          "wind_speed": 11.175999999999998,
+          "wind_direction": 310,
+          "relative_humidity": 40,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -61.666666666666664,
+          "wind_speed": 13.4112,
+          "wind_direction": 320,
+          "relative_humidity": 35,
+          "height": 10363
         }
       }
     },
@@ -1427,12 +4115,54 @@
         "precipitation_rate": 0.06
       },
       "levels": {
-        "850mb": {
-          "temperature": -6.111111111111111,
-          "wind_speed": 6.437376,
+        "1000mb": {
+          "temperature": -1.6111111111111112,
+          "wind_speed": 5.36448,
           "wind_direction": 270,
           "relative_humidity": 86,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -5.111111111111111,
+          "wind_speed": 5.900928000000001,
+          "wind_direction": 275,
+          "relative_humidity": 81,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -10.11111111111111,
+          "wind_speed": 6.437376,
+          "wind_direction": 280,
+          "relative_humidity": 76,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -20.11111111111111,
+          "wind_speed": 7.510272,
+          "wind_direction": 285,
+          "relative_humidity": 66,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -36.111111111111114,
+          "wind_speed": 9.656064,
+          "wind_direction": 295,
+          "relative_humidity": 51,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -56.111111111111114,
+          "wind_speed": 13.411200000000001,
+          "wind_direction": 310,
+          "relative_humidity": 36,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -61.111111111111114,
+          "wind_speed": 16.09344,
+          "wind_direction": 320,
+          "relative_humidity": 31,
+          "height": 10363
         }
       }
     },
@@ -1449,12 +4179,54 @@
         "precipitation_rate": 0.06
       },
       "levels": {
-        "850mb": {
-          "temperature": -5.0,
-          "wind_speed": 6.973824,
+        "1000mb": {
+          "temperature": -0.5,
+          "wind_speed": 5.81152,
           "wind_direction": 247.5,
           "relative_humidity": 83,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -4.0,
+          "wind_speed": 6.392672,
+          "wind_direction": 252.5,
+          "relative_humidity": 78,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -9.0,
+          "wind_speed": 6.973824,
+          "wind_direction": 257.5,
+          "relative_humidity": 73,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -19.0,
+          "wind_speed": 8.136128,
+          "wind_direction": 262.5,
+          "relative_humidity": 63,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -35.0,
+          "wind_speed": 10.460736,
+          "wind_direction": 272.5,
+          "relative_humidity": 48,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -55.0,
+          "wind_speed": 14.5288,
+          "wind_direction": 287.5,
+          "relative_humidity": 33,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -60.0,
+          "wind_speed": 17.434559999999998,
+          "wind_direction": 297.5,
+          "relative_humidity": 28,
+          "height": 10363
         }
       }
     },
@@ -1471,12 +4243,54 @@
         "precipitation_rate": 0.06
       },
       "levels": {
-        "850mb": {
-          "temperature": -3.888888888888889,
-          "wind_speed": 7.510272,
+        "1000mb": {
+          "temperature": 0.6111111111111112,
+          "wind_speed": 6.25856,
           "wind_direction": 247.5,
           "relative_humidity": 80,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -2.888888888888889,
+          "wind_speed": 6.884416000000001,
+          "wind_direction": 252.5,
+          "relative_humidity": 75,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -7.888888888888889,
+          "wind_speed": 7.510272,
+          "wind_direction": 257.5,
+          "relative_humidity": 70,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -17.88888888888889,
+          "wind_speed": 8.761984,
+          "wind_direction": 262.5,
+          "relative_humidity": 60,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -33.888888888888886,
+          "wind_speed": 11.265408,
+          "wind_direction": 272.5,
+          "relative_humidity": 45,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -53.888888888888886,
+          "wind_speed": 15.6464,
+          "wind_direction": 287.5,
+          "relative_humidity": 30,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -58.888888888888886,
+          "wind_speed": 18.77568,
+          "wind_direction": 297.5,
+          "relative_humidity": 25,
+          "height": 10363
         }
       }
     },
@@ -1493,12 +4307,54 @@
         "precipitation_rate": 0.06
       },
       "levels": {
-        "850mb": {
-          "temperature": -2.7777777777777777,
-          "wind_speed": 7.510272,
+        "1000mb": {
+          "temperature": 1.7222222222222223,
+          "wind_speed": 6.25856,
           "wind_direction": 247.5,
           "relative_humidity": 74,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -1.7777777777777777,
+          "wind_speed": 6.884416000000001,
+          "wind_direction": 252.5,
+          "relative_humidity": 69,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -6.777777777777778,
+          "wind_speed": 7.510272,
+          "wind_direction": 257.5,
+          "relative_humidity": 64,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -16.77777777777778,
+          "wind_speed": 8.761984,
+          "wind_direction": 262.5,
+          "relative_humidity": 54,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -32.77777777777778,
+          "wind_speed": 11.265408,
+          "wind_direction": 272.5,
+          "relative_humidity": 39,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -52.77777777777778,
+          "wind_speed": 15.6464,
+          "wind_direction": 287.5,
+          "relative_humidity": 24,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -57.77777777777778,
+          "wind_speed": 18.77568,
+          "wind_direction": 297.5,
+          "relative_humidity": 19,
+          "height": 10363
         }
       }
     },
@@ -1515,12 +4371,54 @@
         "precipitation_rate": 0.06
       },
       "levels": {
-        "850mb": {
-          "temperature": -2.2222222222222223,
-          "wind_speed": 8.046719999999999,
+        "1000mb": {
+          "temperature": 2.2777777777777777,
+          "wind_speed": 6.7056,
           "wind_direction": 247.5,
           "relative_humidity": 69,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -1.2222222222222223,
+          "wind_speed": 7.3761600000000005,
+          "wind_direction": 252.5,
+          "relative_humidity": 64,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -6.222222222222222,
+          "wind_speed": 8.046719999999999,
+          "wind_direction": 257.5,
+          "relative_humidity": 59,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -16.22222222222222,
+          "wind_speed": 9.387839999999999,
+          "wind_direction": 262.5,
+          "relative_humidity": 49,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -32.22222222222222,
+          "wind_speed": 12.070079999999999,
+          "wind_direction": 272.5,
+          "relative_humidity": 34,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -52.22222222222222,
+          "wind_speed": 16.764,
+          "wind_direction": 287.5,
+          "relative_humidity": 19,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -57.22222222222222,
+          "wind_speed": 20.116799999999998,
+          "wind_direction": 297.5,
+          "relative_humidity": 14,
+          "height": 10363
         }
       }
     },
@@ -1537,12 +4435,54 @@
         "precipitation_rate": 0.18
       },
       "levels": {
-        "850mb": {
-          "temperature": -1.6666666666666665,
-          "wind_speed": 8.046719999999999,
+        "1000mb": {
+          "temperature": 2.8333333333333335,
+          "wind_speed": 6.7056,
           "wind_direction": 247.5,
           "relative_humidity": 64,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -0.6666666666666665,
+          "wind_speed": 7.3761600000000005,
+          "wind_direction": 252.5,
+          "relative_humidity": 59,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -5.666666666666666,
+          "wind_speed": 8.046719999999999,
+          "wind_direction": 257.5,
+          "relative_humidity": 54,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -15.666666666666666,
+          "wind_speed": 9.387839999999999,
+          "wind_direction": 262.5,
+          "relative_humidity": 44,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -31.666666666666668,
+          "wind_speed": 12.070079999999999,
+          "wind_direction": 272.5,
+          "relative_humidity": 29,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -51.666666666666664,
+          "wind_speed": 16.764,
+          "wind_direction": 287.5,
+          "relative_humidity": 14,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -56.666666666666664,
+          "wind_speed": 20.116799999999998,
+          "wind_direction": 297.5,
+          "relative_humidity": 9,
+          "height": 10363
         }
       }
     },
@@ -1559,12 +4499,54 @@
         "precipitation_rate": 0.18
       },
       "levels": {
-        "850mb": {
-          "temperature": -1.6666666666666665,
-          "wind_speed": 8.046719999999999,
+        "1000mb": {
+          "temperature": 2.8333333333333335,
+          "wind_speed": 6.7056,
           "wind_direction": 247.5,
           "relative_humidity": 64,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -0.6666666666666665,
+          "wind_speed": 7.3761600000000005,
+          "wind_direction": 252.5,
+          "relative_humidity": 59,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -5.666666666666666,
+          "wind_speed": 8.046719999999999,
+          "wind_direction": 257.5,
+          "relative_humidity": 54,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -15.666666666666666,
+          "wind_speed": 9.387839999999999,
+          "wind_direction": 262.5,
+          "relative_humidity": 44,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -31.666666666666668,
+          "wind_speed": 12.070079999999999,
+          "wind_direction": 272.5,
+          "relative_humidity": 29,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -51.666666666666664,
+          "wind_speed": 16.764,
+          "wind_direction": 287.5,
+          "relative_humidity": 14,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -56.666666666666664,
+          "wind_speed": 20.116799999999998,
+          "wind_direction": 297.5,
+          "relative_humidity": 9,
+          "height": 10363
         }
       }
     },
@@ -1581,12 +4563,54 @@
         "precipitation_rate": 0.18
       },
       "levels": {
-        "850mb": {
-          "temperature": -1.6666666666666665,
-          "wind_speed": 8.046719999999999,
+        "1000mb": {
+          "temperature": 2.8333333333333335,
+          "wind_speed": 6.7056,
           "wind_direction": 225,
           "relative_humidity": 64,
-          "height": 1500
+          "height": 110
+        },
+        "925mb": {
+          "temperature": -0.6666666666666665,
+          "wind_speed": 7.3761600000000005,
+          "wind_direction": 230,
+          "relative_humidity": 59,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -5.666666666666666,
+          "wind_speed": 8.046719999999999,
+          "wind_direction": 235,
+          "relative_humidity": 54,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -15.666666666666666,
+          "wind_speed": 9.387839999999999,
+          "wind_direction": 240,
+          "relative_humidity": 44,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -31.666666666666668,
+          "wind_speed": 12.070079999999999,
+          "wind_direction": 250,
+          "relative_humidity": 29,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -51.666666666666664,
+          "wind_speed": 16.764,
+          "wind_direction": 265,
+          "relative_humidity": 14,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -56.666666666666664,
+          "wind_speed": 20.116799999999998,
+          "wind_direction": 275,
+          "relative_humidity": 9,
+          "height": 10363
         }
       }
     }

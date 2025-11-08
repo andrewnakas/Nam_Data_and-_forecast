@@ -63,9 +63,22 @@
 
             <div id="charts" class="tab-content">
                 <h2>Forecast Charts</h2>
+                <div class="chart-controls">
+                    <label><strong>Compare Pressure Levels:</strong></label>
+                    <div class="level-checkboxes">
+                        <label><input type="checkbox" class="level-check" value="surface" checked> Surface</label>
+                        <label><input type="checkbox" class="level-check" value="1000mb"> 1000mb</label>
+                        <label><input type="checkbox" class="level-check" value="925mb"> 925mb</label>
+                        <label><input type="checkbox" class="level-check" value="850mb" checked> 850mb</label>
+                        <label><input type="checkbox" class="level-check" value="700mb"> 700mb</label>
+                        <label><input type="checkbox" class="level-check" value="500mb"> 500mb</label>
+                        <label><input type="checkbox" class="level-check" value="300mb"> 300mb</label>
+                        <label><input type="checkbox" class="level-check" value="250mb"> 250mb</label>
+                    </div>
+                    <button onclick="updateCharts()" style="margin-top: 10px;">Update Charts</button>
+                </div>
                 <canvas id="tempChart"></canvas>
                 <canvas id="windChart"></canvas>
-                <canvas id="precipChart"></canvas>
             </div>
         </div>
 

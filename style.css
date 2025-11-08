@@ -277,6 +277,31 @@ tr:nth-child(even) {
     font-size: 1em;
 }
 
+.chart-controls {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.level-checkboxes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 10px;
+}
+
+.level-checkboxes label {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+}
+
+.level-checkboxes input[type="checkbox"] {
+    cursor: pointer;
+}
+
 canvas {
     max-width: 100%;
     margin: 20px 0;
