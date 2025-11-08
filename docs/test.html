@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Test</title>
+</head>
+<body>
+    <h1>NAM Weather Data Test</h1>
+    <div id="output"></div>
+
+    <script>
+        async function testData() {
+            const output = document.getElementById('output');
+            try {
+                const response = await fetch('data/index.json');
+                const index = await response.json();
+
+                let html = `<h2>Found ${index.locations.length} locations</h2><ul>`;
+
+                index.locations.forEach((loc, i) => {
+                    const status = loc.error ? '❌ ERROR' : `✅ ${loc.data_points} hours`;
+                    html += `<li>${i + 1}. ${loc.name}: ${status}</li>`;
+                });
+
+                html += '</ul>';
+
+                // Test loading one city
+                const testCity = index.locations.find(l => l.filename);
+                if (testCity) {
+                    html += `<h2>Testing ${testCity.name}</h2>`;
+                    const cityResponse = await fetch(`data/${testCity.filename}`);
+                    const cityData = await cityResponse.json();
+                    html += `<p>✅ Loaded ${cityData.hourly_data.length} hours of data</p>`;
+                    html += `<p>First hour temp: ${cityData.hourly_data[0].surface.temperature_2m.toFixed(1)}°C</p>`;
+                }
+
+                output.innerHTML = html;
+            } catch (error) {
+                output.innerHTML = `<p style="color:red">Error: ${error.message}</p>`;
+            }
+        }
+
+        testData();
+    </script>
+</body>
+</html>
