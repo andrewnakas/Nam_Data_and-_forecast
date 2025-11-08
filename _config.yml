@@ -1,0 +1,10 @@
+# GitHub Pages Configuration
+
+# Disable Jekyll processing - we're using plain HTML
+theme: null
+
+# Exclude these files from the build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

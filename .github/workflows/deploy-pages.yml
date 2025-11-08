@@ -48,7 +48,7 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add docs/data/*.json || true
+        git add data/*.json || true
         if ! git diff --staged --quiet; then
           git commit -m "Update forecast data - $(date -u +"%Y-%m-%d %H:%M UTC")"
           git push
@@ -70,17 +70,10 @@ jobs:
       with:
         ref: ${{ github.ref }}
 
-    - name: Create static artifact (no Jekyll)
-      run: |
-        cd docs
-        tar --dereference --hard-dereference -cvf $RUNNER_TEMP/artifact.tar --exclude=.git --exclude=.github .
-
     - name: Upload artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-pages-artifact@v3
       with:
-        name: github-pages
-        path: ${{ runner.temp }}/artifact.tar
-        retention-days: 1
+        path: '.'
 
     - name: Deploy to GitHub Pages
       id: deployment
