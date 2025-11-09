@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-09T06:26:16.013085+00:00",
+  "last_updated": "2025-11-09T12:34:19.415727+00:00",
   "locations": [
     {
       "name": "New York, NY",
@@ -7,7 +7,7 @@
       "lon": -74.006,
       "filename": "new_york-ny.json",
       "data_points": 156,
-      "model_run": "2025-11-09T06:26:17.177360+00:00"
+      "model_run": "2025-11-09T12:34:33.464684+00:00"
     },
     {
       "name": "Los Angeles, CA",
@@ -15,7 +15,7 @@
       "lon": -118.2437,
       "filename": "los_angeles-ca.json",
       "data_points": 156,
-      "model_run": "2025-11-09T06:26:17.801766+00:00"
+      "model_run": "2025-11-09T12:34:34.099317+00:00"
     },
     {
       "name": "Chicago, IL",
@@ -23,7 +23,7 @@
       "lon": -87.6298,
       "filename": "chicago-il.json",
       "data_points": 156,
-      "model_run": "2025-11-09T06:26:19.034460+00:00"
+      "model_run": "2025-11-09T12:34:39.395297+00:00"
     },
     {
       "name": "Houston, TX",
@@ -31,7 +31,7 @@
       "lon": -95.3698,
       "filename": "houston-tx.json",
       "data_points": 156,
-      "model_run": "2025-11-09T06:26:20.076923+00:00"
+      "model_run": "2025-11-09T12:34:42.674482+00:00"
     },
     {
       "name": "Phoenix, AZ",
@@ -39,7 +39,7 @@
       "lon": -112.074,
       "filename": "phoenix-az.json",
       "data_points": 156,
-      "model_run": "2025-11-09T06:26:20.712079+00:00"
+      "model_run": "2025-11-09T12:34:43.670200+00:00"
     },
     {
       "name": "Philadelphia, PA",
@@ -47,7 +47,7 @@
       "lon": -75.1652,
       "filename": "philadelphia-pa.json",
       "data_points": 156,
-      "model_run": "2025-11-09T06:26:23.311934+00:00"
+      "model_run": "2025-11-09T12:34:47.724889+00:00"
     },
     {
       "name": "San Antonio, TX",
@@ -55,7 +55,7 @@
       "lon": -98.4936,
       "filename": "san_antonio-tx.json",
       "data_points": 156,
-      "model_run": "2025-11-09T06:26:24.212005+00:00"
+      "model_run": "2025-11-09T12:34:49.941749+00:00"
     },
     {
       "name": "San Diego, CA",
@@ -63,7 +63,7 @@
       "lon": -117.1611,
       "filename": "san_diego-ca.json",
       "data_points": 156,
-      "model_run": "2025-11-09T06:26:24.957150+00:00"
+      "model_run": "2025-11-09T12:34:50.584774+00:00"
     },
     {
       "name": "Dallas, TX",
@@ -71,7 +71,7 @@
       "lon": -96.797,
       "filename": "dallas-tx.json",
       "data_points": 156,
-      "model_run": "2025-11-09T06:26:27.618950+00:00"
+      "model_run": "2025-11-09T12:34:52.110176+00:00"
     },
     {
       "name": "Denver, CO",
@@ -79,7 +79,7 @@
       "lon": -104.9903,
       "filename": "denver-co.json",
       "data_points": 156,
-      "model_run": "2025-11-09T06:26:28.264460+00:00"
+      "model_run": "2025-11-09T12:34:56.417207+00:00"
     },
     {
       "name": "Seattle, WA",
@@ -87,7 +87,7 @@
       "lon": -122.3321,
       "filename": "seattle-wa.json",
       "data_points": 156,
-      "model_run": "2025-11-09T06:26:28.958290+00:00"
+      "model_run": "2025-11-09T12:34:58.051973+00:00"
     },
     {
       "name": "Miami, FL",
@@ -95,7 +95,7 @@
       "lon": -80.1918,
       "filename": "miami-fl.json",
       "data_points": 156,
-      "model_run": "2025-11-09T06:26:30.139264+00:00"
+      "model_run": "2025-11-09T12:34:59.410527+00:00"
     },
     {
       "name": "Atlanta, GA",
@@ -103,7 +103,7 @@
       "lon": -84.388,
       "filename": "atlanta-ga.json",
       "data_points": 156,
-      "model_run": "2025-11-09T06:26:31.300090+00:00"
+      "model_run": "2025-11-09T12:35:06.588149+00:00"
     },
     {
       "name": "Boston, MA",
@@ -111,7 +111,7 @@
       "lon": -71.0589,
       "filename": "boston-ma.json",
       "data_points": 156,
-      "model_run": "2025-11-09T06:26:32.028329+00:00"
+      "model_run": "2025-11-09T12:35:14.769311+00:00"
     },
     {
       "name": "Detroit, MI",
@@ -119,7 +119,7 @@
       "lon": -83.0458,
       "filename": "detroit-mi.json",
       "data_points": 156,
-      "model_run": "2025-11-09T06:26:32.840885+00:00"
+      "model_run": "2025-11-09T12:35:16.733783+00:00"
     }
   ],
   "status": "success"
