@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-20T12:37:07.121186+00:00",
+  "last_updated": "2025-12-20T18:25:28.983106+00:00",
   "locations": [
     {
       "name": "New York, NY",
@@ -7,7 +7,7 @@
       "lon": -74.006,
       "filename": "new_york-ny.json",
       "data_points": 156,
-      "model_run": "2025-12-20T12:37:08.707625+00:00"
+      "model_run": "2025-12-20T18:25:30.351127+00:00"
     },
     {
       "name": "Los Angeles, CA",
@@ -15,7 +15,7 @@
       "lon": -118.2437,
       "filename": "los_angeles-ca.json",
       "data_points": 156,
-      "model_run": "2025-12-20T12:37:10.139485+00:00"
+      "model_run": "2025-12-20T18:25:31.437258+00:00"
     },
     {
       "name": "Chicago, IL",
@@ -23,7 +23,7 @@
       "lon": -87.6298,
       "filename": "chicago-il.json",
       "data_points": 156,
-      "model_run": "2025-12-20T12:37:10.863611+00:00"
+      "model_run": "2025-12-20T18:25:32.116956+00:00"
     },
     {
       "name": "Houston, TX",
@@ -31,7 +31,7 @@
       "lon": -95.3698,
       "filename": "houston-tx.json",
       "data_points": 156,
-      "model_run": "2025-12-20T12:37:12.144163+00:00"
+      "model_run": "2025-12-20T18:25:33.227723+00:00"
     },
     {
       "name": "Phoenix, AZ",
@@ -39,7 +39,7 @@
       "lon": -112.074,
       "filename": "phoenix-az.json",
       "data_points": 156,
-      "model_run": "2025-12-20T12:37:13.546970+00:00"
+      "model_run": "2025-12-20T18:25:33.920163+00:00"
     },
     {
       "name": "Philadelphia, PA",
@@ -47,7 +47,7 @@
       "lon": -75.1652,
       "filename": "philadelphia-pa.json",
       "data_points": 156,
-      "model_run": "2025-12-20T12:37:15.195594+00:00"
+      "model_run": "2025-12-20T18:25:34.935953+00:00"
     },
     {
       "name": "San Antonio, TX",
@@ -55,7 +55,7 @@
       "lon": -98.4936,
       "filename": "san_antonio-tx.json",
       "data_points": 156,
-      "model_run": "2025-12-20T12:37:17.448884+00:00"
+      "model_run": "2025-12-20T18:25:35.956008+00:00"
     },
     {
       "name": "San Diego, CA",
@@ -63,7 +63,7 @@
       "lon": -117.1611,
       "filename": "san_diego-ca.json",
       "data_points": 156,
-      "model_run": "2025-12-20T12:37:18.648978+00:00"
+      "model_run": "2025-12-20T18:25:36.766293+00:00"
     },
     {
       "name": "Dallas, TX",
@@ -71,15 +71,13 @@
       "lon": -96.797,
       "filename": "dallas-tx.json",
       "data_points": 156,
-      "model_run": "2025-12-20T12:37:19.974580+00:00"
+      "model_run": "2025-12-20T18:25:37.470634+00:00"
     },
     {
       "name": "Denver, CO",
       "lat": 39.7392,
       "lon": -104.9903,
-      "filename": "denver-co.json",
-      "data_points": 156,
-      "model_run": "2025-12-20T12:37:21.499638+00:00"
+      "error": "unsupported operand type(s) for -: 'NoneType' and 'int'"
     },
     {
       "name": "Seattle, WA",
@@ -87,7 +85,7 @@
       "lon": -122.3321,
       "filename": "seattle-wa.json",
       "data_points": 156,
-      "model_run": "2025-12-20T12:37:23.088026+00:00"
+      "model_run": "2025-12-20T18:25:39.672984+00:00"
     },
     {
       "name": "Miami, FL",
@@ -95,7 +93,7 @@
       "lon": -80.1918,
       "filename": "miami-fl.json",
       "data_points": 156,
-      "model_run": "2025-12-20T12:37:25.359109+00:00"
+      "model_run": "2025-12-20T18:25:40.508071+00:00"
     },
     {
       "name": "Atlanta, GA",
@@ -103,7 +101,7 @@
       "lon": -84.388,
       "filename": "atlanta-ga.json",
       "data_points": 156,
-      "model_run": "2025-12-20T12:37:26.386633+00:00"
+      "model_run": "2025-12-20T18:25:41.543841+00:00"
     },
     {
       "name": "Boston, MA",
@@ -111,7 +109,7 @@
       "lon": -71.0589,
       "filename": "boston-ma.json",
       "data_points": 156,
-      "model_run": "2025-12-20T12:37:27.109182+00:00"
+      "model_run": "2025-12-20T18:25:42.421268+00:00"
     },
     {
       "name": "Detroit, MI",
@@ -119,7 +117,7 @@
       "lon": -83.0458,
       "filename": "detroit-mi.json",
       "data_points": 156,
-      "model_run": "2025-12-20T12:37:29.086654+00:00"
+      "model_run": "2025-12-20T18:25:43.107709+00:00"
     }
   ],
   "status": "success"
