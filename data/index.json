@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T02:00:52.961332+00:00",
+  "last_updated": "2026-02-05T06:58:07.832347+00:00",
   "locations": [
     {
       "name": "New York, NY",
@@ -7,7 +7,7 @@
       "lon": -74.006,
       "filename": "new_york-ny.json",
       "data_points": 156,
-      "model_run": "2026-02-05T02:00:53.883009+00:00"
+      "model_run": "2026-02-05T06:58:08.898503+00:00"
     },
     {
       "name": "Los Angeles, CA",
@@ -15,7 +15,7 @@
       "lon": -118.2437,
       "filename": "los_angeles-ca.json",
       "data_points": 156,
-      "model_run": "2026-02-05T02:00:54.468486+00:00"
+      "model_run": "2026-02-05T06:58:09.642097+00:00"
     },
     {
       "name": "Chicago, IL",
@@ -23,7 +23,7 @@
       "lon": -87.6298,
       "filename": "chicago-il.json",
       "data_points": 156,
-      "model_run": "2026-02-05T02:00:55.067842+00:00"
+      "model_run": "2026-02-05T06:58:10.302847+00:00"
     },
     {
       "name": "Houston, TX",
@@ -31,7 +31,7 @@
       "lon": -95.3698,
       "filename": "houston-tx.json",
       "data_points": 156,
-      "model_run": "2026-02-05T02:00:55.657238+00:00"
+      "model_run": "2026-02-05T06:58:11.564380+00:00"
     },
     {
       "name": "Phoenix, AZ",
@@ -39,7 +39,7 @@
       "lon": -112.074,
       "filename": "phoenix-az.json",
       "data_points": 156,
-      "model_run": "2026-02-05T02:00:56.254258+00:00"
+      "model_run": "2026-02-05T06:58:12.750033+00:00"
     },
     {
       "name": "Philadelphia, PA",
@@ -47,7 +47,7 @@
       "lon": -75.1652,
       "filename": "philadelphia-pa.json",
       "data_points": 156,
-      "model_run": "2026-02-05T02:00:56.843484+00:00"
+      "model_run": "2026-02-05T06:58:14.061445+00:00"
     },
     {
       "name": "San Antonio, TX",
@@ -55,7 +55,7 @@
       "lon": -98.4936,
       "filename": "san_antonio-tx.json",
       "data_points": 156,
-      "model_run": "2026-02-05T02:00:57.439672+00:00"
+      "model_run": "2026-02-05T06:58:15.275726+00:00"
     },
     {
       "name": "San Diego, CA",
@@ -63,7 +63,7 @@
       "lon": -117.1611,
       "filename": "san_diego-ca.json",
       "data_points": 156,
-      "model_run": "2026-02-05T02:00:58.028877+00:00"
+      "model_run": "2026-02-05T06:58:16.290624+00:00"
     },
     {
       "name": "Dallas, TX",
@@ -71,7 +71,7 @@
       "lon": -96.797,
       "filename": "dallas-tx.json",
       "data_points": 156,
-      "model_run": "2026-02-05T02:00:58.625462+00:00"
+      "model_run": "2026-02-05T06:58:17.580828+00:00"
     },
     {
       "name": "Denver, CO",
@@ -79,7 +79,7 @@
       "lon": -104.9903,
       "filename": "denver-co.json",
       "data_points": 156,
-      "model_run": "2026-02-05T02:00:59.216866+00:00"
+      "model_run": "2026-02-05T06:58:18.571936+00:00"
     },
     {
       "name": "Seattle, WA",
@@ -87,7 +87,7 @@
       "lon": -122.3321,
       "filename": "seattle-wa.json",
       "data_points": 156,
-      "model_run": "2026-02-05T02:00:59.807012+00:00"
+      "model_run": "2026-02-05T06:58:19.608657+00:00"
     },
     {
       "name": "Miami, FL",
@@ -95,7 +95,7 @@
       "lon": -80.1918,
       "filename": "miami-fl.json",
       "data_points": 156,
-      "model_run": "2026-02-05T02:01:00.402639+00:00"
+      "model_run": "2026-02-05T06:58:20.584525+00:00"
     },
     {
       "name": "Atlanta, GA",
@@ -103,7 +103,7 @@
       "lon": -84.388,
       "filename": "atlanta-ga.json",
       "data_points": 156,
-      "model_run": "2026-02-05T02:01:01.007194+00:00"
+      "model_run": "2026-02-05T06:58:21.858120+00:00"
     },
     {
       "name": "Boston, MA",
@@ -117,7 +117,7 @@
       "lon": -83.0458,
       "filename": "detroit-mi.json",
       "data_points": 156,
-      "model_run": "2026-02-05T02:01:02.195509+00:00"
+      "model_run": "2026-02-05T06:58:23.556102+00:00"
     }
   ],
   "status": "success"
