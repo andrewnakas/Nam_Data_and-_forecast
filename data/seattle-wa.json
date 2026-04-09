@@ -4,395 +4,11 @@
     "lat": 47.6062,
     "lon": -122.3321
   },
-  "model_run": "2026-04-09T07:21:13.684309+00:00",
+  "model_run": "2026-04-09T13:25:37.798400+00:00",
   "hourly_data": [
     {
-      "valid_time": "2026-04-08T23:00:00-07:00",
-      "forecast_hour": 0,
-      "surface": {
-        "temperature_2m": 10.0,
-        "temperature_surface": 10.0,
-        "wind_speed_10m": 1.34112,
-        "wind_direction_10m": 22.5,
-        "wind_u_10m": -1.16140992,
-        "wind_v_10m": -0.67056,
-        "precipitation_rate": 0.0
-      },
-      "levels": {
-        "1000mb": {
-          "temperature": 9.5,
-          "wind_speed": 1.34112,
-          "wind_direction": 22.5,
-          "relative_humidity": 67,
-          "height": 110
-        },
-        "925mb": {
-          "temperature": 6.0,
-          "wind_speed": 1.4752320000000003,
-          "wind_direction": 27.5,
-          "relative_humidity": 62,
-          "height": 762
-        },
-        "850mb": {
-          "temperature": 1.0,
-          "wind_speed": 1.609344,
-          "wind_direction": 32.5,
-          "relative_humidity": 57,
-          "height": 1457
-        },
-        "700mb": {
-          "temperature": -9.0,
-          "wind_speed": 1.877568,
-          "wind_direction": 37.5,
-          "relative_humidity": 47,
-          "height": 3012
-        },
-        "500mb": {
-          "temperature": -25.0,
-          "wind_speed": 2.414016,
-          "wind_direction": 47.5,
-          "relative_humidity": 32,
-          "height": 5574
-        },
-        "300mb": {
-          "temperature": -45.0,
-          "wind_speed": 3.3528000000000002,
-          "wind_direction": 62.5,
-          "relative_humidity": 17,
-          "height": 9164
-        },
-        "250mb": {
-          "temperature": -50.0,
-          "wind_speed": 4.02336,
-          "wind_direction": 72.5,
-          "relative_humidity": 12,
-          "height": 10363
-        }
-      }
-    },
-    {
-      "valid_time": "2026-04-09T00:00:00-07:00",
-      "forecast_hour": 1,
-      "surface": {
-        "temperature_2m": 8.88888888888889,
-        "temperature_surface": 8.88888888888889,
-        "wind_speed_10m": 1.34112,
-        "wind_direction_10m": 22.5,
-        "wind_u_10m": -1.16140992,
-        "wind_v_10m": -0.67056,
-        "precipitation_rate": 0.0
-      },
-      "levels": {
-        "1000mb": {
-          "temperature": 8.38888888888889,
-          "wind_speed": 1.34112,
-          "wind_direction": 22.5,
-          "relative_humidity": 70,
-          "height": 110
-        },
-        "925mb": {
-          "temperature": 4.888888888888889,
-          "wind_speed": 1.4752320000000003,
-          "wind_direction": 27.5,
-          "relative_humidity": 65,
-          "height": 762
-        },
-        "850mb": {
-          "temperature": -0.11111111111111072,
-          "wind_speed": 1.609344,
-          "wind_direction": 32.5,
-          "relative_humidity": 60,
-          "height": 1457
-        },
-        "700mb": {
-          "temperature": -10.11111111111111,
-          "wind_speed": 1.877568,
-          "wind_direction": 37.5,
-          "relative_humidity": 50,
-          "height": 3012
-        },
-        "500mb": {
-          "temperature": -26.11111111111111,
-          "wind_speed": 2.414016,
-          "wind_direction": 47.5,
-          "relative_humidity": 35,
-          "height": 5574
-        },
-        "300mb": {
-          "temperature": -46.111111111111114,
-          "wind_speed": 3.3528000000000002,
-          "wind_direction": 62.5,
-          "relative_humidity": 20,
-          "height": 9164
-        },
-        "250mb": {
-          "temperature": -51.111111111111114,
-          "wind_speed": 4.02336,
-          "wind_direction": 72.5,
-          "relative_humidity": 15,
-          "height": 10363
-        }
-      }
-    },
-    {
-      "valid_time": "2026-04-09T01:00:00-07:00",
-      "forecast_hour": 2,
-      "surface": {
-        "temperature_2m": 7.777777777777778,
-        "temperature_surface": 7.777777777777778,
-        "wind_speed_10m": 1.34112,
-        "wind_direction_10m": 22.5,
-        "wind_u_10m": -1.16140992,
-        "wind_v_10m": -0.67056,
-        "precipitation_rate": 0.0
-      },
-      "levels": {
-        "1000mb": {
-          "temperature": 7.277777777777778,
-          "wind_speed": 1.34112,
-          "wind_direction": 22.5,
-          "relative_humidity": 73,
-          "height": 110
-        },
-        "925mb": {
-          "temperature": 3.7777777777777777,
-          "wind_speed": 1.4752320000000003,
-          "wind_direction": 27.5,
-          "relative_humidity": 68,
-          "height": 762
-        },
-        "850mb": {
-          "temperature": -1.2222222222222223,
-          "wind_speed": 1.609344,
-          "wind_direction": 32.5,
-          "relative_humidity": 63,
-          "height": 1457
-        },
-        "700mb": {
-          "temperature": -11.222222222222221,
-          "wind_speed": 1.877568,
-          "wind_direction": 37.5,
-          "relative_humidity": 53,
-          "height": 3012
-        },
-        "500mb": {
-          "temperature": -27.22222222222222,
-          "wind_speed": 2.414016,
-          "wind_direction": 47.5,
-          "relative_humidity": 38,
-          "height": 5574
-        },
-        "300mb": {
-          "temperature": -47.22222222222222,
-          "wind_speed": 3.3528000000000002,
-          "wind_direction": 62.5,
-          "relative_humidity": 23,
-          "height": 9164
-        },
-        "250mb": {
-          "temperature": -52.22222222222222,
-          "wind_speed": 4.02336,
-          "wind_direction": 72.5,
-          "relative_humidity": 18,
-          "height": 10363
-        }
-      }
-    },
-    {
-      "valid_time": "2026-04-09T02:00:00-07:00",
-      "forecast_hour": 3,
-      "surface": {
-        "temperature_2m": 7.222222222222222,
-        "temperature_surface": 7.222222222222222,
-        "wind_speed_10m": 1.34112,
-        "wind_direction_10m": 22.5,
-        "wind_u_10m": -1.16140992,
-        "wind_v_10m": -0.67056,
-        "precipitation_rate": 0.0
-      },
-      "levels": {
-        "1000mb": {
-          "temperature": 6.722222222222222,
-          "wind_speed": 1.34112,
-          "wind_direction": 22.5,
-          "relative_humidity": 78,
-          "height": 110
-        },
-        "925mb": {
-          "temperature": 3.2222222222222223,
-          "wind_speed": 1.4752320000000003,
-          "wind_direction": 27.5,
-          "relative_humidity": 73,
-          "height": 762
-        },
-        "850mb": {
-          "temperature": -1.7777777777777777,
-          "wind_speed": 1.609344,
-          "wind_direction": 32.5,
-          "relative_humidity": 68,
-          "height": 1457
-        },
-        "700mb": {
-          "temperature": -11.777777777777779,
-          "wind_speed": 1.877568,
-          "wind_direction": 37.5,
-          "relative_humidity": 58,
-          "height": 3012
-        },
-        "500mb": {
-          "temperature": -27.77777777777778,
-          "wind_speed": 2.414016,
-          "wind_direction": 47.5,
-          "relative_humidity": 43,
-          "height": 5574
-        },
-        "300mb": {
-          "temperature": -47.77777777777778,
-          "wind_speed": 3.3528000000000002,
-          "wind_direction": 62.5,
-          "relative_humidity": 28,
-          "height": 9164
-        },
-        "250mb": {
-          "temperature": -52.77777777777778,
-          "wind_speed": 4.02336,
-          "wind_direction": 72.5,
-          "relative_humidity": 23,
-          "height": 10363
-        }
-      }
-    },
-    {
-      "valid_time": "2026-04-09T03:00:00-07:00",
-      "forecast_hour": 4,
-      "surface": {
-        "temperature_2m": 6.666666666666667,
-        "temperature_surface": 6.666666666666667,
-        "wind_speed_10m": 0.89408,
-        "wind_direction_10m": 22.5,
-        "wind_u_10m": -0.77427328,
-        "wind_v_10m": -0.44704,
-        "precipitation_rate": 0.0
-      },
-      "levels": {
-        "1000mb": {
-          "temperature": 6.166666666666667,
-          "wind_speed": 0.89408,
-          "wind_direction": 22.5,
-          "relative_humidity": 79,
-          "height": 110
-        },
-        "925mb": {
-          "temperature": 2.666666666666667,
-          "wind_speed": 0.983488,
-          "wind_direction": 27.5,
-          "relative_humidity": 74,
-          "height": 762
-        },
-        "850mb": {
-          "temperature": -2.333333333333333,
-          "wind_speed": 1.0728959999999998,
-          "wind_direction": 32.5,
-          "relative_humidity": 69,
-          "height": 1457
-        },
-        "700mb": {
-          "temperature": -12.333333333333332,
-          "wind_speed": 1.251712,
-          "wind_direction": 37.5,
-          "relative_humidity": 59,
-          "height": 3012
-        },
-        "500mb": {
-          "temperature": -28.333333333333332,
-          "wind_speed": 1.609344,
-          "wind_direction": 47.5,
-          "relative_humidity": 44,
-          "height": 5574
-        },
-        "300mb": {
-          "temperature": -48.333333333333336,
-          "wind_speed": 2.2352,
-          "wind_direction": 62.5,
-          "relative_humidity": 29,
-          "height": 9164
-        },
-        "250mb": {
-          "temperature": -53.333333333333336,
-          "wind_speed": 2.68224,
-          "wind_direction": 72.5,
-          "relative_humidity": 24,
-          "height": 10363
-        }
-      }
-    },
-    {
-      "valid_time": "2026-04-09T04:00:00-07:00",
-      "forecast_hour": 5,
-      "surface": {
-        "temperature_2m": 6.111111111111111,
-        "temperature_surface": 6.111111111111111,
-        "wind_speed_10m": 0.89408,
-        "wind_direction_10m": 45,
-        "wind_u_10m": -0.77427328,
-        "wind_v_10m": -0.44704,
-        "precipitation_rate": 0.0
-      },
-      "levels": {
-        "1000mb": {
-          "temperature": 5.611111111111111,
-          "wind_speed": 0.89408,
-          "wind_direction": 45,
-          "relative_humidity": 81,
-          "height": 110
-        },
-        "925mb": {
-          "temperature": 2.1111111111111107,
-          "wind_speed": 0.983488,
-          "wind_direction": 50,
-          "relative_humidity": 76,
-          "height": 762
-        },
-        "850mb": {
-          "temperature": -2.8888888888888893,
-          "wind_speed": 1.0728959999999998,
-          "wind_direction": 55,
-          "relative_humidity": 71,
-          "height": 1457
-        },
-        "700mb": {
-          "temperature": -12.88888888888889,
-          "wind_speed": 1.251712,
-          "wind_direction": 60,
-          "relative_humidity": 61,
-          "height": 3012
-        },
-        "500mb": {
-          "temperature": -28.88888888888889,
-          "wind_speed": 1.609344,
-          "wind_direction": 70,
-          "relative_humidity": 46,
-          "height": 5574
-        },
-        "300mb": {
-          "temperature": -48.888888888888886,
-          "wind_speed": 2.2352,
-          "wind_direction": 85,
-          "relative_humidity": 31,
-          "height": 9164
-        },
-        "250mb": {
-          "temperature": -53.888888888888886,
-          "wind_speed": 2.68224,
-          "wind_direction": 95,
-          "relative_humidity": 26,
-          "height": 10363
-        }
-      }
-    },
-    {
       "valid_time": "2026-04-09T05:00:00-07:00",
-      "forecast_hour": 6,
+      "forecast_hour": 0,
       "surface": {
         "temperature_2m": 6.111111111111111,
         "temperature_surface": 6.111111111111111,
@@ -456,7 +72,7 @@
     },
     {
       "valid_time": "2026-04-09T06:00:00-07:00",
-      "forecast_hour": 7,
+      "forecast_hour": 1,
       "surface": {
         "temperature_2m": 5.555555555555555,
         "temperature_surface": 5.555555555555555,
@@ -520,7 +136,7 @@
     },
     {
       "valid_time": "2026-04-09T07:00:00-07:00",
-      "forecast_hour": 8,
+      "forecast_hour": 2,
       "surface": {
         "temperature_2m": 6.111111111111111,
         "temperature_surface": 6.111111111111111,
@@ -584,7 +200,7 @@
     },
     {
       "valid_time": "2026-04-09T08:00:00-07:00",
-      "forecast_hour": 9,
+      "forecast_hour": 3,
       "surface": {
         "temperature_2m": 6.666666666666667,
         "temperature_surface": 6.666666666666667,
@@ -648,7 +264,7 @@
     },
     {
       "valid_time": "2026-04-09T09:00:00-07:00",
-      "forecast_hour": 10,
+      "forecast_hour": 4,
       "surface": {
         "temperature_2m": 8.333333333333334,
         "temperature_surface": 8.333333333333334,
@@ -712,7 +328,7 @@
     },
     {
       "valid_time": "2026-04-09T10:00:00-07:00",
-      "forecast_hour": 11,
+      "forecast_hour": 5,
       "surface": {
         "temperature_2m": 10.555555555555555,
         "temperature_surface": 10.555555555555555,
@@ -776,7 +392,7 @@
     },
     {
       "valid_time": "2026-04-09T11:00:00-07:00",
-      "forecast_hour": 12,
+      "forecast_hour": 6,
       "surface": {
         "temperature_2m": 12.222222222222221,
         "temperature_surface": 12.222222222222221,
@@ -840,7 +456,7 @@
     },
     {
       "valid_time": "2026-04-09T12:00:00-07:00",
-      "forecast_hour": 13,
+      "forecast_hour": 7,
       "surface": {
         "temperature_2m": 13.88888888888889,
         "temperature_surface": 13.88888888888889,
@@ -904,7 +520,7 @@
     },
     {
       "valid_time": "2026-04-09T13:00:00-07:00",
-      "forecast_hour": 14,
+      "forecast_hour": 8,
       "surface": {
         "temperature_2m": 15.555555555555555,
         "temperature_surface": 15.555555555555555,
@@ -968,7 +584,7 @@
     },
     {
       "valid_time": "2026-04-09T14:00:00-07:00",
-      "forecast_hour": 15,
+      "forecast_hour": 9,
       "surface": {
         "temperature_2m": 16.666666666666668,
         "temperature_surface": 16.666666666666668,
@@ -1032,7 +648,7 @@
     },
     {
       "valid_time": "2026-04-09T15:00:00-07:00",
-      "forecast_hour": 16,
+      "forecast_hour": 10,
       "surface": {
         "temperature_2m": 17.22222222222222,
         "temperature_surface": 17.22222222222222,
@@ -1096,7 +712,7 @@
     },
     {
       "valid_time": "2026-04-09T16:00:00-07:00",
-      "forecast_hour": 17,
+      "forecast_hour": 11,
       "surface": {
         "temperature_2m": 17.77777777777778,
         "temperature_surface": 17.77777777777778,
@@ -1160,7 +776,7 @@
     },
     {
       "valid_time": "2026-04-09T17:00:00-07:00",
-      "forecast_hour": 18,
+      "forecast_hour": 12,
       "surface": {
         "temperature_2m": 17.77777777777778,
         "temperature_surface": 17.77777777777778,
@@ -1224,7 +840,7 @@
     },
     {
       "valid_time": "2026-04-09T18:00:00-07:00",
-      "forecast_hour": 19,
+      "forecast_hour": 13,
       "surface": {
         "temperature_2m": 16.666666666666668,
         "temperature_surface": 16.666666666666668,
@@ -1288,7 +904,7 @@
     },
     {
       "valid_time": "2026-04-09T19:00:00-07:00",
-      "forecast_hour": 20,
+      "forecast_hour": 14,
       "surface": {
         "temperature_2m": 16.11111111111111,
         "temperature_surface": 16.11111111111111,
@@ -1352,7 +968,7 @@
     },
     {
       "valid_time": "2026-04-09T20:00:00-07:00",
-      "forecast_hour": 21,
+      "forecast_hour": 15,
       "surface": {
         "temperature_2m": 14.444444444444445,
         "temperature_surface": 14.444444444444445,
@@ -1416,7 +1032,7 @@
     },
     {
       "valid_time": "2026-04-09T21:00:00-07:00",
-      "forecast_hour": 22,
+      "forecast_hour": 16,
       "surface": {
         "temperature_2m": 12.777777777777779,
         "temperature_surface": 12.777777777777779,
@@ -1480,7 +1096,7 @@
     },
     {
       "valid_time": "2026-04-09T22:00:00-07:00",
-      "forecast_hour": 23,
+      "forecast_hour": 17,
       "surface": {
         "temperature_2m": 12.222222222222221,
         "temperature_surface": 12.222222222222221,
@@ -1544,7 +1160,7 @@
     },
     {
       "valid_time": "2026-04-09T23:00:00-07:00",
-      "forecast_hour": 24,
+      "forecast_hour": 18,
       "surface": {
         "temperature_2m": 11.666666666666666,
         "temperature_surface": 11.666666666666666,
@@ -1608,7 +1224,7 @@
     },
     {
       "valid_time": "2026-04-10T00:00:00-07:00",
-      "forecast_hour": 25,
+      "forecast_hour": 19,
       "surface": {
         "temperature_2m": 10.555555555555555,
         "temperature_surface": 10.555555555555555,
@@ -1672,7 +1288,7 @@
     },
     {
       "valid_time": "2026-04-10T01:00:00-07:00",
-      "forecast_hour": 26,
+      "forecast_hour": 20,
       "surface": {
         "temperature_2m": 10.0,
         "temperature_surface": 10.0,
@@ -1736,7 +1352,7 @@
     },
     {
       "valid_time": "2026-04-10T02:00:00-07:00",
-      "forecast_hour": 27,
+      "forecast_hour": 21,
       "surface": {
         "temperature_2m": 8.88888888888889,
         "temperature_surface": 8.88888888888889,
@@ -1800,7 +1416,7 @@
     },
     {
       "valid_time": "2026-04-10T03:00:00-07:00",
-      "forecast_hour": 28,
+      "forecast_hour": 22,
       "surface": {
         "temperature_2m": 8.88888888888889,
         "temperature_surface": 8.88888888888889,
@@ -1864,7 +1480,7 @@
     },
     {
       "valid_time": "2026-04-10T04:00:00-07:00",
-      "forecast_hour": 29,
+      "forecast_hour": 23,
       "surface": {
         "temperature_2m": 8.333333333333334,
         "temperature_surface": 8.333333333333334,
@@ -1928,7 +1544,7 @@
     },
     {
       "valid_time": "2026-04-10T05:00:00-07:00",
-      "forecast_hour": 30,
+      "forecast_hour": 24,
       "surface": {
         "temperature_2m": 7.777777777777778,
         "temperature_surface": 7.777777777777778,
@@ -1992,7 +1608,7 @@
     },
     {
       "valid_time": "2026-04-10T06:00:00-07:00",
-      "forecast_hour": 31,
+      "forecast_hour": 25,
       "surface": {
         "temperature_2m": 7.777777777777778,
         "temperature_surface": 7.777777777777778,
@@ -2056,7 +1672,7 @@
     },
     {
       "valid_time": "2026-04-10T07:00:00-07:00",
-      "forecast_hour": 32,
+      "forecast_hour": 26,
       "surface": {
         "temperature_2m": 7.777777777777778,
         "temperature_surface": 7.777777777777778,
@@ -2120,7 +1736,7 @@
     },
     {
       "valid_time": "2026-04-10T08:00:00-07:00",
-      "forecast_hour": 33,
+      "forecast_hour": 27,
       "surface": {
         "temperature_2m": 8.88888888888889,
         "temperature_surface": 8.88888888888889,
@@ -2184,7 +1800,7 @@
     },
     {
       "valid_time": "2026-04-10T09:00:00-07:00",
-      "forecast_hour": 34,
+      "forecast_hour": 28,
       "surface": {
         "temperature_2m": 10.0,
         "temperature_surface": 10.0,
@@ -2248,7 +1864,7 @@
     },
     {
       "valid_time": "2026-04-10T10:00:00-07:00",
-      "forecast_hour": 35,
+      "forecast_hour": 29,
       "surface": {
         "temperature_2m": 12.222222222222221,
         "temperature_surface": 12.222222222222221,
@@ -2312,7 +1928,7 @@
     },
     {
       "valid_time": "2026-04-10T11:00:00-07:00",
-      "forecast_hour": 36,
+      "forecast_hour": 30,
       "surface": {
         "temperature_2m": 13.88888888888889,
         "temperature_surface": 13.88888888888889,
@@ -2376,7 +1992,7 @@
     },
     {
       "valid_time": "2026-04-10T12:00:00-07:00",
-      "forecast_hour": 37,
+      "forecast_hour": 31,
       "surface": {
         "temperature_2m": 16.11111111111111,
         "temperature_surface": 16.11111111111111,
@@ -2440,7 +2056,7 @@
     },
     {
       "valid_time": "2026-04-10T13:00:00-07:00",
-      "forecast_hour": 38,
+      "forecast_hour": 32,
       "surface": {
         "temperature_2m": 17.22222222222222,
         "temperature_surface": 17.22222222222222,
@@ -2504,7 +2120,7 @@
     },
     {
       "valid_time": "2026-04-10T14:00:00-07:00",
-      "forecast_hour": 39,
+      "forecast_hour": 33,
       "surface": {
         "temperature_2m": 18.333333333333332,
         "temperature_surface": 18.333333333333332,
@@ -2568,7 +2184,7 @@
     },
     {
       "valid_time": "2026-04-10T15:00:00-07:00",
-      "forecast_hour": 40,
+      "forecast_hour": 34,
       "surface": {
         "temperature_2m": 18.88888888888889,
         "temperature_surface": 18.88888888888889,
@@ -2632,7 +2248,7 @@
     },
     {
       "valid_time": "2026-04-10T16:00:00-07:00",
-      "forecast_hour": 41,
+      "forecast_hour": 35,
       "surface": {
         "temperature_2m": 19.444444444444443,
         "temperature_surface": 19.444444444444443,
@@ -2696,7 +2312,7 @@
     },
     {
       "valid_time": "2026-04-10T17:00:00-07:00",
-      "forecast_hour": 42,
+      "forecast_hour": 36,
       "surface": {
         "temperature_2m": 19.444444444444443,
         "temperature_surface": 19.444444444444443,
@@ -2760,7 +2376,7 @@
     },
     {
       "valid_time": "2026-04-10T18:00:00-07:00",
-      "forecast_hour": 43,
+      "forecast_hour": 37,
       "surface": {
         "temperature_2m": 18.333333333333332,
         "temperature_surface": 18.333333333333332,
@@ -2824,7 +2440,7 @@
     },
     {
       "valid_time": "2026-04-10T19:00:00-07:00",
-      "forecast_hour": 44,
+      "forecast_hour": 38,
       "surface": {
         "temperature_2m": 17.22222222222222,
         "temperature_surface": 17.22222222222222,
@@ -2888,7 +2504,7 @@
     },
     {
       "valid_time": "2026-04-10T20:00:00-07:00",
-      "forecast_hour": 45,
+      "forecast_hour": 39,
       "surface": {
         "temperature_2m": 15.555555555555555,
         "temperature_surface": 15.555555555555555,
@@ -2952,7 +2568,7 @@
     },
     {
       "valid_time": "2026-04-10T21:00:00-07:00",
-      "forecast_hour": 46,
+      "forecast_hour": 40,
       "surface": {
         "temperature_2m": 14.444444444444445,
         "temperature_surface": 14.444444444444445,
@@ -3016,7 +2632,7 @@
     },
     {
       "valid_time": "2026-04-10T22:00:00-07:00",
-      "forecast_hour": 47,
+      "forecast_hour": 41,
       "surface": {
         "temperature_2m": 13.88888888888889,
         "temperature_surface": 13.88888888888889,
@@ -3080,7 +2696,7 @@
     },
     {
       "valid_time": "2026-04-10T23:00:00-07:00",
-      "forecast_hour": 48,
+      "forecast_hour": 42,
       "surface": {
         "temperature_2m": 13.333333333333334,
         "temperature_surface": 13.333333333333334,
@@ -3144,7 +2760,7 @@
     },
     {
       "valid_time": "2026-04-11T00:00:00-07:00",
-      "forecast_hour": 49,
+      "forecast_hour": 43,
       "surface": {
         "temperature_2m": 12.222222222222221,
         "temperature_surface": 12.222222222222221,
@@ -3208,7 +2824,7 @@
     },
     {
       "valid_time": "2026-04-11T01:00:00-07:00",
-      "forecast_hour": 50,
+      "forecast_hour": 44,
       "surface": {
         "temperature_2m": 12.222222222222221,
         "temperature_surface": 12.222222222222221,
@@ -3272,7 +2888,7 @@
     },
     {
       "valid_time": "2026-04-11T02:00:00-07:00",
-      "forecast_hour": 51,
+      "forecast_hour": 45,
       "surface": {
         "temperature_2m": 11.666666666666666,
         "temperature_surface": 11.666666666666666,
@@ -3336,7 +2952,7 @@
     },
     {
       "valid_time": "2026-04-11T03:00:00-07:00",
-      "forecast_hour": 52,
+      "forecast_hour": 46,
       "surface": {
         "temperature_2m": 11.11111111111111,
         "temperature_surface": 11.11111111111111,
@@ -3400,7 +3016,7 @@
     },
     {
       "valid_time": "2026-04-11T04:00:00-07:00",
-      "forecast_hour": 53,
+      "forecast_hour": 47,
       "surface": {
         "temperature_2m": 10.555555555555555,
         "temperature_surface": 10.555555555555555,
@@ -3464,7 +3080,7 @@
     },
     {
       "valid_time": "2026-04-11T05:00:00-07:00",
-      "forecast_hour": 54,
+      "forecast_hour": 48,
       "surface": {
         "temperature_2m": 10.0,
         "temperature_surface": 10.0,
@@ -3528,7 +3144,7 @@
     },
     {
       "valid_time": "2026-04-11T06:00:00-07:00",
-      "forecast_hour": 55,
+      "forecast_hour": 49,
       "surface": {
         "temperature_2m": 10.0,
         "temperature_surface": 10.0,
@@ -3592,7 +3208,7 @@
     },
     {
       "valid_time": "2026-04-11T07:00:00-07:00",
-      "forecast_hour": 56,
+      "forecast_hour": 50,
       "surface": {
         "temperature_2m": 10.0,
         "temperature_surface": 10.0,
@@ -3656,7 +3272,7 @@
     },
     {
       "valid_time": "2026-04-11T08:00:00-07:00",
-      "forecast_hour": 57,
+      "forecast_hour": 51,
       "surface": {
         "temperature_2m": 10.0,
         "temperature_surface": 10.0,
@@ -3720,7 +3336,7 @@
     },
     {
       "valid_time": "2026-04-11T09:00:00-07:00",
-      "forecast_hour": 58,
+      "forecast_hour": 52,
       "surface": {
         "temperature_2m": 10.555555555555555,
         "temperature_surface": 10.555555555555555,
@@ -3784,7 +3400,7 @@
     },
     {
       "valid_time": "2026-04-11T10:00:00-07:00",
-      "forecast_hour": 59,
+      "forecast_hour": 53,
       "surface": {
         "temperature_2m": 10.555555555555555,
         "temperature_surface": 10.555555555555555,
@@ -3848,7 +3464,7 @@
     },
     {
       "valid_time": "2026-04-11T11:00:00-07:00",
-      "forecast_hour": 60,
+      "forecast_hour": 54,
       "surface": {
         "temperature_2m": 11.11111111111111,
         "temperature_surface": 11.11111111111111,
@@ -3912,7 +3528,7 @@
     },
     {
       "valid_time": "2026-04-11T12:00:00-07:00",
-      "forecast_hour": 61,
+      "forecast_hour": 55,
       "surface": {
         "temperature_2m": 12.222222222222221,
         "temperature_surface": 12.222222222222221,
@@ -3976,7 +3592,7 @@
     },
     {
       "valid_time": "2026-04-11T13:00:00-07:00",
-      "forecast_hour": 62,
+      "forecast_hour": 56,
       "surface": {
         "temperature_2m": 12.777777777777779,
         "temperature_surface": 12.777777777777779,
@@ -4040,7 +3656,7 @@
     },
     {
       "valid_time": "2026-04-11T14:00:00-07:00",
-      "forecast_hour": 63,
+      "forecast_hour": 57,
       "surface": {
         "temperature_2m": 13.333333333333334,
         "temperature_surface": 13.333333333333334,
@@ -4104,7 +3720,7 @@
     },
     {
       "valid_time": "2026-04-11T15:00:00-07:00",
-      "forecast_hour": 64,
+      "forecast_hour": 58,
       "surface": {
         "temperature_2m": 14.444444444444445,
         "temperature_surface": 14.444444444444445,
@@ -4168,7 +3784,7 @@
     },
     {
       "valid_time": "2026-04-11T16:00:00-07:00",
-      "forecast_hour": 65,
+      "forecast_hour": 59,
       "surface": {
         "temperature_2m": 14.444444444444445,
         "temperature_surface": 14.444444444444445,
@@ -4232,7 +3848,7 @@
     },
     {
       "valid_time": "2026-04-11T17:00:00-07:00",
-      "forecast_hour": 66,
+      "forecast_hour": 60,
       "surface": {
         "temperature_2m": 15.0,
         "temperature_surface": 15.0,
@@ -4296,7 +3912,7 @@
     },
     {
       "valid_time": "2026-04-11T18:00:00-07:00",
-      "forecast_hour": 67,
+      "forecast_hour": 61,
       "surface": {
         "temperature_2m": 14.444444444444445,
         "temperature_surface": 14.444444444444445,
@@ -4360,7 +3976,7 @@
     },
     {
       "valid_time": "2026-04-11T19:00:00-07:00",
-      "forecast_hour": 68,
+      "forecast_hour": 62,
       "surface": {
         "temperature_2m": 13.88888888888889,
         "temperature_surface": 13.88888888888889,
@@ -4424,7 +4040,7 @@
     },
     {
       "valid_time": "2026-04-11T20:00:00-07:00",
-      "forecast_hour": 69,
+      "forecast_hour": 63,
       "surface": {
         "temperature_2m": 13.333333333333334,
         "temperature_surface": 13.333333333333334,
@@ -4488,7 +4104,7 @@
     },
     {
       "valid_time": "2026-04-11T21:00:00-07:00",
-      "forecast_hour": 70,
+      "forecast_hour": 64,
       "surface": {
         "temperature_2m": 12.777777777777779,
         "temperature_surface": 12.777777777777779,
@@ -4552,7 +4168,7 @@
     },
     {
       "valid_time": "2026-04-11T22:00:00-07:00",
-      "forecast_hour": 71,
+      "forecast_hour": 65,
       "surface": {
         "temperature_2m": 12.222222222222221,
         "temperature_surface": 12.222222222222221,
@@ -4616,7 +4232,7 @@
     },
     {
       "valid_time": "2026-04-11T23:00:00-07:00",
-      "forecast_hour": 72,
+      "forecast_hour": 66,
       "surface": {
         "temperature_2m": 11.11111111111111,
         "temperature_surface": 11.11111111111111,
@@ -4680,7 +4296,7 @@
     },
     {
       "valid_time": "2026-04-12T00:00:00-07:00",
-      "forecast_hour": 73,
+      "forecast_hour": 67,
       "surface": {
         "temperature_2m": 11.11111111111111,
         "temperature_surface": 11.11111111111111,
@@ -4744,7 +4360,7 @@
     },
     {
       "valid_time": "2026-04-12T01:00:00-07:00",
-      "forecast_hour": 74,
+      "forecast_hour": 68,
       "surface": {
         "temperature_2m": 10.555555555555555,
         "temperature_surface": 10.555555555555555,
@@ -4808,7 +4424,7 @@
     },
     {
       "valid_time": "2026-04-12T02:00:00-07:00",
-      "forecast_hour": 75,
+      "forecast_hour": 69,
       "surface": {
         "temperature_2m": 10.0,
         "temperature_surface": 10.0,
@@ -4872,7 +4488,7 @@
     },
     {
       "valid_time": "2026-04-12T03:00:00-07:00",
-      "forecast_hour": 76,
+      "forecast_hour": 70,
       "surface": {
         "temperature_2m": 9.444444444444445,
         "temperature_surface": 9.444444444444445,
@@ -4936,7 +4552,7 @@
     },
     {
       "valid_time": "2026-04-12T04:00:00-07:00",
-      "forecast_hour": 77,
+      "forecast_hour": 71,
       "surface": {
         "temperature_2m": 8.88888888888889,
         "temperature_surface": 8.88888888888889,
@@ -5000,7 +4616,7 @@
     },
     {
       "valid_time": "2026-04-12T05:00:00-07:00",
-      "forecast_hour": 78,
+      "forecast_hour": 72,
       "surface": {
         "temperature_2m": 8.88888888888889,
         "temperature_surface": 8.88888888888889,
@@ -5064,7 +4680,7 @@
     },
     {
       "valid_time": "2026-04-12T06:00:00-07:00",
-      "forecast_hour": 79,
+      "forecast_hour": 73,
       "surface": {
         "temperature_2m": 8.333333333333334,
         "temperature_surface": 8.333333333333334,
@@ -5128,7 +4744,7 @@
     },
     {
       "valid_time": "2026-04-12T07:00:00-07:00",
-      "forecast_hour": 80,
+      "forecast_hour": 74,
       "surface": {
         "temperature_2m": 8.333333333333334,
         "temperature_surface": 8.333333333333334,
@@ -5192,7 +4808,7 @@
     },
     {
       "valid_time": "2026-04-12T08:00:00-07:00",
-      "forecast_hour": 81,
+      "forecast_hour": 75,
       "surface": {
         "temperature_2m": 8.88888888888889,
         "temperature_surface": 8.88888888888889,
@@ -5256,7 +4872,7 @@
     },
     {
       "valid_time": "2026-04-12T09:00:00-07:00",
-      "forecast_hour": 82,
+      "forecast_hour": 76,
       "surface": {
         "temperature_2m": 9.444444444444445,
         "temperature_surface": 9.444444444444445,
@@ -5320,7 +4936,7 @@
     },
     {
       "valid_time": "2026-04-12T10:00:00-07:00",
-      "forecast_hour": 83,
+      "forecast_hour": 77,
       "surface": {
         "temperature_2m": 10.0,
         "temperature_surface": 10.0,
@@ -5384,7 +5000,7 @@
     },
     {
       "valid_time": "2026-04-12T11:00:00-07:00",
-      "forecast_hour": 84,
+      "forecast_hour": 78,
       "surface": {
         "temperature_2m": 10.555555555555555,
         "temperature_surface": 10.555555555555555,
@@ -5448,7 +5064,7 @@
     },
     {
       "valid_time": "2026-04-12T12:00:00-07:00",
-      "forecast_hour": 85,
+      "forecast_hour": 79,
       "surface": {
         "temperature_2m": 11.11111111111111,
         "temperature_surface": 11.11111111111111,
@@ -5512,7 +5128,7 @@
     },
     {
       "valid_time": "2026-04-12T13:00:00-07:00",
-      "forecast_hour": 86,
+      "forecast_hour": 80,
       "surface": {
         "temperature_2m": 11.666666666666666,
         "temperature_surface": 11.666666666666666,
@@ -5576,7 +5192,7 @@
     },
     {
       "valid_time": "2026-04-12T14:00:00-07:00",
-      "forecast_hour": 87,
+      "forecast_hour": 81,
       "surface": {
         "temperature_2m": 11.666666666666666,
         "temperature_surface": 11.666666666666666,
@@ -5640,7 +5256,7 @@
     },
     {
       "valid_time": "2026-04-12T15:00:00-07:00",
-      "forecast_hour": 88,
+      "forecast_hour": 82,
       "surface": {
         "temperature_2m": 12.222222222222221,
         "temperature_surface": 12.222222222222221,
@@ -5704,7 +5320,7 @@
     },
     {
       "valid_time": "2026-04-12T16:00:00-07:00",
-      "forecast_hour": 89,
+      "forecast_hour": 83,
       "surface": {
         "temperature_2m": 12.222222222222221,
         "temperature_surface": 12.222222222222221,
@@ -5768,7 +5384,7 @@
     },
     {
       "valid_time": "2026-04-12T17:00:00-07:00",
-      "forecast_hour": 90,
+      "forecast_hour": 84,
       "surface": {
         "temperature_2m": 12.222222222222221,
         "temperature_surface": 12.222222222222221,
@@ -5832,7 +5448,7 @@
     },
     {
       "valid_time": "2026-04-12T18:00:00-07:00",
-      "forecast_hour": 91,
+      "forecast_hour": 85,
       "surface": {
         "temperature_2m": 11.666666666666666,
         "temperature_surface": 11.666666666666666,
@@ -5896,7 +5512,7 @@
     },
     {
       "valid_time": "2026-04-12T19:00:00-07:00",
-      "forecast_hour": 92,
+      "forecast_hour": 86,
       "surface": {
         "temperature_2m": 11.666666666666666,
         "temperature_surface": 11.666666666666666,
@@ -5960,7 +5576,7 @@
     },
     {
       "valid_time": "2026-04-12T20:00:00-07:00",
-      "forecast_hour": 93,
+      "forecast_hour": 87,
       "surface": {
         "temperature_2m": 11.11111111111111,
         "temperature_surface": 11.11111111111111,
@@ -6024,7 +5640,7 @@
     },
     {
       "valid_time": "2026-04-12T21:00:00-07:00",
-      "forecast_hour": 94,
+      "forecast_hour": 88,
       "surface": {
         "temperature_2m": 11.11111111111111,
         "temperature_surface": 11.11111111111111,
@@ -6088,7 +5704,7 @@
     },
     {
       "valid_time": "2026-04-12T22:00:00-07:00",
-      "forecast_hour": 95,
+      "forecast_hour": 89,
       "surface": {
         "temperature_2m": 10.555555555555555,
         "temperature_surface": 10.555555555555555,
@@ -6152,7 +5768,7 @@
     },
     {
       "valid_time": "2026-04-12T23:00:00-07:00",
-      "forecast_hour": 96,
+      "forecast_hour": 90,
       "surface": {
         "temperature_2m": 10.555555555555555,
         "temperature_surface": 10.555555555555555,
@@ -6216,7 +5832,7 @@
     },
     {
       "valid_time": "2026-04-13T00:00:00-07:00",
-      "forecast_hour": 97,
+      "forecast_hour": 91,
       "surface": {
         "temperature_2m": 10.0,
         "temperature_surface": 10.0,
@@ -6280,7 +5896,7 @@
     },
     {
       "valid_time": "2026-04-13T01:00:00-07:00",
-      "forecast_hour": 98,
+      "forecast_hour": 92,
       "surface": {
         "temperature_2m": 9.444444444444445,
         "temperature_surface": 9.444444444444445,
@@ -6344,7 +5960,7 @@
     },
     {
       "valid_time": "2026-04-13T02:00:00-07:00",
-      "forecast_hour": 99,
+      "forecast_hour": 93,
       "surface": {
         "temperature_2m": 8.88888888888889,
         "temperature_surface": 8.88888888888889,
@@ -6408,7 +6024,7 @@
     },
     {
       "valid_time": "2026-04-13T03:00:00-07:00",
-      "forecast_hour": 100,
+      "forecast_hour": 94,
       "surface": {
         "temperature_2m": 8.333333333333334,
         "temperature_surface": 8.333333333333334,
@@ -6472,7 +6088,7 @@
     },
     {
       "valid_time": "2026-04-13T04:00:00-07:00",
-      "forecast_hour": 101,
+      "forecast_hour": 95,
       "surface": {
         "temperature_2m": 8.333333333333334,
         "temperature_surface": 8.333333333333334,
@@ -6536,7 +6152,7 @@
     },
     {
       "valid_time": "2026-04-13T05:00:00-07:00",
-      "forecast_hour": 102,
+      "forecast_hour": 96,
       "surface": {
         "temperature_2m": 8.333333333333334,
         "temperature_surface": 8.333333333333334,
@@ -6600,7 +6216,7 @@
     },
     {
       "valid_time": "2026-04-13T06:00:00-07:00",
-      "forecast_hour": 103,
+      "forecast_hour": 97,
       "surface": {
         "temperature_2m": 8.333333333333334,
         "temperature_surface": 8.333333333333334,
@@ -6664,7 +6280,7 @@
     },
     {
       "valid_time": "2026-04-13T07:00:00-07:00",
-      "forecast_hour": 104,
+      "forecast_hour": 98,
       "surface": {
         "temperature_2m": 8.333333333333334,
         "temperature_surface": 8.333333333333334,
@@ -6728,7 +6344,7 @@
     },
     {
       "valid_time": "2026-04-13T08:00:00-07:00",
-      "forecast_hour": 105,
+      "forecast_hour": 99,
       "surface": {
         "temperature_2m": 8.333333333333334,
         "temperature_surface": 8.333333333333334,
@@ -6792,7 +6408,7 @@
     },
     {
       "valid_time": "2026-04-13T09:00:00-07:00",
-      "forecast_hour": 106,
+      "forecast_hour": 100,
       "surface": {
         "temperature_2m": 8.88888888888889,
         "temperature_surface": 8.88888888888889,
@@ -6856,7 +6472,7 @@
     },
     {
       "valid_time": "2026-04-13T10:00:00-07:00",
-      "forecast_hour": 107,
+      "forecast_hour": 101,
       "surface": {
         "temperature_2m": 10.0,
         "temperature_surface": 10.0,
@@ -6920,7 +6536,7 @@
     },
     {
       "valid_time": "2026-04-13T11:00:00-07:00",
-      "forecast_hour": 108,
+      "forecast_hour": 102,
       "surface": {
         "temperature_2m": 10.555555555555555,
         "temperature_surface": 10.555555555555555,
@@ -6984,7 +6600,7 @@
     },
     {
       "valid_time": "2026-04-13T12:00:00-07:00",
-      "forecast_hour": 109,
+      "forecast_hour": 103,
       "surface": {
         "temperature_2m": 11.11111111111111,
         "temperature_surface": 11.11111111111111,
@@ -7048,7 +6664,7 @@
     },
     {
       "valid_time": "2026-04-13T13:00:00-07:00",
-      "forecast_hour": 110,
+      "forecast_hour": 104,
       "surface": {
         "temperature_2m": 11.666666666666666,
         "temperature_surface": 11.666666666666666,
@@ -7112,7 +6728,7 @@
     },
     {
       "valid_time": "2026-04-13T14:00:00-07:00",
-      "forecast_hour": 111,
+      "forecast_hour": 105,
       "surface": {
         "temperature_2m": 12.222222222222221,
         "temperature_surface": 12.222222222222221,
@@ -7176,7 +6792,7 @@
     },
     {
       "valid_time": "2026-04-13T15:00:00-07:00",
-      "forecast_hour": 112,
+      "forecast_hour": 106,
       "surface": {
         "temperature_2m": 12.222222222222221,
         "temperature_surface": 12.222222222222221,
@@ -7240,7 +6856,7 @@
     },
     {
       "valid_time": "2026-04-13T16:00:00-07:00",
-      "forecast_hour": 113,
+      "forecast_hour": 107,
       "surface": {
         "temperature_2m": 12.222222222222221,
         "temperature_surface": 12.222222222222221,
@@ -7304,7 +6920,7 @@
     },
     {
       "valid_time": "2026-04-13T17:00:00-07:00",
-      "forecast_hour": 114,
+      "forecast_hour": 108,
       "surface": {
         "temperature_2m": 12.222222222222221,
         "temperature_surface": 12.222222222222221,
@@ -7368,7 +6984,7 @@
     },
     {
       "valid_time": "2026-04-13T18:00:00-07:00",
-      "forecast_hour": 115,
+      "forecast_hour": 109,
       "surface": {
         "temperature_2m": 12.222222222222221,
         "temperature_surface": 12.222222222222221,
@@ -7432,7 +7048,7 @@
     },
     {
       "valid_time": "2026-04-13T19:00:00-07:00",
-      "forecast_hour": 116,
+      "forecast_hour": 110,
       "surface": {
         "temperature_2m": 11.666666666666666,
         "temperature_surface": 11.666666666666666,
@@ -7496,7 +7112,7 @@
     },
     {
       "valid_time": "2026-04-13T20:00:00-07:00",
-      "forecast_hour": 117,
+      "forecast_hour": 111,
       "surface": {
         "temperature_2m": 11.11111111111111,
         "temperature_surface": 11.11111111111111,
@@ -7560,7 +7176,7 @@
     },
     {
       "valid_time": "2026-04-13T21:00:00-07:00",
-      "forecast_hour": 118,
+      "forecast_hour": 112,
       "surface": {
         "temperature_2m": 10.555555555555555,
         "temperature_surface": 10.555555555555555,
@@ -7624,7 +7240,7 @@
     },
     {
       "valid_time": "2026-04-13T22:00:00-07:00",
-      "forecast_hour": 119,
+      "forecast_hour": 113,
       "surface": {
         "temperature_2m": 10.0,
         "temperature_surface": 10.0,
@@ -7688,7 +7304,7 @@
     },
     {
       "valid_time": "2026-04-13T23:00:00-07:00",
-      "forecast_hour": 120,
+      "forecast_hour": 114,
       "surface": {
         "temperature_2m": 9.444444444444445,
         "temperature_surface": 9.444444444444445,
@@ -7752,7 +7368,7 @@
     },
     {
       "valid_time": "2026-04-14T00:00:00-07:00",
-      "forecast_hour": 121,
+      "forecast_hour": 115,
       "surface": {
         "temperature_2m": 8.88888888888889,
         "temperature_surface": 8.88888888888889,
@@ -7816,7 +7432,7 @@
     },
     {
       "valid_time": "2026-04-14T01:00:00-07:00",
-      "forecast_hour": 122,
+      "forecast_hour": 116,
       "surface": {
         "temperature_2m": 8.88888888888889,
         "temperature_surface": 8.88888888888889,
@@ -7880,7 +7496,7 @@
     },
     {
       "valid_time": "2026-04-14T02:00:00-07:00",
-      "forecast_hour": 123,
+      "forecast_hour": 117,
       "surface": {
         "temperature_2m": 8.333333333333334,
         "temperature_surface": 8.333333333333334,
@@ -7944,7 +7560,7 @@
     },
     {
       "valid_time": "2026-04-14T03:00:00-07:00",
-      "forecast_hour": 124,
+      "forecast_hour": 118,
       "surface": {
         "temperature_2m": 8.333333333333334,
         "temperature_surface": 8.333333333333334,
@@ -8008,7 +7624,7 @@
     },
     {
       "valid_time": "2026-04-14T04:00:00-07:00",
-      "forecast_hour": 125,
+      "forecast_hour": 119,
       "surface": {
         "temperature_2m": 7.777777777777778,
         "temperature_surface": 7.777777777777778,
@@ -8072,7 +7688,7 @@
     },
     {
       "valid_time": "2026-04-14T05:00:00-07:00",
-      "forecast_hour": 126,
+      "forecast_hour": 120,
       "surface": {
         "temperature_2m": 7.777777777777778,
         "temperature_surface": 7.777777777777778,
@@ -8136,7 +7752,7 @@
     },
     {
       "valid_time": "2026-04-14T06:00:00-07:00",
-      "forecast_hour": 127,
+      "forecast_hour": 121,
       "surface": {
         "temperature_2m": 7.777777777777778,
         "temperature_surface": 7.777777777777778,
@@ -8200,7 +7816,7 @@
     },
     {
       "valid_time": "2026-04-14T07:00:00-07:00",
-      "forecast_hour": 128,
+      "forecast_hour": 122,
       "surface": {
         "temperature_2m": 7.777777777777778,
         "temperature_surface": 7.777777777777778,
@@ -8264,7 +7880,7 @@
     },
     {
       "valid_time": "2026-04-14T08:00:00-07:00",
-      "forecast_hour": 129,
+      "forecast_hour": 123,
       "surface": {
         "temperature_2m": 7.777777777777778,
         "temperature_surface": 7.777777777777778,
@@ -8328,7 +7944,7 @@
     },
     {
       "valid_time": "2026-04-14T09:00:00-07:00",
-      "forecast_hour": 130,
+      "forecast_hour": 124,
       "surface": {
         "temperature_2m": 8.333333333333334,
         "temperature_surface": 8.333333333333334,
@@ -8392,7 +8008,7 @@
     },
     {
       "valid_time": "2026-04-14T10:00:00-07:00",
-      "forecast_hour": 131,
+      "forecast_hour": 125,
       "surface": {
         "temperature_2m": 9.444444444444445,
         "temperature_surface": 9.444444444444445,
@@ -8456,7 +8072,7 @@
     },
     {
       "valid_time": "2026-04-14T11:00:00-07:00",
-      "forecast_hour": 132,
+      "forecast_hour": 126,
       "surface": {
         "temperature_2m": 10.555555555555555,
         "temperature_surface": 10.555555555555555,
@@ -8520,7 +8136,7 @@
     },
     {
       "valid_time": "2026-04-14T12:00:00-07:00",
-      "forecast_hour": 133,
+      "forecast_hour": 127,
       "surface": {
         "temperature_2m": 11.11111111111111,
         "temperature_surface": 11.11111111111111,
@@ -8584,7 +8200,7 @@
     },
     {
       "valid_time": "2026-04-14T13:00:00-07:00",
-      "forecast_hour": 134,
+      "forecast_hour": 128,
       "surface": {
         "temperature_2m": 11.666666666666666,
         "temperature_surface": 11.666666666666666,
@@ -8648,7 +8264,7 @@
     },
     {
       "valid_time": "2026-04-14T14:00:00-07:00",
-      "forecast_hour": 135,
+      "forecast_hour": 129,
       "surface": {
         "temperature_2m": 11.666666666666666,
         "temperature_surface": 11.666666666666666,
@@ -8712,7 +8328,7 @@
     },
     {
       "valid_time": "2026-04-14T15:00:00-07:00",
-      "forecast_hour": 136,
+      "forecast_hour": 130,
       "surface": {
         "temperature_2m": 11.666666666666666,
         "temperature_surface": 11.666666666666666,
@@ -8776,7 +8392,7 @@
     },
     {
       "valid_time": "2026-04-14T16:00:00-07:00",
-      "forecast_hour": 137,
+      "forecast_hour": 131,
       "surface": {
         "temperature_2m": 11.666666666666666,
         "temperature_surface": 11.666666666666666,
@@ -8840,7 +8456,7 @@
     },
     {
       "valid_time": "2026-04-14T17:00:00-07:00",
-      "forecast_hour": 138,
+      "forecast_hour": 132,
       "surface": {
         "temperature_2m": 11.11111111111111,
         "temperature_surface": 11.11111111111111,
@@ -8904,7 +8520,7 @@
     },
     {
       "valid_time": "2026-04-14T18:00:00-07:00",
-      "forecast_hour": 139,
+      "forecast_hour": 133,
       "surface": {
         "temperature_2m": 10.555555555555555,
         "temperature_surface": 10.555555555555555,
@@ -8968,7 +8584,7 @@
     },
     {
       "valid_time": "2026-04-14T19:00:00-07:00",
-      "forecast_hour": 140,
+      "forecast_hour": 134,
       "surface": {
         "temperature_2m": 10.555555555555555,
         "temperature_surface": 10.555555555555555,
@@ -9032,7 +8648,7 @@
     },
     {
       "valid_time": "2026-04-14T20:00:00-07:00",
-      "forecast_hour": 141,
+      "forecast_hour": 135,
       "surface": {
         "temperature_2m": 10.0,
         "temperature_surface": 10.0,
@@ -9096,7 +8712,7 @@
     },
     {
       "valid_time": "2026-04-14T21:00:00-07:00",
-      "forecast_hour": 142,
+      "forecast_hour": 136,
       "surface": {
         "temperature_2m": 10.0,
         "temperature_surface": 10.0,
@@ -9160,7 +8776,7 @@
     },
     {
       "valid_time": "2026-04-14T22:00:00-07:00",
-      "forecast_hour": 143,
+      "forecast_hour": 137,
       "surface": {
         "temperature_2m": 9.444444444444445,
         "temperature_surface": 9.444444444444445,
@@ -9224,7 +8840,7 @@
     },
     {
       "valid_time": "2026-04-14T23:00:00-07:00",
-      "forecast_hour": 144,
+      "forecast_hour": 138,
       "surface": {
         "temperature_2m": 9.444444444444445,
         "temperature_surface": 9.444444444444445,
@@ -9288,7 +8904,7 @@
     },
     {
       "valid_time": "2026-04-15T00:00:00-07:00",
-      "forecast_hour": 145,
+      "forecast_hour": 139,
       "surface": {
         "temperature_2m": 8.88888888888889,
         "temperature_surface": 8.88888888888889,
@@ -9352,7 +8968,7 @@
     },
     {
       "valid_time": "2026-04-15T01:00:00-07:00",
-      "forecast_hour": 146,
+      "forecast_hour": 140,
       "surface": {
         "temperature_2m": 8.88888888888889,
         "temperature_surface": 8.88888888888889,
@@ -9416,7 +9032,7 @@
     },
     {
       "valid_time": "2026-04-15T02:00:00-07:00",
-      "forecast_hour": 147,
+      "forecast_hour": 141,
       "surface": {
         "temperature_2m": 8.333333333333334,
         "temperature_surface": 8.333333333333334,
@@ -9480,7 +9096,7 @@
     },
     {
       "valid_time": "2026-04-15T03:00:00-07:00",
-      "forecast_hour": 148,
+      "forecast_hour": 142,
       "surface": {
         "temperature_2m": 8.333333333333334,
         "temperature_surface": 8.333333333333334,
@@ -9544,7 +9160,7 @@
     },
     {
       "valid_time": "2026-04-15T04:00:00-07:00",
-      "forecast_hour": 149,
+      "forecast_hour": 143,
       "surface": {
         "temperature_2m": 7.777777777777778,
         "temperature_surface": 7.777777777777778,
@@ -9608,7 +9224,7 @@
     },
     {
       "valid_time": "2026-04-15T05:00:00-07:00",
-      "forecast_hour": 150,
+      "forecast_hour": 144,
       "surface": {
         "temperature_2m": 7.777777777777778,
         "temperature_surface": 7.777777777777778,
@@ -9672,7 +9288,7 @@
     },
     {
       "valid_time": "2026-04-15T06:00:00-07:00",
-      "forecast_hour": 151,
+      "forecast_hour": 145,
       "surface": {
         "temperature_2m": 7.777777777777778,
         "temperature_surface": 7.777777777777778,
@@ -9736,7 +9352,7 @@
     },
     {
       "valid_time": "2026-04-15T07:00:00-07:00",
-      "forecast_hour": 152,
+      "forecast_hour": 146,
       "surface": {
         "temperature_2m": 7.777777777777778,
         "temperature_surface": 7.777777777777778,
@@ -9800,7 +9416,7 @@
     },
     {
       "valid_time": "2026-04-15T08:00:00-07:00",
-      "forecast_hour": 153,
+      "forecast_hour": 147,
       "surface": {
         "temperature_2m": 7.777777777777778,
         "temperature_surface": 7.777777777777778,
@@ -9864,7 +9480,7 @@
     },
     {
       "valid_time": "2026-04-15T09:00:00-07:00",
-      "forecast_hour": 154,
+      "forecast_hour": 148,
       "surface": {
         "temperature_2m": 7.777777777777778,
         "temperature_surface": 7.777777777777778,
@@ -9928,7 +9544,7 @@
     },
     {
       "valid_time": "2026-04-15T10:00:00-07:00",
-      "forecast_hour": 155,
+      "forecast_hour": 149,
       "surface": {
         "temperature_2m": 8.333333333333334,
         "temperature_surface": 8.333333333333334,
@@ -9986,6 +9602,390 @@
           "wind_speed": 10.72896,
           "wind_direction": 230,
           "relative_humidity": 27,
+          "height": 10363
+        }
+      }
+    },
+    {
+      "valid_time": "2026-04-15T11:00:00-07:00",
+      "forecast_hour": 150,
+      "surface": {
+        "temperature_2m": 8.88888888888889,
+        "temperature_surface": 8.88888888888889,
+        "wind_speed_10m": 3.57632,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -3.09709312,
+        "wind_v_10m": -1.78816,
+        "precipitation_rate": 0.46
+      },
+      "levels": {
+        "1000mb": {
+          "temperature": 8.38888888888889,
+          "wind_speed": 3.57632,
+          "wind_direction": 180,
+          "relative_humidity": 80,
+          "height": 110
+        },
+        "925mb": {
+          "temperature": 4.888888888888889,
+          "wind_speed": 3.933952,
+          "wind_direction": 185,
+          "relative_humidity": 75,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": -0.11111111111111072,
+          "wind_speed": 4.291583999999999,
+          "wind_direction": 190,
+          "relative_humidity": 70,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -10.11111111111111,
+          "wind_speed": 5.006848,
+          "wind_direction": 195,
+          "relative_humidity": 60,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -26.11111111111111,
+          "wind_speed": 6.437376,
+          "wind_direction": 205,
+          "relative_humidity": 45,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -46.111111111111114,
+          "wind_speed": 8.9408,
+          "wind_direction": 220,
+          "relative_humidity": 30,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -51.111111111111114,
+          "wind_speed": 10.72896,
+          "wind_direction": 230,
+          "relative_humidity": 25,
+          "height": 10363
+        }
+      }
+    },
+    {
+      "valid_time": "2026-04-15T12:00:00-07:00",
+      "forecast_hour": 151,
+      "surface": {
+        "temperature_2m": 9.444444444444445,
+        "temperature_surface": 9.444444444444445,
+        "wind_speed_10m": 3.57632,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -3.09709312,
+        "wind_v_10m": -1.78816,
+        "precipitation_rate": 0.46
+      },
+      "levels": {
+        "1000mb": {
+          "temperature": 8.944444444444445,
+          "wind_speed": 3.57632,
+          "wind_direction": 180,
+          "relative_humidity": 75,
+          "height": 110
+        },
+        "925mb": {
+          "temperature": 5.444444444444445,
+          "wind_speed": 3.933952,
+          "wind_direction": 185,
+          "relative_humidity": 70,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": 0.44444444444444464,
+          "wind_speed": 4.291583999999999,
+          "wind_direction": 190,
+          "relative_humidity": 65,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -9.555555555555555,
+          "wind_speed": 5.006848,
+          "wind_direction": 195,
+          "relative_humidity": 55,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -25.555555555555557,
+          "wind_speed": 6.437376,
+          "wind_direction": 205,
+          "relative_humidity": 40,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -45.55555555555556,
+          "wind_speed": 8.9408,
+          "wind_direction": 220,
+          "relative_humidity": 25,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -50.55555555555556,
+          "wind_speed": 10.72896,
+          "wind_direction": 230,
+          "relative_humidity": 20,
+          "height": 10363
+        }
+      }
+    },
+    {
+      "valid_time": "2026-04-15T13:00:00-07:00",
+      "forecast_hour": 152,
+      "surface": {
+        "temperature_2m": 10.555555555555555,
+        "temperature_surface": 10.555555555555555,
+        "wind_speed_10m": 3.57632,
+        "wind_direction_10m": 180,
+        "wind_u_10m": -3.09709312,
+        "wind_v_10m": -1.78816,
+        "precipitation_rate": 0.46
+      },
+      "levels": {
+        "1000mb": {
+          "temperature": 10.055555555555555,
+          "wind_speed": 3.57632,
+          "wind_direction": 180,
+          "relative_humidity": 70,
+          "height": 110
+        },
+        "925mb": {
+          "temperature": 6.555555555555555,
+          "wind_speed": 3.933952,
+          "wind_direction": 185,
+          "relative_humidity": 65,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": 1.5555555555555554,
+          "wind_speed": 4.291583999999999,
+          "wind_direction": 190,
+          "relative_humidity": 60,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -8.444444444444445,
+          "wind_speed": 5.006848,
+          "wind_direction": 195,
+          "relative_humidity": 50,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -24.444444444444443,
+          "wind_speed": 6.437376,
+          "wind_direction": 205,
+          "relative_humidity": 35,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -44.44444444444444,
+          "wind_speed": 8.9408,
+          "wind_direction": 220,
+          "relative_humidity": 20,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -49.44444444444444,
+          "wind_speed": 10.72896,
+          "wind_direction": 230,
+          "relative_humidity": 15,
+          "height": 10363
+        }
+      }
+    },
+    {
+      "valid_time": "2026-04-15T14:00:00-07:00",
+      "forecast_hour": 153,
+      "surface": {
+        "temperature_2m": 11.11111111111111,
+        "temperature_surface": 11.11111111111111,
+        "wind_speed_10m": 3.57632,
+        "wind_direction_10m": 225,
+        "wind_u_10m": -3.09709312,
+        "wind_v_10m": -1.78816,
+        "precipitation_rate": 0.46
+      },
+      "levels": {
+        "1000mb": {
+          "temperature": 10.61111111111111,
+          "wind_speed": 3.57632,
+          "wind_direction": 225,
+          "relative_humidity": 66,
+          "height": 110
+        },
+        "925mb": {
+          "temperature": 7.111111111111111,
+          "wind_speed": 3.933952,
+          "wind_direction": 230,
+          "relative_humidity": 61,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": 2.1111111111111107,
+          "wind_speed": 4.291583999999999,
+          "wind_direction": 235,
+          "relative_humidity": 56,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -7.888888888888889,
+          "wind_speed": 5.006848,
+          "wind_direction": 240,
+          "relative_humidity": 46,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -23.88888888888889,
+          "wind_speed": 6.437376,
+          "wind_direction": 250,
+          "relative_humidity": 31,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -43.888888888888886,
+          "wind_speed": 8.9408,
+          "wind_direction": 265,
+          "relative_humidity": 16,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -48.888888888888886,
+          "wind_speed": 10.72896,
+          "wind_direction": 275,
+          "relative_humidity": 11,
+          "height": 10363
+        }
+      }
+    },
+    {
+      "valid_time": "2026-04-15T15:00:00-07:00",
+      "forecast_hour": 154,
+      "surface": {
+        "temperature_2m": 11.11111111111111,
+        "temperature_surface": 11.11111111111111,
+        "wind_speed_10m": 3.57632,
+        "wind_direction_10m": 225,
+        "wind_u_10m": -3.09709312,
+        "wind_v_10m": -1.78816,
+        "precipitation_rate": 0.46
+      },
+      "levels": {
+        "1000mb": {
+          "temperature": 10.61111111111111,
+          "wind_speed": 3.57632,
+          "wind_direction": 225,
+          "relative_humidity": 65,
+          "height": 110
+        },
+        "925mb": {
+          "temperature": 7.111111111111111,
+          "wind_speed": 3.933952,
+          "wind_direction": 230,
+          "relative_humidity": 60,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": 2.1111111111111107,
+          "wind_speed": 4.291583999999999,
+          "wind_direction": 235,
+          "relative_humidity": 55,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -7.888888888888889,
+          "wind_speed": 5.006848,
+          "wind_direction": 240,
+          "relative_humidity": 45,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -23.88888888888889,
+          "wind_speed": 6.437376,
+          "wind_direction": 250,
+          "relative_humidity": 30,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -43.888888888888886,
+          "wind_speed": 8.9408,
+          "wind_direction": 265,
+          "relative_humidity": 15,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -48.888888888888886,
+          "wind_speed": 10.72896,
+          "wind_direction": 275,
+          "relative_humidity": 10,
+          "height": 10363
+        }
+      }
+    },
+    {
+      "valid_time": "2026-04-15T16:00:00-07:00",
+      "forecast_hour": 155,
+      "surface": {
+        "temperature_2m": 11.11111111111111,
+        "temperature_surface": 11.11111111111111,
+        "wind_speed_10m": 3.57632,
+        "wind_direction_10m": 225,
+        "wind_u_10m": -3.09709312,
+        "wind_v_10m": -1.78816,
+        "precipitation_rate": 0.46
+      },
+      "levels": {
+        "1000mb": {
+          "temperature": 10.61111111111111,
+          "wind_speed": 3.57632,
+          "wind_direction": 225,
+          "relative_humidity": 65,
+          "height": 110
+        },
+        "925mb": {
+          "temperature": 7.111111111111111,
+          "wind_speed": 3.933952,
+          "wind_direction": 230,
+          "relative_humidity": 60,
+          "height": 762
+        },
+        "850mb": {
+          "temperature": 2.1111111111111107,
+          "wind_speed": 4.291583999999999,
+          "wind_direction": 235,
+          "relative_humidity": 55,
+          "height": 1457
+        },
+        "700mb": {
+          "temperature": -7.888888888888889,
+          "wind_speed": 5.006848,
+          "wind_direction": 240,
+          "relative_humidity": 45,
+          "height": 3012
+        },
+        "500mb": {
+          "temperature": -23.88888888888889,
+          "wind_speed": 6.437376,
+          "wind_direction": 250,
+          "relative_humidity": 30,
+          "height": 5574
+        },
+        "300mb": {
+          "temperature": -43.888888888888886,
+          "wind_speed": 8.9408,
+          "wind_direction": 265,
+          "relative_humidity": 15,
+          "height": 9164
+        },
+        "250mb": {
+          "temperature": -48.888888888888886,
+          "wind_speed": 10.72896,
+          "wind_direction": 275,
+          "relative_humidity": 10,
           "height": 10363
         }
       }
